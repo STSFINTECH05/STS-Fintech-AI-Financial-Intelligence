@@ -1,0 +1,51 @@
+department_id,department_code,department_name,manager_name,location,annual_budget
+1,DEPT001,Information Technology,Aryan Maharaj,Mumbai,15576451.48
+2,DEPT002,Finance,Udant Dewan,Mumbai,31127785.25
+3,DEPT003,Human Resources,Gagan Sami,Bangalore,18256103.21
+4,DEPT004,Sales,Ayushman Chander,Chennai,69286451.31
+5,DEPT005,Marketing,Viraj Tiwari,Pune,13259189.1
+6,DEPT006,Procurement,Rushil Saini,Hyderabad,8019354.55
+7,DEPT007,Operations,Saumya Mall,Chennai,25770607.61
+8,DEPT008,Administration,Nathaniel Sami,Pune,62191779.26
+9,DEPT009,Research and Development,Arunima Dugal,Pune,23889576.82
+10,DEPT010,Legal,Gayathri Chaudry,Mumbai,71625872.49
+11,DEPT011,Customer Support,Lajita Chatterjee,Hyderabad,25941859.09
+12,DEPT012,Logistics,Hemangini Lalla,Pune,31428117.28
+13,DEPT013,Manufacturing,Tripti Yadav,Chennai,77086699.88
+14,DEPT014,Quality Assurance,Kritika Brar,Bangalore,71323242.52
+15,DEPT015,Engineering,Janaki Handa,Vellore,31397777.46
+16,DEPT016,Security,Chakradev Kari,Bangalore,95935241.86
+17,DEPT017,Business Development,Fariq Kaul,Vellore,14709976.27
+18,DEPT018,Supply Chain,Lajita Mall,Hyderabad,14188055.8
+19,DEPT019,Audit,Janya Gaba,Vellore,62353972.98
+20,DEPT020,Facilities,Isha Kadakia,Chennai,74324519.74
+21,DEPT021,Information Technology 2,Ekbal Garg,Pune,16858485.47
+22,DEPT022,Finance 2,Nihal Shere,Hyderabad,12486018.82
+23,DEPT023,Human Resources 2,Anamika Kanda,Vellore,83793443.1
+24,DEPT024,Sales 2,Daksh Karnik,Pune,89117916.05
+25,DEPT025,Marketing 2,Diya Rattan,Vellore,59848453.8
+26,DEPT026,Procurement 2,Dominic Kakar,Mumbai,11607739.14
+27,DEPT027,Operations 2,Simon Tata,Mumbai,26650336.19
+28,DEPT028,Administration 2,Tara Dhar,Vellore,98596044.46
+29,DEPT029,Research and Development 2,Liam Koshy,Bangalore,87315948.34
+30,DEPT030,Legal 2,Priya Rastogi,Hyderabad,31407492.3
+31,DEPT031,Customer Support 2,Theodore Devi,Mumbai,84240490.53
+32,DEPT032,Logistics 2,Gavin Batta,Bangalore,40167191.88
+33,DEPT033,Manufacturing 2,Michael Dutta,Bangalore,68666641.57
+34,DEPT034,Quality Assurance 2,Devansh Rajan,Mumbai,93982185.83
+35,DEPT035,Engineering 2,Upadhriti Wadhwa,Mumbai,11783238.41
+36,DEPT036,Security 2,Advay Contractor,Mumbai,21258171.58
+37,DEPT037,Business Development 2,Harini Choudhury,Mumbai,28257037.89
+38,DEPT038,Supply Chain 2,Radhika Dugar,Hyderabad,41048266.97
+39,DEPT039,Audit 2,Aarush Lall,Mumbai,70375386.05
+40,DEPT040,Facilities 2,Yashica Cherian,Bangalore,70038353.84
+41,DEPT041,Information Technology 3,Yashica Issac,Chennai,26759566.84
+42,DEPT042,Finance 3,Kashvi Edwin,Chennai,81479351.07
+43,DEPT043,Human Resources 3,Ekiya Suresh,Hyderabad,30435383.22
+44,DEPT044,Sales 3,Isaac Patil,Bangalore,91747931.8
+45,DEPT045,Marketing 3,Wriddhish Bhardwaj,Pune,88254924.51
+46,DEPT046,Procurement 3,Farhan Chada,Vellore,25199521.69
+47,DEPT047,Operations 3,Ekapad Walia,Hyderabad,42585030.6
+48,DEPT048,Administration 3,Kabir Soman,Mumbai,48590926.0
+49,DEPT049,Research and Development 3,Alka Wable,Vellore,18264880.35
+50,DEPT050,Legal 3,Siddharth Zacharia,Mumbai,58329972.75

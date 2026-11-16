@@ -1,0 +1,43 @@
+{
+  "version": "2.0.0",
+  "generation_timestamp": "2026-11-12T10:37:26.046837",
+  "generator_script": "ml/data_generator_v2.py",
+  "seed": 42,
+  "date_range": [
+    "2024-01-01",
+    "2026-12-31"
+  ],
+  "target_scale": {
+    "departments": 50,
+    "employees": 5000,
+    "vendors": 2000,
+    "transactions": 59834,
+    "invoices": 10000,
+    "bills": 10000,
+    "budgets": 1800,
+    "budget_snapshots": 5400,
+    "salaries": 68292
+  },
+  "checksums": {
+    "departments.csv": "737ebd9a5d2441ce190b26bcfc5da8bddd80f49a338058cb75fc672ea808ce96",
+    "employees.csv": "b2dc876a313022a770c37c2b0098fa5c80fb61d92ec3e300e993e8f9d344e91d",
+    "vendors.csv": "8812e29307f58003a4de600b63268a8edceec80ad131217f4720e0a433b25954",
+    "salaries.csv": "9e5ddfd5fad7d2dc538b68f20ad2704418620b24998b98b37a2e0a069a3ff476",
+    "transactions.csv": "533f78a153032a0da5be45bec84d6a2f3018e6eb79c5b59b8be4c3b2bb5d0a82",
+    "invoices.csv": "bfdf112d48ff88d8f108cbbe9df7aaba889ebfe91faf4c55a8c6587c71a01ba4",
+    "bills.csv": "f1c652f8498ba8d61f5cb7ffec879f83cc205608637c9abd999bb069329fe5bb",
+    "budgets.csv": "f52bc533b8dac1a34cd2d5728c7320fce527e50c939fa8532ce8069a65842a7a",
+    "budget_snapshots.csv": "15f4f7ff6e69ac13ea13aa6281ce1cfeaa7a45c20815c54a4e2c71fe2743a110"
+  },
+  "row_counts": {
+    "departments.csv": 50,
+    "employees.csv": 5000,
+    "vendors.csv": 2000,
+    "salaries.csv": 68292,
+    "transactions.csv": 59834,
+    "invoices.csv": 10000,
+    "bills.csv": 10000,
+    "budgets.csv": 1800,
+    "budget_snapshots.csv": 5400
+  }
+}

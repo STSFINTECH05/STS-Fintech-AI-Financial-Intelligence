@@ -1,0 +1,121 @@
+{
+  "model_name": "expense_forecaster",
+  "model_version": "1.0.0",
+  "algorithm": "HistGradientBoostingRegressor",
+  "dataset_source": "data/raw/transactions.csv (Enterprise Daily Aggregation)",
+  "training_timestamp": "2026-11-12T15:12:32.686952",
+  "sha256_checksum": "afbb6be4fb0b42f5ba2d323ade5829815e75750cb9f128b4bdc37356742dd582",
+  "date_boundaries": {
+    "dataset_start": "2024-01-01",
+    "dataset_end": "2026-10-31",
+    "training_period": [
+      "2024-01-31",
+      "2026-03-31"
+    ],
+    "validation_period": [
+      "2026-04-01",
+      "2026-07-31"
+    ],
+    "test_period": [
+      "2026-08-01",
+      "2026-10-31"
+    ]
+  },
+  "sample_counts": {
+    "total_days": 1035,
+    "train_days": 791,
+    "validation_days": 122,
+    "test_days": 92
+  },
+  "features": [
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "quarter",
+    "is_weekend",
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_30",
+    "rolling_mean_7",
+    "rolling_std_7",
+    "rolling_mean_30",
+    "rolling_std_30"
+  ],
+  "hyperparameters": {
+    "loss": "absolute_error",
+    "max_iter": 100,
+    "max_depth": 4,
+    "min_samples_leaf": 30,
+    "l2_regularization": 10.0,
+    "random_state": 42
+  },
+  "validation_metrics": {
+    "HistGradientBoostingRegressor": {
+      "MAE": 56802.097290078316,
+      "RMSE": 158122.41425699525,
+      "MAPE": 94.18123441985585,
+      "WAPE": 59.0756437280462
+    },
+    "RidgeRegression": {
+      "MAE": 64334.03101302499,
+      "RMSE": 158288.89440789106,
+      "MAPE": 128.11903477970375,
+      "WAPE": 66.90904873293104
+    },
+    "SeasonalNaive7": {
+      "MAE": 83608.40467213115,
+      "RMSE": 225507.45266490662,
+      "MAPE": 146.5993703723706,
+      "WAPE": 86.95489361699805
+    },
+    "Naive1": {
+      "MAE": 83603.39016393443,
+      "RMSE": 216232.21167658223,
+      "MAPE": 119.22369023003128,
+      "WAPE": 86.94967839935937
+    }
+  },
+  "test_metrics": {
+    "daily": {
+      "MAE": 44038.931823829276,
+      "RMSE": 62955.64438452233,
+      "MAPE": 57.1738740189684,
+      "WAPE": 45.956389755094115
+    },
+    "weekly_aggregated": {
+      "MAE": 129442.62803434119,
+      "WAPE": 20.555434322574644
+    },
+    "monthly_aggregated": {
+      "MAE": 412394.0015192285,
+      "WAPE": 14.033141182720922
+    },
+    "comparison": {
+      "HistGradientBoosting": {
+        "MAE": 44038.931823829276,
+        "RMSE": 62955.64438452233,
+        "MAPE": 57.1738740189684,
+        "WAPE": 45.956389755094115
+      },
+      "RidgeRegression": {
+        "MAE": 53772.28786680155,
+        "RMSE": 65536.34531984566,
+        "MAPE": 88.57655119078083,
+        "WAPE": 56.11353674778973
+      },
+      "SeasonalNaive7": {
+        "MAE": 65850.61608695654,
+        "RMSE": 88809.58733538455,
+        "MAPE": 85.63703488632879,
+        "WAPE": 68.7177561574677
+      }
+    }
+  },
+  "supported_forecast_horizons": [
+    7,
+    14,
+    30
+  ],
+  "caveat": "Trained on synthetic transaction data with uniform Poisson arrival and lognormal amounts. Outperforms naive baselines by ~34% MAE reduction due to L1 robustness against anomaly spikes. Projections beyond 2026-10-31 reflect synthetic statistical patterns and should not be presented as production customer actuals."
+}

@@ -1,0 +1,51 @@
+department_id,department_code,department_name,division,manager_name,location,annual_budget_baseline
+1,DEPT001,Core Engineering,Technology,Aditi Sharma,Pune,47693551.48
+2,DEPT002,Cloud Platform Operations,Technology,Deepak Sharma,Bangalore,52867262.99
+3,DEPT003,Data Platform & Analytics,Technology,Siddharth Bose,Kochi,37421120.51
+4,DEPT004,DevOps & SRE,Technology,Aditi Bose,Mumbai,30164413.65
+5,DEPT005,Cybersecurity Operations,Technology,Varun Agarwal,Coimbatore,26828626.25
+6,DEPT006,Quality Engineering,Technology,Vikram Sen,Coimbatore,20893607.08
+7,DEPT007,Mobile Application Dev,Technology,Ramesh Ranganathan,Pune,25121998.88
+8,DEPT008,Frontend Web Platforms,Technology,Aarav Singh,Hyderabad,26456582.74
+9,DEPT009,Backend API Services,Technology,Neha Kapoor,Hyderabad,34385115.16
+10,DEPT010,AI Research & Modeling,Technology,Neha Chawla,Bangalore,38153137.62
+11,DEPT011,Corporate Finance,Finance & Admin,Nikhil Verma,Delhi NCR,17909672.85
+12,DEPT012,Financial Accounting,Finance & Admin,Ajay Sharma,Ahmedabad,15763972.62
+13,DEPT013,Treasury & Investments,Finance & Admin,Pranav Bose,Coimbatore,20681140.46
+14,DEPT014,Taxation & Regulatory,Finance & Admin,Vidya Rao,Delhi NCR,13626123.98
+15,DEPT015,Internal Financial Audit,Finance & Admin,Ananya Balasubramanian,Mumbai,12532056.44
+16,DEPT016,Financial Planning & Budgeting,Finance & Admin,Anil Verma,Mumbai,17492273.36
+17,DEPT017,Talent Acquisition,Human Resources,Pranav Kapoor,Ahmedabad,27915522.92
+18,DEPT018,Employee Experience,Human Resources,Pooja Gupta,Delhi NCR,19060580.0
+19,DEPT019,Learning & Org Development,Human Resources,Vishal Kapoor,Bangalore,14832265.13
+20,DEPT020,Total Rewards & Payroll,Human Resources,Gaurav Prasad,Mumbai,21045655.03
+21,DEPT021,HR Operations & Systems,Human Resources,Pranav Kapoor,Coimbatore,15053609.98
+22,DEPT022,Enterprise Accounts Sales,Commercial,Manoj Sundaram,Chennai,47745189.67
+23,DEPT023,Commercial Sales South,Commercial,Ajay Srinivasan,Delhi NCR,36375956.68
+24,DEPT024,Commercial Sales West,Commercial,Ananya Iyer,Kochi,42012230.26
+25,DEPT025,Commercial Sales North,Commercial,Manoj Iyer,Ahmedabad,44763676.26
+26,DEPT026,Global Business Development,Commercial,Vikram Nair,Hyderabad,34961779.13
+27,DEPT027,Client Account Management,Commercial,Kavita Sharma,Coimbatore,27054161.17
+28,DEPT028,Pre-Sales Technical Solutions,Commercial,Swati Murthy,Kochi,22764375.09
+29,DEPT029,Brand & Communications,Marketing,Karthik Deshmukh,Coimbatore,29995503.79
+30,DEPT030,Digital & Growth Marketing,Marketing,Amit Verma,Bangalore,46052053.14
+31,DEPT031,Product Marketing,Marketing,Gaurav Srinivasan,Kolkata,23455258.25
+32,DEPT032,Content & Creative Studio,Marketing,Pranav Menon,Kochi,18883840.64
+33,DEPT033,Events & Sponsorships,Marketing,Shreya Kapoor,Coimbatore,32172849.66
+34,DEPT034,Strategic Sourcing,Procurement & Supply,Aarav Saxena,Bangalore,22303898.51
+35,DEPT035,Vendor Operations,Procurement & Supply,Siddharth Singh,Pune,17126841.48
+36,DEPT036,IT Asset Procurement,Procurement & Supply,Neha Chawla,Pune,38225238.91
+37,DEPT037,Corporate Logistics,Procurement & Supply,Ritu Agarwal,Pune,18156443.63
+38,DEPT038,Real Estate & Facilities,Workplace Ops,Gayatri Pillai,Bangalore,68578321.48
+39,DEPT039,Office Administration,Workplace Ops,Meera Sundaram,Coimbatore,24587852.13
+40,DEPT040,Physical Security Ops,Workplace Ops,Divya Mehta,Hyderabad,18940365.95
+41,DEPT041,Corporate Travel Desk,Workplace Ops,Shreya Yadav,Chennai,24836274.18
+42,DEPT042,Legal & Corporate Secretarial,Legal & Compliance,Sandhya Agarwal,Bangalore,23094195.21
+43,DEPT043,Ethics & Regulatory Compliance,Legal & Compliance,Meera Jain,Chennai,18116394.47
+44,DEPT044,Enterprise Risk Management,Legal & Compliance,Suresh Bose,Bangalore,14403268.47
+45,DEPT045,Customer Success Tier 1,Operations,Ananya Singh,Coimbatore,28157399.37
+46,DEPT046,Customer Success Tier 2,Operations,Deepak Saxena,Ahmedabad,26195006.58
+47,DEPT047,Customer Implementation,Operations,Gaurav Kapoor,Coimbatore,31827940.76
+48,DEPT048,Technical Support Desk,Operations,Rajesh Iyer,Coimbatore,22362165.21
+49,DEPT049,Product Architecture,Product & Design,Harish Sen,Pune,27220407.48
+50,DEPT050,UI/UX Product Design,Product & Design,Vishal Reddy,Delhi NCR,17995465.35

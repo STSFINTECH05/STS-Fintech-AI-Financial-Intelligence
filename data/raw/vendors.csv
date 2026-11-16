@@ -1,0 +1,2001 @@
+vendor_id,vendor_name,vendor_category,location,contact_email,risk_level,payment_terms_days,vendor_rating,status
+VEN00001,Mutti-Chowdhury,Cloud Services,Bangalore,ishwarsalvi@kala.net,LOW,60,2.64,ACTIVE
+VEN00002,Keer Group,Facilities,Pune,jjhaveri@suresh.org,LOW,15,3.43,ACTIVE
+VEN00003,"Hans, Dhillon and Khosla",Telecommunications,Delhi,baliaarna@keer.info,LOW,15,2.66,ACTIVE
+VEN00004,Venkataraman-Mukhopadhyay,Telecommunications,Hyderabad,zsama@varughese-sankar.info,LOW,60,2.8,ACTIVE
+VEN00005,"Lata, Chaudhari and Ramaswamy",Software,Chennai,vrittichakrabarti@barad.com,LOW,45,4.29,ACTIVE
+VEN00006,Shankar LLC,Marketing,Hyderabad,om97@ratta-barad.com,LOW,15,3.69,ACTIVE
+VEN00007,Parmar-Varghese,Software,Hyderabad,aayush81@luthra.com,MEDIUM,90,4.83,ACTIVE
+VEN00008,Sarna-Gokhale,IT Services,Bangalore,munitanish@raghavan.biz,LOW,30,2.76,ACTIVE
+VEN00009,"Raj, Dani and Chaudry",Security,Hyderabad,libni03@borra-chakraborty.net,LOW,15,3.28,ACTIVE
+VEN00010,"Ganesan, Ratta and Bains",Travel,Mumbai,harita54@panchal-kuruvilla.com,LOW,15,3.68,ACTIVE
+VEN00011,"Rao, Tella and Koshy",Transportation,Chennai,wtoor@kata-tata.info,MEDIUM,60,4.75,ACTIVE
+VEN00012,Loke Inc,Transportation,Chennai,binamahajan@murty.org,LOW,45,3.41,ACTIVE
+VEN00013,Roy-Samra,Consulting,Chennai,andravihaan@chadha.org,MEDIUM,30,4.9,ACTIVE
+VEN00014,Devan-Doshi,Telecommunications,Bangalore,odoctor@puri.com,MEDIUM,45,3.41,ACTIVE
+VEN00015,"Chaudhary, Saxena and Johal",Software,Delhi,owali@pillai.info,MEDIUM,45,4.36,ACTIVE
+VEN00016,Hari LLC,Software,Mumbai,chadaniharika@patel.com,LOW,60,2.98,ACTIVE
+VEN00017,Sabharwal Ltd,Professional Services,Bangalore,anirudh34@krishnamurthy.info,LOW,30,3.78,ACTIVE
+VEN00018,Bandi-Aurora,Professional Services,Mumbai,zgera@narayanan-nayak.com,LOW,45,2.55,ACTIVE
+VEN00019,Golla-Pant,Maintenance,Mumbai,bhavani96@narayan-memon.com,LOW,45,2.95,ACTIVE
+VEN00020,Soni Ltd,Hardware,Mumbai,radhika27@ganguly-tella.com,MEDIUM,15,2.66,ACTIVE
+VEN00021,Choudhury Group,Marketing,Chennai,sekhonsamarth@mohan-shenoy.org,LOW,30,3.49,ACTIVE
+VEN00022,"Mane, Nagar and Gour",Maintenance,Chennai,dhritidalal@kala-kari.com,MEDIUM,60,4.03,ACTIVE
+VEN00023,Mallick-Varkey,Telecommunications,Pune,rchand@batra.info,MEDIUM,60,3.71,ACTIVE
+VEN00024,Shroff PLC,Legal Services,Chennai,dassbhanumati@nazareth.com,MEDIUM,30,3.16,ACTIVE
+VEN00025,"Khatri, Baria and Madan",Transportation,Mumbai,baghyawati14@korpal.com,LOW,45,3.87,ACTIVE
+VEN00026,Jaggi Ltd,Cloud Services,Mumbai,vasudhagara@warrior.biz,MEDIUM,15,4.21,ACTIVE
+VEN00027,"Swamy, Dash and Joshi",Consulting,Bangalore,devioeshi@radhakrishnan-mahal.info,LOW,15,3.93,ACTIVE
+VEN00028,"Sodhi, Char and Butala",Legal Services,Mumbai,zarna82@bhattacharyya.com,LOW,45,4.34,ACTIVE
+VEN00029,"Vig, Mall and Bora",Software,Hyderabad,surajai@saha.com,LOW,60,4.85,ACTIVE
+VEN00030,Rattan-Kurian,Marketing,Bangalore,lakshmi11@thaman.org,LOW,45,4.09,ACTIVE
+VEN00031,Patil-Mitter,Cloud Services,Mumbai,chasmumsuri@varty.com,LOW,30,2.86,ACTIVE
+VEN00032,"Goyal, Khosla and Taneja",Maintenance,Chennai,jmaster@tandon.com,LOW,45,4.05,ACTIVE
+VEN00033,Dara-Din,Marketing,Chennai,xavier25@dugar.net,MEDIUM,60,4.41,ACTIVE
+VEN00034,Gade and Sons,Facilities,Mumbai,ksubramanian@bhasin.biz,HIGH,30,4.91,ACTIVE
+VEN00035,"Bahl, Divan and Sani",Transportation,Delhi,samar83@patel.biz,MEDIUM,90,3.9,ACTIVE
+VEN00036,Rau-Wagle,Marketing,Bangalore,ikbalagarwal@gulati.info,LOW,45,2.62,ACTIVE
+VEN00037,Bail Group,Marketing,Chennai,korpalvinaya@bhat.biz,HIGH,30,3.1,ACTIVE
+VEN00038,"Saran, Kar and Gala",Legal Services,Pune,tarabakhshi@varma.net,MEDIUM,30,4.55,ACTIVE
+VEN00039,Dubey-Saran,Hardware,Delhi,imodi@rout-goda.org,LOW,90,4.99,ACTIVE
+VEN00040,Palan-Bhargava,Office Supplies,Hyderabad,rmangat@oak-rana.com,LOW,60,4.37,ACTIVE
+VEN00041,Deol-Sane,Software,Chennai,xrana@majumdar.com,HIGH,90,2.92,ACTIVE
+VEN00042,"Chauhan, Sekhon and Madan",Transportation,Hyderabad,ksood@aggarwal-baria.com,MEDIUM,30,3.78,ACTIVE
+VEN00043,Nath-Deo,Professional Services,Bangalore,darshgrewal@gola-ranganathan.org,LOW,15,3.57,ACTIVE
+VEN00044,Bhardwaj and Sons,Telecommunications,Bangalore,lopakumer@garg-prabhu.info,MEDIUM,15,3.78,ACTIVE
+VEN00045,Khurana Inc,Facilities,Pune,shenoyaarna@raj.com,LOW,45,3.41,ACTIVE
+VEN00046,Sant PLC,Cloud Services,Delhi,manan24@ratta-srinivas.com,LOW,60,3.63,ACTIVE
+VEN00047,Dass LLC,Software,Pune,vasatikabakshi@parmar.biz,MEDIUM,60,2.52,ACTIVE
+VEN00048,"Reddy, Joshi and Hari",Marketing,Chennai,waidasaraf@kalla.com,LOW,30,4.03,ACTIVE
+VEN00049,Walia LLC,Facilities,Bangalore,xdutta@kashyap.com,LOW,45,3.91,ACTIVE
+VEN00050,Goda-Grewal,Travel,Pune,sarthak10@karnik.info,LOW,30,2.71,ACTIVE
+VEN00051,"Bera, Amble and Muni",Consulting,Bangalore,sarthakkrishnamurthy@jayaraman.info,LOW,30,4.28,ACTIVE
+VEN00052,Loke and Sons,Security,Delhi,virajhegde@dasgupta.com,MEDIUM,45,4.95,ACTIVE
+VEN00053,"Mand, Peri and Rastogi",Professional Services,Pune,dattajagvi@sur.info,LOW,45,4.3,ACTIVE
+VEN00054,Sarraf Inc,Facilities,Pune,ishaan76@rajan.biz,LOW,45,2.76,ACTIVE
+VEN00055,Pingle-Parikh,Hardware,Delhi,chasmum21@suri-zacharia.com,LOW,15,4.39,ACTIVE
+VEN00056,Dugar-Saran,Cloud Services,Hyderabad,ayushman53@dhillon.org,LOW,90,3.85,ACTIVE
+VEN00057,Vig-Wagle,Software,Hyderabad,samarth42@kala.org,LOW,45,3.21,ACTIVE
+VEN00058,Sidhu-Vasa,Security,Bangalore,siddharthbuch@pradhan.com,MEDIUM,15,3.5,ACTIVE
+VEN00059,Uppal LLC,Cloud Services,Bangalore,zpai@buch-balan.com,LOW,15,3.03,ACTIVE
+VEN00060,Apte-Randhawa,Cloud Services,Pune,vsaraf@viswanathan.biz,LOW,60,4.7,ACTIVE
+VEN00061,"Shankar, Kapoor and Mishra",Office Supplies,Pune,esahni@mishra.org,LOW,30,4.9,ACTIVE
+VEN00062,"Wali, Sangha and Koshy",Transportation,Bangalore,ishitachakraborty@acharya.com,MEDIUM,30,3.63,ACTIVE
+VEN00063,Mukherjee and Sons,Telecommunications,Hyderabad,kraj@chauhan.com,MEDIUM,60,3.78,ACTIVE
+VEN00064,"Rattan, Khurana and Sathe",Software,Bangalore,samesh96@kurian.com,LOW,15,3.23,ACTIVE
+VEN00065,"Mani, Amble and Iyer",Office Supplies,Hyderabad,ekani46@saran-pillai.com,MEDIUM,90,3.2,ACTIVE
+VEN00066,Singhal Inc,Consulting,Hyderabad,ckalla@doctor.com,LOW,45,3.66,ACTIVE
+VEN00067,Dhingra Ltd,Professional Services,Chennai,yjani@puri.com,LOW,45,3.04,ACTIVE
+VEN00068,"Ramakrishnan, Shenoy and Jayaraman",Transportation,Chennai,onkarjayaraman@tiwari-seth.com,LOW,60,3.97,ACTIVE
+VEN00069,"Kala, Bhattacharyya and Sandhu",Legal Services,Pune,zahluwalia@dasgupta.org,LOW,45,2.96,ACTIVE
+VEN00070,Mittal PLC,Consulting,Bangalore,urandhawa@bajaj.com,LOW,30,4.08,ACTIVE
+VEN00071,More-Modi,Transportation,Mumbai,qhora@varkey-parikh.org,MEDIUM,90,4.39,ACTIVE
+VEN00072,Mammen-Chand,Transportation,Pune,ysankar@bajaj.com,LOW,90,4.88,ACTIVE
+VEN00073,Chatterjee-Sachdeva,Consulting,Mumbai,jasmit81@mangal.info,MEDIUM,90,4.13,ACTIVE
+VEN00074,Magar Group,Marketing,Delhi,qmital@kala-kaur.net,LOW,45,3.74,ACTIVE
+VEN00075,Bhandari-Nanda,Professional Services,Hyderabad,yachanabalan@narula.com,MEDIUM,45,4.17,ACTIVE
+VEN00076,Halder Group,IT Services,Delhi,shivani71@wadhwa.com,LOW,45,4.48,ACTIVE
+VEN00077,Mahal-Korpal,IT Services,Chennai,isha09@trivedi-nagar.org,MEDIUM,30,2.97,ACTIVE
+VEN00078,Thakur Inc,Transportation,Bangalore,vdugar@bhardwaj-doctor.com,LOW,60,3.61,ACTIVE
+VEN00079,Vaidya PLC,Software,Mumbai,zmand@gandhi.com,LOW,45,3.87,ACTIVE
+VEN00080,Parmar LLC,Maintenance,Bangalore,lnarayan@grover.com,LOW,45,3.96,ACTIVE
+VEN00081,Balay-Keer,Office Supplies,Delhi,abhatt@bath.com,LOW,30,4.81,ACTIVE
+VEN00082,Mannan-Raj,Telecommunications,Pune,tacharya@bhargava.biz,HIGH,30,2.51,ACTIVE
+VEN00083,Sastry-Majumdar,Hardware,Delhi,vsani@das.com,LOW,15,4.65,ACTIVE
+VEN00084,Goel Inc,Security,Chennai,chaitanya39@ravel.net,LOW,15,4.31,ACTIVE
+VEN00085,Thakkar-Boase,Legal Services,Hyderabad,basakchasmum@murthy.org,MEDIUM,90,3.75,ACTIVE
+VEN00086,Kale and Sons,Facilities,Bangalore,karan86@rattan.com,LOW,15,3.95,ACTIVE
+VEN00087,"Murthy, Mutti and Acharya",Office Supplies,Mumbai,ganeshhamsini@hans-venkataraman.com,LOW,15,2.51,ACTIVE
+VEN00088,Balasubramanian Inc,Professional Services,Hyderabad,chaitalypandya@chandra-chanda.com,LOW,30,2.99,ACTIVE
+VEN00089,"Bhakta, Rajan and Chana",Consulting,Pune,jack36@prakash.com,LOW,90,2.7,ACTIVE
+VEN00090,Chandran Ltd,IT Services,Pune,nishawalia@bumb-thaker.biz,LOW,90,2.83,ACTIVE
+VEN00091,"Tailor, Bose and Subramanian",Telecommunications,Hyderabad,yadavadvay@mukhopadhyay.com,LOW,45,2.72,ACTIVE
+VEN00092,"Pau, Badal and Swaminathan",IT Services,Pune,samifiyaz@kannan.com,MEDIUM,30,3.7,ACTIVE
+VEN00093,Hayer LLC,Security,Bangalore,nihal20@lanka.com,MEDIUM,60,3.93,ACTIVE
+VEN00094,Bora-Sinha,Hardware,Hyderabad,hpatil@palla.info,MEDIUM,90,3.12,ACTIVE
+VEN00095,Zachariah-Amble,Hardware,Hyderabad,gratta@golla.com,LOW,45,4.82,ACTIVE
+VEN00096,"Bali, Karpe and Bhargava",Office Supplies,Delhi,eprabhakar@nadkarni-swaminathan.com,MEDIUM,30,2.95,ACTIVE
+VEN00097,Choudhary Inc,Office Supplies,Mumbai,pbava@bumb.com,LOW,15,4.64,ACTIVE
+VEN00098,"Karpe, Kant and Hayre",Maintenance,Delhi,gopalekta@trivedi-tandon.org,LOW,15,3.08,ACTIVE
+VEN00099,"Deshmukh, Bhargava and Sanghvi",Hardware,Hyderabad,timothycontractor@om-sani.net,LOW,15,4.47,ACTIVE
+VEN00100,"Tiwari, Cheema and Bahri",IT Services,Delhi,kchokshi@bava-mani.com,LOW,30,3.23,ACTIVE
+VEN00101,Padmanabhan and Sons,IT Services,Hyderabad,bhattacharyyalohit@kalla.com,LOW,90,4.49,ACTIVE
+VEN00102,"Das, Ravel and Mahal",Consulting,Hyderabad,aryazehaan@ray-basak.net,LOW,15,3.85,ACTIVE
+VEN00103,"Borra, Tata and Chaudry",Software,Mumbai,balvan83@sandal-nanda.com,LOW,30,2.85,ACTIVE
+VEN00104,Pandey-Balan,Telecommunications,Hyderabad,lapte@natarajan.biz,LOW,60,4.91,ACTIVE
+VEN00105,Shan LLC,IT Services,Hyderabad,mitali69@kannan.info,LOW,60,4.92,ACTIVE
+VEN00106,Dhar-Mahal,Transportation,Hyderabad,modyluke@babu.info,LOW,15,2.76,ACTIVE
+VEN00107,"Savant, Sankar and Gola",Maintenance,Chennai,rayaan84@ravi-ramakrishnan.org,LOW,90,4.75,ACTIVE
+VEN00108,Pai and Sons,Travel,Delhi,charmahika@tandon-dewan.net,LOW,90,4.3,ACTIVE
+VEN00109,"Rattan, Dasgupta and Singh",Travel,Delhi,keya85@atwal.com,LOW,45,4.03,ACTIVE
+VEN00110,"Sehgal, Rama and Chad",Hardware,Pune,ramakrishnanlila@zachariah.biz,MEDIUM,15,2.86,ACTIVE
+VEN00111,Gupta LLC,Marketing,Hyderabad,anamikaratta@sachar.com,LOW,45,3.8,ACTIVE
+VEN00112,Pingle-Radhakrishnan,Travel,Mumbai,widishaswaminathan@merchant.com,MEDIUM,30,4.96,ACTIVE
+VEN00113,Tank-Deo,Facilities,Pune,gabrieldivan@divan-mahal.com,LOW,90,4.8,ACTIVE
+VEN00114,Oak and Sons,Cloud Services,Pune,madhavi00@nagi.org,LOW,45,3.28,ACTIVE
+VEN00115,Bhatnagar-Sethi,Legal Services,Bangalore,hritikpathak@nori.com,MEDIUM,90,4.22,ACTIVE
+VEN00116,"Parsa, Kari and Narayanan",Facilities,Mumbai,gaganguha@dani.com,LOW,90,4.4,ACTIVE
+VEN00117,Badal-Narayan,Consulting,Delhi,bhavyadixit@doctor.com,LOW,90,3.26,ACTIVE
+VEN00118,Chada and Sons,Legal Services,Pune,aarna31@borde-mand.com,LOW,15,3.67,ACTIVE
+VEN00119,"Sunder, Vala and Kapadia",Software,Hyderabad,ronith77@dora.com,MEDIUM,15,3.08,ACTIVE
+VEN00120,Contractor Group,Travel,Bangalore,vedantchanda@swamy.org,LOW,30,4.76,ACTIVE
+VEN00121,"Varughese, Buch and Thakkar",Marketing,Bangalore,aurorabrijesh@rajagopal.com,LOW,60,2.95,ACTIVE
+VEN00122,Padmanabhan-Sheth,Transportation,Chennai,rkalla@pathak-thaman.info,HIGH,15,3.43,ACTIVE
+VEN00123,Mandal-Palan,Security,Pune,omishakala@mital.net,MEDIUM,60,3.55,ACTIVE
+VEN00124,Hayre Ltd,Telecommunications,Chennai,udixit@merchant-grewal.com,HIGH,45,4.17,ACTIVE
+VEN00125,"Nagy, Jain and Narain",Security,Delhi,birunnati@grover.com,LOW,15,2.66,ACTIVE
+VEN00126,Krishnamurthy LLC,Transportation,Bangalore,victor88@vaidya.com,MEDIUM,15,2.78,ACTIVE
+VEN00127,Lala Group,Facilities,Pune,bsolanki@radhakrishnan-basu.net,LOW,90,4.05,ACTIVE
+VEN00128,Zachariah PLC,Consulting,Hyderabad,umistry@tella.com,LOW,15,4.06,ACTIVE
+VEN00129,Sodhi LLC,Professional Services,Pune,ekbalkale@ramakrishnan.com,LOW,90,3.34,ACTIVE
+VEN00130,Deshpande-Randhawa,Maintenance,Bangalore,girishbanerjee@merchant-butala.com,LOW,60,3.56,ACTIVE
+VEN00131,Kannan-Aggarwal,Security,Chennai,auroralila@mall.com,LOW,15,3.05,ACTIVE
+VEN00132,Raja LLC,Maintenance,Mumbai,triya44@kala.org,LOW,15,4.25,ACTIVE
+VEN00133,"Srinivas, Chatterjee and Das",Marketing,Hyderabad,utkarsh33@seshadri-gala.org,LOW,15,4.56,ACTIVE
+VEN00134,Sibal-Balakrishnan,IT Services,Delhi,bakshichakradev@jha.com,LOW,30,2.95,ACTIVE
+VEN00135,Taneja-Patla,Telecommunications,Mumbai,odika18@toor.net,LOW,60,3.37,ACTIVE
+VEN00136,Bera-De,Transportation,Hyderabad,perimitesh@kumer-kalla.info,MEDIUM,45,2.7,ACTIVE
+VEN00137,Kanda-Varma,Security,Hyderabad,vrittimani@bath.com,LOW,90,2.8,ACTIVE
+VEN00138,Ganesh and Sons,Marketing,Delhi,ekantalalla@baria.com,LOW,45,4.65,ACTIVE
+VEN00139,Jhaveri-Dalal,Software,Delhi,tejas68@mukherjee-sharaf.info,LOW,45,3.21,ACTIVE
+VEN00140,"Taneja, Kumer and Ahuja",Travel,Delhi,obadami@rajan-roy.com,LOW,15,4.73,ACTIVE
+VEN00141,Arora-Aggarwal,Facilities,Bangalore,tpurohit@edwin.com,LOW,90,4.28,ACTIVE
+VEN00142,Golla Ltd,Security,Hyderabad,jaikala@sagar.info,LOW,45,4.04,ACTIVE
+VEN00143,"Lal, Sarraf and Deol",IT Services,Hyderabad,tlal@jha.com,LOW,15,2.58,ACTIVE
+VEN00144,Parsa-Sankar,IT Services,Delhi,balhaarratti@ranganathan-bali.com,LOW,60,4.03,ACTIVE
+VEN00145,"Pandey, Kata and Chandra",Software,Hyderabad,samakshkrishnan@lalla.net,LOW,30,2.97,ACTIVE
+VEN00146,"Malhotra, Chand and Chowdhury",Facilities,Bangalore,rachita51@lal.com,LOW,60,3.97,ACTIVE
+VEN00147,Ramachandran Ltd,Hardware,Bangalore,unnichakrabarti@bahl-mohanty.net,LOW,60,3.22,ACTIVE
+VEN00148,"Kar, Puri and Krishnan",Hardware,Pune,chackonirja@nigam.net,LOW,15,3.62,ACTIVE
+VEN00149,"Pradhan, Kuruvilla and Ganesan",IT Services,Mumbai,koshyxalak@hora.biz,LOW,90,3.92,ACTIVE
+VEN00150,Ramesh LLC,Legal Services,Delhi,fgoel@shenoy-sane.net,LOW,90,2.79,ACTIVE
+VEN00151,Soni-Sura,Cloud Services,Delhi,shaurya58@bora-joshi.com,LOW,90,2.76,ACTIVE
+VEN00152,Sunder LLC,Marketing,Delhi,palthomas@bajwa.biz,LOW,15,4.51,ACTIVE
+VEN00153,De-Handa,Consulting,Hyderabad,agastyasuri@contractor-patla.com,LOW,15,3.85,ACTIVE
+VEN00154,Chandra Inc,Consulting,Bangalore,kapurhitesh@morar-vora.com,MEDIUM,45,3.95,ACTIVE
+VEN00155,Mandal-Goswami,Consulting,Pune,nitarakrishnamurthy@dugar-borde.com,LOW,90,2.99,ACTIVE
+VEN00156,"Arya, Chahal and Agate",Travel,Chennai,zchatterjee@krishna-sharma.org,LOW,60,3.46,ACTIVE
+VEN00157,Muni Ltd,Professional Services,Mumbai,oommenvasana@wali.com,LOW,90,4.91,ACTIVE
+VEN00158,Sha-Raj,Transportation,Delhi,ykashyap@golla-bansal.org,HIGH,15,4.48,ACTIVE
+VEN00159,"Ramesh, Dani and Bath",Hardware,Delhi,rishishanker@sankaran.com,LOW,90,4.33,ACTIVE
+VEN00160,"Ghose, Bhandari and Patla",IT Services,Delhi,ksarna@patil-singh.com,LOW,90,4.68,ACTIVE
+VEN00161,"Patla, Pathak and Sawhney",Professional Services,Pune,nakshsuresh@amble-dani.com,LOW,30,2.65,ACTIVE
+VEN00162,"Nayak, Morar and Char",Marketing,Delhi,ntata@goswami.org,LOW,30,2.56,ACTIVE
+VEN00163,Trivedi-Oak,Legal Services,Hyderabad,jtrivedi@wason.com,LOW,60,2.82,ACTIVE
+VEN00164,"Oza, Som and Iyer",Professional Services,Bangalore,xiti67@memon.biz,LOW,90,3.86,ACTIVE
+VEN00165,Magar-Taneja,Software,Pune,gangulylavanya@doctor.biz,MEDIUM,90,4.13,ACTIVE
+VEN00166,Samra-Panchal,Office Supplies,Pune,vlalla@vasa-saxena.biz,LOW,60,2.75,ACTIVE
+VEN00167,Lad-Lanka,Consulting,Chennai,wbrar@khare-maharaj.info,LOW,60,4.99,ACTIVE
+VEN00168,Nagarajan-Banik,Telecommunications,Mumbai,zehaanbajwa@khurana-savant.info,LOW,45,3.47,ACTIVE
+VEN00169,Ahluwalia PLC,Cloud Services,Pune,mitali53@kuruvilla.com,MEDIUM,15,2.65,ACTIVE
+VEN00170,Palla-Mammen,Telecommunications,Pune,subramaniamabhimanyu@karpe-wali.com,MEDIUM,45,4.02,ACTIVE
+VEN00171,Walla LLC,Facilities,Delhi,lgulati@dara.org,LOW,15,2.96,ACTIVE
+VEN00172,Mitter-Vohra,Transportation,Mumbai,malhotraayush@kant-shanker.com,MEDIUM,90,3.25,ACTIVE
+VEN00173,Maharaj Inc,Maintenance,Hyderabad,aarav63@kurian.com,LOW,45,2.72,ACTIVE
+VEN00174,Bath Ltd,Cloud Services,Chennai,nikitapatel@karpe.org,LOW,90,2.54,ACTIVE
+VEN00175,Jha-Jaggi,Telecommunications,Chennai,megha74@sane.biz,HIGH,45,2.57,ACTIVE
+VEN00176,"Barad, Kota and Kamdar",Facilities,Hyderabad,vedikahegde@som.com,HIGH,45,3.26,ACTIVE
+VEN00177,"Din, Bera and Mander",Legal Services,Mumbai,beragaurang@gola.info,LOW,90,3.56,ACTIVE
+VEN00178,Basu-Subramanian,Legal Services,Pune,narangishwar@mistry-vasa.com,MEDIUM,30,4.57,ACTIVE
+VEN00179,"Shenoy, Soni and Singh",Cloud Services,Mumbai,zarnahegde@bains.com,LOW,90,3.64,ACTIVE
+VEN00180,Krishnamurthy-Kale,Hardware,Pune,sanya54@solanki.com,LOW,90,4.94,ACTIVE
+VEN00181,Padmanabhan Ltd,Hardware,Pune,nimratbalay@sibal.biz,LOW,60,3.48,ACTIVE
+VEN00182,"Singhal, Natt and Sant",Cloud Services,Delhi,ebhasin@dar.org,LOW,30,4.62,ACTIVE
+VEN00183,Khare Ltd,Legal Services,Mumbai,nchandran@choudhary.info,LOW,30,2.76,ACTIVE
+VEN00184,Kulkarni-Patla,Hardware,Mumbai,harsh33@sabharwal-tella.info,LOW,90,3.73,ACTIVE
+VEN00185,Natt Ltd,Cloud Services,Mumbai,suridominic@ravel.com,MEDIUM,15,2.76,ACTIVE
+VEN00186,Balan Group,Office Supplies,Mumbai,banjeet70@wable-jayaraman.net,LOW,15,4.49,ACTIVE
+VEN00187,"Mitra, Sastry and Wali",Maintenance,Hyderabad,yauvani30@kumar.com,LOW,30,3.32,ACTIVE
+VEN00188,Kala-Sant,Legal Services,Hyderabad,bhavani04@dayal-srinivas.com,LOW,90,2.62,ACTIVE
+VEN00189,"Bhardwaj, Anne and Gulati",Software,Hyderabad,sethyashawini@ramakrishnan.com,LOW,30,3.65,ACTIVE
+VEN00190,"Butala, Sangha and Tailor",Hardware,Delhi,yadavi44@barman-mutti.org,LOW,30,4.64,ACTIVE
+VEN00191,Bajwa and Sons,Marketing,Pune,bahadurjitshenoy@prabhu.com,LOW,30,4.76,ACTIVE
+VEN00192,Sampath PLC,IT Services,Chennai,dashjanaki@jhaveri.com,LOW,60,2.93,ACTIVE
+VEN00193,Ratti Group,Cloud Services,Mumbai,theodorebail@gandhi.biz,LOW,15,4.59,ACTIVE
+VEN00194,Lanka-Aggarwal,Travel,Bangalore,ayushmansarraf@dalal.com,MEDIUM,60,2.75,ACTIVE
+VEN00195,Sheth and Sons,Consulting,Pune,atharvdalal@parikh.com,MEDIUM,30,4.56,ACTIVE
+VEN00196,"Narain, Agrawal and Bains",Facilities,Chennai,kabir31@wali.biz,LOW,90,2.82,ACTIVE
+VEN00197,"Date, Bhakta and Mitra",Travel,Pune,baliwazir@pal.net,MEDIUM,30,4.11,ACTIVE
+VEN00198,Sen-Kalla,Facilities,Chennai,sachi79@jayaraman-vora.com,LOW,45,4.66,ACTIVE
+VEN00199,Narayan-Narang,Legal Services,Bangalore,henryprasad@wason.info,LOW,60,3.68,ACTIVE
+VEN00200,Guha PLC,Transportation,Chennai,rajeshrimaharaj@pant.net,MEDIUM,15,3.86,ACTIVE
+VEN00201,Goyal-Patil,Hardware,Pune,unni68@buch.org,MEDIUM,30,3.08,ACTIVE
+VEN00202,Kohli Inc,Hardware,Chennai,sampathfalguni@lala-thaker.info,LOW,45,4.24,ACTIVE
+VEN00203,Chauhan-Nigam,Travel,Mumbai,menonyauvani@manda.com,MEDIUM,30,4.88,ACTIVE
+VEN00204,"Deshpande, Kumer and Mani",Professional Services,Hyderabad,cmannan@natarajan.info,MEDIUM,45,2.98,ACTIVE
+VEN00205,Patel-Pal,Software,Hyderabad,shivansh55@vaidya.net,LOW,30,3.09,ACTIVE
+VEN00206,"Desai, Dua and Sekhon",Transportation,Hyderabad,tnarayan@seth-taneja.info,LOW,45,2.88,ACTIVE
+VEN00207,Pradhan-Gole,Professional Services,Hyderabad,bhanumati12@varkey.com,LOW,45,4.88,ACTIVE
+VEN00208,Kothari-Subramanian,Maintenance,Chennai,bbarad@bhatia-mane.com,LOW,30,4.12,ACTIVE
+VEN00209,Mane-Mukherjee,Travel,Pune,qshenoy@cherian.com,LOW,30,2.9,ACTIVE
+VEN00210,Om Group,Cloud Services,Hyderabad,jdalal@patla-kant.com,MEDIUM,90,2.62,ACTIVE
+VEN00211,Ganguly Group,IT Services,Chennai,qsekhon@bail.com,LOW,15,4.58,ACTIVE
+VEN00212,Dua Group,Telecommunications,Mumbai,vasudharanganathan@hora-bhatnagar.com,LOW,45,4.92,ACTIVE
+VEN00213,Chowdhury-Jaggi,Telecommunications,Pune,harshil70@nori.com,LOW,30,4.87,ACTIVE
+VEN00214,Khosla-Mann,Hardware,Mumbai,ishani95@saran-grover.com,LOW,15,3.86,ACTIVE
+VEN00215,Kala-Jani,Travel,Pune,veda66@bhagat.com,LOW,15,4.64,ACTIVE
+VEN00216,"Chand, Balan and Thakkar",Software,Delhi,sbehl@buch.com,LOW,15,3.98,ACTIVE
+VEN00217,Narayan-Sinha,Transportation,Mumbai,nathan19@kata-kapoor.biz,HIGH,45,4.07,ACTIVE
+VEN00218,"Rajagopal, Batra and Kibe",Facilities,Delhi,salvibalendra@vasa.com,MEDIUM,60,4.82,ACTIVE
+VEN00219,Bandi LLC,Hardware,Pune,ronith91@chokshi.com,LOW,45,3.0,ACTIVE
+VEN00220,Bassi and Sons,Maintenance,Chennai,dmane@gupta.com,LOW,15,4.37,ACTIVE
+VEN00221,"Kalla, Sant and Kibe",IT Services,Bangalore,lbasak@keer.net,LOW,45,4.22,ACTIVE
+VEN00222,"Sem, Venkataraman and Gara",Maintenance,Pune,waliasiddharth@mishra.net,LOW,60,3.35,ACTIVE
+VEN00223,Sachar Group,Consulting,Hyderabad,praval@mahajan.net,MEDIUM,30,3.02,ACTIVE
+VEN00224,Mistry PLC,IT Services,Chennai,grewalchaitaly@ravel.com,MEDIUM,30,3.23,ACTIVE
+VEN00225,Mall-Dixit,Office Supplies,Bangalore,rmohanty@kurian.net,LOW,60,2.73,ACTIVE
+VEN00226,Ganesan Group,Cloud Services,Mumbai,pray@narang-vasa.com,LOW,30,4.16,ACTIVE
+VEN00227,"Som, Sawhney and Mittal",Travel,Pune,om46@sehgal.com,MEDIUM,45,4.79,ACTIVE
+VEN00228,Kalla-Natt,Hardware,Hyderabad,georgenarain@sarkar-raval.com,LOW,60,4.07,ACTIVE
+VEN00229,"Dhawan, Hayre and Mallick",Office Supplies,Chennai,duakritika@apte.org,LOW,45,2.83,ACTIVE
+VEN00230,Ramakrishnan-Sahota,Marketing,Bangalore,daraqabil@dhingra.com,LOW,15,4.6,ACTIVE
+VEN00231,Rajagopal-Swaminathan,Marketing,Pune,quincyben@sibal.com,LOW,15,3.55,ACTIVE
+VEN00232,Madan-Bera,Maintenance,Delhi,nbhatt@sachdev.net,LOW,30,2.62,ACTIVE
+VEN00233,Tandon-Thaker,Professional Services,Pune,charanlanka@narang-rajan.com,MEDIUM,15,3.75,ACTIVE
+VEN00234,"Sengupta, Rastogi and Prabhu",Hardware,Pune,ythakkar@agate.com,MEDIUM,30,2.69,ACTIVE
+VEN00235,Deep Group,Software,Chennai,qsamra@kumer.biz,LOW,15,2.58,ACTIVE
+VEN00236,Gandhi Group,Legal Services,Mumbai,pillainirja@kumer.com,LOW,15,4.55,ACTIVE
+VEN00237,Krishnamurthy LLC,Office Supplies,Pune,brijeshbhat@dora-chahal.net,MEDIUM,45,3.96,ACTIVE
+VEN00238,Savant-Krishna,Telecommunications,Delhi,xchaudhry@bedi.com,MEDIUM,90,4.53,ACTIVE
+VEN00239,Chanda PLC,Professional Services,Mumbai,anthony56@chaudhuri-keer.com,LOW,30,3.87,ACTIVE
+VEN00240,Nagarajan-Bawa,Marketing,Mumbai,lallraghav@grewal.org,LOW,30,2.84,ACTIVE
+VEN00241,"Soni, Sampath and Roy",Hardware,Pune,quincysuri@batta.com,MEDIUM,30,4.57,ACTIVE
+VEN00242,Char Inc,Facilities,Bangalore,vbaria@brahmbhatt.com,MEDIUM,15,2.92,ACTIVE
+VEN00243,Dora-Date,Hardware,Bangalore,wadhwaamara@sharaf-merchant.org,LOW,45,3.82,ACTIVE
+VEN00244,Pathak-Bail,Security,Chennai,kevin70@gole.com,LOW,60,4.0,ACTIVE
+VEN00245,Mann and Sons,Professional Services,Pune,yahvi30@ahuja-sule.info,LOW,60,3.68,ACTIVE
+VEN00246,"Peri, Dasgupta and Kant",Cloud Services,Mumbai,sanghafaraj@dua.com,LOW,90,3.38,ACTIVE
+VEN00247,Shah-Mani,Marketing,Bangalore,sai71@sekhon-khare.com,LOW,15,3.14,ACTIVE
+VEN00248,Mander and Sons,Travel,Chennai,datesachi@kothari-chahal.com,LOW,45,3.36,ACTIVE
+VEN00249,Sandal-Sabharwal,Travel,Mumbai,mitali02@jaggi.com,LOW,90,4.26,ACTIVE
+VEN00250,Parekh-Nori,Telecommunications,Chennai,sahotamadhav@setty-nanda.com,MEDIUM,60,2.59,ACTIVE
+VEN00251,Doctor-Sama,Security,Mumbai,ddewan@khurana.com,LOW,60,3.86,ACTIVE
+VEN00252,Sha Ltd,Software,Hyderabad,isaiah00@sarkar-sura.com,LOW,30,3.03,ACTIVE
+VEN00253,Agate-Nagar,Professional Services,Mumbai,xborra@gokhale.net,LOW,90,4.5,ACTIVE
+VEN00254,Rajagopal Group,Transportation,Delhi,pranitkhosla@guha-karpe.com,MEDIUM,45,3.84,ACTIVE
+VEN00255,Prabhakar LLC,Security,Mumbai,ekaja16@solanki-bhalla.info,MEDIUM,60,4.45,ACTIVE
+VEN00256,"Minhas, Guha and Dhillon",Hardware,Pune,wableutkarsh@divan.com,LOW,45,2.7,ACTIVE
+VEN00257,Lanka-Sachar,Transportation,Bangalore,ganga19@dhar.com,LOW,45,3.66,ACTIVE
+VEN00258,Biswas-Bhattacharyya,Marketing,Pune,dalaja88@mutti.com,LOW,45,2.83,ACTIVE
+VEN00259,"Kant, Gupta and Mane",Professional Services,Chennai,upatla@kapur.com,LOW,30,3.01,ACTIVE
+VEN00260,Ahuja LLC,Marketing,Chennai,spillay@hari-shroff.com,LOW,90,2.82,ACTIVE
+VEN00261,Zachariah LLC,Cloud Services,Mumbai,raviadya@seshadri.com,LOW,15,4.85,ACTIVE
+VEN00262,"Din, Char and Shere",Office Supplies,Bangalore,madanridhi@choudhry.com,MEDIUM,45,3.31,ACTIVE
+VEN00263,"Gara, Kapur and Kala",Consulting,Pune,cchanda@zacharia.net,MEDIUM,30,4.74,ACTIVE
+VEN00264,Setty Group,Professional Services,Hyderabad,cprasad@chandra-tak.com,MEDIUM,30,3.6,ACTIVE
+VEN00265,"Khare, Balasubramanian and Biswas",Telecommunications,Chennai,palanjanani@chacko.com,MEDIUM,60,3.6,ACTIVE
+VEN00266,"Borah, Sura and Kakar",Telecommunications,Pune,pmani@bala-venkataraman.org,LOW,90,4.91,ACTIVE
+VEN00267,"Kurian, Mital and Bassi",Maintenance,Hyderabad,tpalla@minhas.com,LOW,90,4.03,ACTIVE
+VEN00268,"Jain, Pillay and Sibal",Travel,Mumbai,tanklavanya@ahuja-lal.biz,LOW,60,2.9,ACTIVE
+VEN00269,Arora Group,Professional Services,Delhi,pavani22@choudhry-dutta.biz,LOW,30,3.91,ACTIVE
+VEN00270,Dave Ltd,Telecommunications,Hyderabad,hbhattacharyya@sarin.com,LOW,90,4.88,ACTIVE
+VEN00271,Kannan Group,Security,Bangalore,birarya@aggarwal.com,LOW,90,4.56,ACTIVE
+VEN00272,Hegde and Sons,Security,Pune,qravi@wable.com,LOW,45,2.53,ACTIVE
+VEN00273,"Viswanathan, Shenoy and Shroff",Travel,Hyderabad,ytandon@chad.org,LOW,90,4.1,ACTIVE
+VEN00274,Desai-Rajan,Consulting,Mumbai,harishcheema@nayak.com,LOW,15,3.48,ACTIVE
+VEN00275,Bala-Swaminathan,Software,Mumbai,ojain@pathak-ramakrishnan.org,LOW,15,3.16,ACTIVE
+VEN00276,"Choudhury, Ganesh and Dixit",Office Supplies,Delhi,pandyajai@pillay.com,HIGH,45,3.49,ACTIVE
+VEN00277,"Sharaf, Mandal and Wali",Legal Services,Delhi,indirabasu@tandon.com,LOW,60,4.84,ACTIVE
+VEN00278,Sibal-Lata,Professional Services,Delhi,msolanki@dara-de.com,MEDIUM,60,4.69,ACTIVE
+VEN00279,Taneja-Lala,Office Supplies,Mumbai,fmanda@khare-prakash.org,LOW,90,4.57,ACTIVE
+VEN00280,"Nath, Mohanty and Kalita",Facilities,Mumbai,kashishraju@singh.com,LOW,45,3.52,ACTIVE
+VEN00281,Banik Inc,Telecommunications,Mumbai,davidrai@sandhu-dasgupta.com,LOW,45,3.98,ACTIVE
+VEN00282,Swaminathan-Choudhury,Maintenance,Mumbai,salviranbir@pingle.com,LOW,15,2.67,ACTIVE
+VEN00283,Bose and Sons,Transportation,Delhi,ckalita@ramaswamy-wali.com,MEDIUM,30,3.86,ACTIVE
+VEN00284,"Sood, Prakash and Kata",Consulting,Mumbai,forumnarula@sampath.com,LOW,15,2.72,ACTIVE
+VEN00285,Deshpande PLC,Legal Services,Bangalore,vritti47@dasgupta.net,LOW,90,4.94,ACTIVE
+VEN00286,Rau PLC,Hardware,Hyderabad,binapillay@seth.org,LOW,90,3.24,ACTIVE
+VEN00287,Datta and Sons,Software,Bangalore,fitansastry@sharma.com,LOW,15,4.9,ACTIVE
+VEN00288,Konda PLC,Facilities,Hyderabad,reva50@nanda-subramaniam.info,LOW,90,3.93,ACTIVE
+VEN00289,"Subramanian, Brar and Shanker",Marketing,Pune,samar12@mitra.com,LOW,90,4.25,ACTIVE
+VEN00290,Palla and Sons,Legal Services,Bangalore,biswasganga@pandey-balay.org,LOW,15,2.91,ACTIVE
+VEN00291,Sharaf and Sons,Facilities,Mumbai,magaryutika@guha.org,MEDIUM,60,3.57,ACTIVE
+VEN00292,"Prakash, Seshadri and Pandey",Facilities,Hyderabad,ngrewal@hegde-iyengar.org,LOW,60,4.68,ACTIVE
+VEN00293,Ray PLC,Travel,Pune,asharma@yadav.com,LOW,90,2.91,ACTIVE
+VEN00294,Magar-Kari,Professional Services,Delhi,amaira10@bir.com,LOW,15,4.21,ACTIVE
+VEN00295,Som-Lad,IT Services,Pune,ikshitamallick@doctor.com,LOW,60,3.72,ACTIVE
+VEN00296,"Bobal, Tiwari and Sagar",Consulting,Pune,kalanachiket@korpal.com,MEDIUM,90,4.15,ACTIVE
+VEN00297,Wadhwa LLC,Office Supplies,Mumbai,chaudhurigaurav@tata-barad.com,LOW,90,3.38,ACTIVE
+VEN00298,Shanker-Pingle,IT Services,Pune,pbera@sabharwal.com,LOW,15,3.04,ACTIVE
+VEN00299,Grover-Mittal,Consulting,Bangalore,ekiya46@aggarwal.com,LOW,30,3.35,ACTIVE
+VEN00300,Om Ltd,Transportation,Pune,lopa92@krish.com,HIGH,60,4.32,ACTIVE
+VEN00301,Suri Inc,Cloud Services,Delhi,qkoshy@karnik-majumdar.biz,LOW,60,2.65,ACTIVE
+VEN00302,Bhatia-Oak,Maintenance,Pune,urmi00@bedi-krish.org,LOW,60,3.25,ACTIVE
+VEN00303,"Bose, Behl and Sathe",IT Services,Bangalore,hritik63@deol-borde.com,LOW,45,3.79,ACTIVE
+VEN00304,"Chada, Goel and Acharya",Office Supplies,Chennai,noahmanne@chhabra.biz,LOW,45,4.77,ACTIVE
+VEN00305,Rajagopal PLC,Consulting,Pune,nazarethrajata@chada-wadhwa.com,LOW,15,4.72,ACTIVE
+VEN00306,Dara-Handa,Consulting,Mumbai,ronithsaran@parsa-arora.com,LOW,30,2.91,ACTIVE
+VEN00307,"Oak, Bhavsar and Narasimhan",Cloud Services,Pune,jnagarajan@sarna.org,MEDIUM,90,4.6,ACTIVE
+VEN00308,Prakash Ltd,Facilities,Mumbai,kgarde@narayan.com,LOW,30,3.47,ACTIVE
+VEN00309,"Gokhale, Garde and Chada",Facilities,Hyderabad,chauhanbarkha@madan.com,LOW,45,2.53,ACTIVE
+VEN00310,Choudhary-Mane,Security,Bangalore,chadtarak@pathak.org,MEDIUM,15,3.66,ACTIVE
+VEN00311,Mane and Sons,Office Supplies,Hyderabad,jnagy@dara.com,LOW,90,3.94,ACTIVE
+VEN00312,Seshadri LLC,Marketing,Bangalore,doshicharan@toor.biz,MEDIUM,90,4.09,ACTIVE
+VEN00313,"Thakur, Varghese and Verma",Security,Pune,xrau@mishra.info,MEDIUM,60,4.69,ACTIVE
+VEN00314,Dash and Sons,Security,Hyderabad,qshankar@chaudry-saha.com,LOW,15,2.58,ACTIVE
+VEN00315,Dasgupta-Munshi,Legal Services,Pune,masoncomar@bal.com,LOW,30,3.83,ACTIVE
+VEN00316,Varughese LLC,Transportation,Mumbai,teerthchaudry@rau-walla.com,MEDIUM,15,3.29,ACTIVE
+VEN00317,Mann and Sons,Legal Services,Bangalore,advik22@krishnamurthy.biz,MEDIUM,60,2.76,ACTIVE
+VEN00318,Bumb-Kibe,Transportation,Chennai,advaithdewan@koshy-kulkarni.com,LOW,30,4.13,ACTIVE
+VEN00319,Yadav Group,IT Services,Delhi,cbaral@rajan-balan.com,LOW,60,4.78,ACTIVE
+VEN00320,Hora Ltd,Professional Services,Bangalore,tsandhu@singhal-mittal.com,MEDIUM,15,4.69,ACTIVE
+VEN00321,"Tata, Sur and Desai",Legal Services,Pune,baralsaumya@nigam.com,MEDIUM,15,2.96,ACTIVE
+VEN00322,Khosla and Sons,Marketing,Mumbai,prabhakarelijah@tailor.com,MEDIUM,15,4.72,ACTIVE
+VEN00323,Devan-Padmanabhan,Maintenance,Hyderabad,qadim65@bhattacharyya-sarkar.net,LOW,30,4.01,ACTIVE
+VEN00324,"Johal, Gokhale and Sunder",Maintenance,Delhi,lkaur@nagar.net,MEDIUM,90,4.61,ACTIVE
+VEN00325,"Chauhan, Gara and Vaidya",IT Services,Mumbai,lakshmihanda@ganesan.net,LOW,90,2.75,ACTIVE
+VEN00326,Sridhar Ltd,Consulting,Hyderabad,mahalpranit@kata.com,LOW,45,4.66,ACTIVE
+VEN00327,Verma PLC,Office Supplies,Mumbai,wahab11@sandhu.com,LOW,60,3.81,ACTIVE
+VEN00328,Krish-Muni,Legal Services,Chennai,wbhandari@singh.com,LOW,45,3.75,ACTIVE
+VEN00329,Srinivas-Prasad,Software,Mumbai,mishrabarkha@ratta.info,LOW,90,4.65,ACTIVE
+VEN00330,Thaman-Saha,Facilities,Hyderabad,xdass@khanna.com,LOW,90,4.4,ACTIVE
+VEN00331,Parmer-Bora,Telecommunications,Chennai,ati54@garg.org,LOW,60,4.02,ACTIVE
+VEN00332,Nayar-Chaudhuri,Telecommunications,Bangalore,ranbirbanerjee@narang.com,LOW,15,4.84,ACTIVE
+VEN00333,Sachdev and Sons,Travel,Delhi,imaran10@roy.com,LOW,90,2.58,ACTIVE
+VEN00334,Karpe Group,Software,Delhi,neelimaparekh@anne.com,LOW,45,4.19,ACTIVE
+VEN00335,Swamy and Sons,Transportation,Pune,jdhar@lal.biz,LOW,60,4.22,ACTIVE
+VEN00336,"Sur, Thakkar and Shukla",Travel,Chennai,issacorinder@choudhury.net,MEDIUM,90,3.27,ACTIVE
+VEN00337,Sastry Inc,Hardware,Pune,iramohanty@savant.com,LOW,45,2.76,ACTIVE
+VEN00338,Edwin Group,Consulting,Pune,pallavi37@bobal.com,HIGH,90,2.96,ACTIVE
+VEN00339,"Jha, Khare and Cheema",Facilities,Hyderabad,warrioryahvi@edwin-khosla.com,LOW,60,4.7,ACTIVE
+VEN00340,Natt-Lad,Cloud Services,Delhi,balawahab@chandran.com,MEDIUM,60,3.2,ACTIVE
+VEN00341,"Sahni, Mishra and Pradhan",Cloud Services,Mumbai,baradchaitanya@bir.com,LOW,60,3.2,ACTIVE
+VEN00342,Borra-Krishnan,Cloud Services,Pune,chahalsara@desai.com,LOW,60,3.89,ACTIVE
+VEN00343,Bhatnagar-Samra,Telecommunications,Delhi,cwalia@handa.com,LOW,60,2.75,ACTIVE
+VEN00344,"Sridhar, Apte and Kadakia",Transportation,Bangalore,anshmammen@mukhopadhyay.info,LOW,15,2.74,ACTIVE
+VEN00345,Kala-Jayaraman,Cloud Services,Hyderabad,dalaja21@sabharwal.com,LOW,45,4.98,ACTIVE
+VEN00346,Bail LLC,Office Supplies,Mumbai,eagarwal@master.com,LOW,60,2.79,ACTIVE
+VEN00347,Keer LLC,Security,Delhi,gauri79@deol-batta.info,LOW,90,2.91,ACTIVE
+VEN00348,Datta Ltd,Cloud Services,Pune,ishanvisampath@shetty.info,LOW,30,2.93,ACTIVE
+VEN00349,Bose-Virk,Software,Chennai,fsetty@soni-sarma.com,LOW,15,2.57,ACTIVE
+VEN00350,Kalla PLC,Legal Services,Hyderabad,qshetty@dave.org,LOW,15,4.46,ACTIVE
+VEN00351,"Chad, Walia and Kapoor",Marketing,Pune,cdyal@toor-soni.com,MEDIUM,45,2.69,ACTIVE
+VEN00352,Maharaj LLC,Software,Chennai,krishnaneiravati@thaker-rout.net,MEDIUM,15,4.52,ACTIVE
+VEN00353,Shan Ltd,Legal Services,Delhi,avnicomar@balasubramanian.com,MEDIUM,60,3.15,ACTIVE
+VEN00354,"Baria, Kota and Chhabra",Security,Chennai,vedhika58@hans-cherian.net,HIGH,60,3.92,ACTIVE
+VEN00355,"Nanda, Khare and Raman",Software,Hyderabad,bachittarpathak@mohan-halder.com,MEDIUM,45,4.72,ACTIVE
+VEN00356,"Goswami, Sem and Bumb",Travel,Hyderabad,zayan06@varty.biz,LOW,15,2.93,ACTIVE
+VEN00357,Anand-Dey,Consulting,Pune,sidhufalan@hegde-shanker.net,LOW,45,4.64,ACTIVE
+VEN00358,"Mallick, Grewal and Bhakta",Maintenance,Pune,jagrati55@nagarajan.com,LOW,15,4.37,ACTIVE
+VEN00359,Sengupta PLC,IT Services,Hyderabad,dshah@thakur.org,LOW,90,4.11,ACTIVE
+VEN00360,Deshmukh Inc,Consulting,Delhi,baradtamanna@andra.com,LOW,30,3.52,ACTIVE
+VEN00361,"Mukherjee, Talwar and Bir",Transportation,Bangalore,ghosechakrika@cherian-sawhney.com,LOW,30,4.19,ACTIVE
+VEN00362,"Swamy, Yogi and Aurora",Legal Services,Delhi,girish04@sane.com,LOW,30,3.47,ACTIVE
+VEN00363,"Sahota, Kurian and Mahajan",Facilities,Chennai,rachitadate@mital-tank.com,LOW,45,3.5,ACTIVE
+VEN00364,"Kuruvilla, Sachdeva and Singhal",Cloud Services,Hyderabad,contractoramol@thakkar.info,LOW,15,3.71,ACTIVE
+VEN00365,Kashyap and Sons,Professional Services,Bangalore,etasheth@mangal.com,LOW,30,2.83,ACTIVE
+VEN00366,Balakrishnan Group,Hardware,Bangalore,krishmorar@sampath-wagle.org,MEDIUM,90,4.12,ACTIVE
+VEN00367,"Subramanian, Kunda and Bhasin",IT Services,Hyderabad,daksheshlal@varghese.info,MEDIUM,30,3.02,ACTIVE
+VEN00368,Tella-Dhar,Transportation,Pune,netra92@sibal-bains.com,LOW,30,3.96,ACTIVE
+VEN00369,"Dara, Cheema and Handa",Consulting,Chennai,chanderyasti@mani-konda.com,LOW,90,4.73,ACTIVE
+VEN00370,Chacko LLC,IT Services,Pune,ladli51@dash.com,LOW,90,4.3,ACTIVE
+VEN00371,"Buch, Soman and Bhandari",Consulting,Delhi,korpalanika@sharma.com,MEDIUM,90,3.75,ACTIVE
+VEN00372,"Dubey, Pandya and Raj",Office Supplies,Hyderabad,bminhas@narayanan.com,LOW,15,4.83,ACTIVE
+VEN00373,Chand-Dubey,Office Supplies,Delhi,jatinbora@kuruvilla-chopra.com,LOW,60,4.23,ACTIVE
+VEN00374,Bala Ltd,Legal Services,Delhi,ayaanraghavan@suresh.com,LOW,45,4.04,ACTIVE
+VEN00375,"Ratti, Jani and Bera",Transportation,Chennai,patelkabir@borra.com,LOW,45,4.52,ACTIVE
+VEN00376,Gade-Samra,Maintenance,Hyderabad,vkonda@iyengar-lanka.com,LOW,45,3.64,ACTIVE
+VEN00377,Samra-Dar,Software,Mumbai,routikbal@munshi.com,LOW,60,4.08,ACTIVE
+VEN00378,Chada-Walla,Office Supplies,Delhi,forum53@nadig-wason.com,MEDIUM,15,4.59,ACTIVE
+VEN00379,Wagle-Datta,Cloud Services,Chennai,darpan81@mukhopadhyay-balay.com,MEDIUM,30,3.12,ACTIVE
+VEN00380,Deol and Sons,Security,Bangalore,kamala93@vaidya-bhalla.com,LOW,15,2.53,ACTIVE
+VEN00381,"Nath, Garg and Trivedi",Legal Services,Bangalore,nayarayaan@mutti-bath.info,LOW,90,2.52,ACTIVE
+VEN00382,"Trivedi, Chakrabarti and Seshadri",Legal Services,Delhi,jalsalad@deep-parmar.com,MEDIUM,90,2.85,ACTIVE
+VEN00383,Solanki-Tailor,Transportation,Delhi,qsubramanian@mahal-ramakrishnan.com,LOW,45,3.01,ACTIVE
+VEN00384,"Korpal, Bandi and Mohan",Marketing,Bangalore,zmandal@bava.com,LOW,30,2.8,ACTIVE
+VEN00385,Wali-Vaidya,Security,Hyderabad,madhavimishra@saraf.com,LOW,90,2.55,ACTIVE
+VEN00386,Johal-Taneja,Hardware,Mumbai,ykari@pandey.com,MEDIUM,30,4.43,ACTIVE
+VEN00387,"Chaudhuri, Dey and Dara",Facilities,Bangalore,kumararjun@dugar-patel.com,MEDIUM,30,3.07,ACTIVE
+VEN00388,Hora-Saran,Maintenance,Bangalore,chandaradha@kapadia.com,LOW,45,2.85,ACTIVE
+VEN00389,Balasubramanian-Sarraf,Software,Delhi,mekhaladeshpande@chawla-sood.com,MEDIUM,90,3.04,ACTIVE
+VEN00390,Dash Ltd,Security,Pune,nbhandari@prabhu.com,LOW,45,4.39,ACTIVE
+VEN00391,"Mishra, Koshy and Trivedi",Marketing,Pune,amara27@parmar.biz,LOW,90,4.84,ACTIVE
+VEN00392,Tata PLC,Office Supplies,Pune,oeshi45@pandya-pandya.info,LOW,30,2.82,ACTIVE
+VEN00393,"Tripathi, D’Alia and Ghose",Security,Pune,uhans@tailor.com,LOW,60,2.8,ACTIVE
+VEN00394,"Dhawan, Sarna and Chhabra",Marketing,Hyderabad,kevindhillon@mammen.com,LOW,15,3.77,ACTIVE
+VEN00395,"Joshi, Ramesh and Dayal",Software,Hyderabad,gram@rege-madan.com,LOW,30,4.84,ACTIVE
+VEN00396,"Malhotra, Baria and Mall",Facilities,Chennai,qnayar@chaudhary-buch.com,LOW,30,3.62,ACTIVE
+VEN00397,"Purohit, Kashyap and Thaman",Hardware,Pune,dasamol@ahuja-deshpande.com,LOW,30,2.7,ACTIVE
+VEN00398,"Edwin, Barad and Sood",Transportation,Mumbai,hamsini95@vora.com,LOW,45,3.14,ACTIVE
+VEN00399,Salvi-Swaminathan,Office Supplies,Bangalore,lmahajan@kade.com,LOW,15,4.68,ACTIVE
+VEN00400,Karnik Ltd,Security,Hyderabad,uhari@sastry.com,MEDIUM,90,4.98,ACTIVE
+VEN00401,"Sahota, Grover and Buch",Hardware,Mumbai,jagdish00@raghavan.info,MEDIUM,30,4.77,ACTIVE
+VEN00402,Gandhi-Bir,Legal Services,Mumbai,rishi48@raja-oza.com,LOW,60,3.0,ACTIVE
+VEN00403,Bir-Patel,Travel,Delhi,vamakshi31@parekh.com,LOW,45,4.12,ACTIVE
+VEN00404,"Hayer, Bhatti and Setty",Security,Bangalore,azaanpathak@soni.com,MEDIUM,60,4.6,ACTIVE
+VEN00405,Sibal Group,Telecommunications,Bangalore,henryde@soni.com,LOW,15,4.38,ACTIVE
+VEN00406,"Mukhopadhyay, Varughese and Oak",Facilities,Chennai,duttasudiksha@prakash.com,LOW,15,4.58,ACTIVE
+VEN00407,Badami-Acharya,Hardware,Hyderabad,sodhimatthew@bala.info,LOW,60,3.72,ACTIVE
+VEN00408,Dugar Inc,Cloud Services,Pune,idika23@naik.com,LOW,60,4.4,ACTIVE
+VEN00409,Kadakia Inc,Security,Mumbai,zaitra75@sharma.info,LOW,60,4.76,ACTIVE
+VEN00410,"Balan, Hora and Ganesh",Software,Pune,akshayvora@bhandari.org,MEDIUM,45,3.67,ACTIVE
+VEN00411,Bhavsar-Shroff,Travel,Bangalore,advik24@kant.com,LOW,30,3.75,ACTIVE
+VEN00412,Varghese-Sampath,Maintenance,Hyderabad,hpalla@sundaram.net,HIGH,30,3.12,ACTIVE
+VEN00413,Ahluwalia-Nigam,Professional Services,Pune,mittergautami@minhas.info,LOW,45,4.45,ACTIVE
+VEN00414,Kothari Group,IT Services,Mumbai,rmanne@dave-sehgal.com,LOW,45,4.2,ACTIVE
+VEN00415,"Sanghvi, Nori and Chawla",Maintenance,Delhi,manikrish@morar.net,MEDIUM,90,2.92,ACTIVE
+VEN00416,Naik-Batra,Professional Services,Hyderabad,nandini21@raju-lal.com,LOW,15,3.65,ACTIVE
+VEN00417,Jaggi-Mangat,Legal Services,Delhi,sandalkrishna@kunda-bandi.info,LOW,90,2.59,ACTIVE
+VEN00418,"Saini, Vaidya and Parsa",Marketing,Hyderabad,sanya49@chadha.biz,LOW,30,3.16,ACTIVE
+VEN00419,"Sarkar, Shankar and Dora",Office Supplies,Delhi,fmann@sem.net,LOW,15,4.68,ACTIVE
+VEN00420,"Nadig, Kalita and Sha",Professional Services,Bangalore,eben@mallick.com,MEDIUM,60,2.88,ACTIVE
+VEN00421,Sankar Ltd,Software,Delhi,ishani98@kuruvilla.info,MEDIUM,15,2.66,ACTIVE
+VEN00422,"Atwal, Madan and Sarraf",Maintenance,Mumbai,masterbalveer@iyer-ramachandran.com,LOW,45,4.23,ACTIVE
+VEN00423,Upadhyay Group,Maintenance,Delhi,meera92@dewan-bedi.com,MEDIUM,60,3.12,ACTIVE
+VEN00424,"Dutt, Singh and Joshi",Software,Chennai,watika12@ramachandran-sule.com,MEDIUM,60,4.29,ACTIVE
+VEN00425,Dubey and Sons,Telecommunications,Mumbai,balaharita@toor-palla.org,LOW,90,4.47,ACTIVE
+VEN00426,Pillai and Sons,Hardware,Hyderabad,dalajagolla@rama-rai.com,LOW,15,4.46,ACTIVE
+VEN00427,Zacharia Ltd,Maintenance,Chennai,nathvritti@kala.com,MEDIUM,60,4.07,ACTIVE
+VEN00428,Jain LLC,Security,Pune,korpalnidra@gulati-dass.org,MEDIUM,15,3.09,ACTIVE
+VEN00429,"Naidu, Saraf and Wason",Hardware,Bangalore,sachi70@tara.com,HIGH,90,4.62,ACTIVE
+VEN00430,Tara LLC,Travel,Pune,rchaudhary@kota.com,LOW,15,4.95,ACTIVE
+VEN00431,Mall Ltd,IT Services,Hyderabad,suradayamai@hegde-ram.net,LOW,45,2.8,ACTIVE
+VEN00432,Butala-Raj,Security,Delhi,yahvishanker@grewal-buch.com,MEDIUM,15,4.45,ACTIVE
+VEN00433,Suri-Mitra,Professional Services,Mumbai,nairaadhya@thaker-sarkar.biz,MEDIUM,15,4.98,ACTIVE
+VEN00434,Viswanathan and Sons,Travel,Hyderabad,xalak41@garde-suresh.net,LOW,15,4.44,ACTIVE
+VEN00435,Kaur-Bhatt,Travel,Hyderabad,ikbal98@singhal.com,MEDIUM,15,2.98,ACTIVE
+VEN00436,"Kuruvilla, Gera and Butala",Consulting,Mumbai,labanjayaraman@kanda.com,LOW,30,3.6,ACTIVE
+VEN00437,Bajwa-Atwal,Travel,Chennai,ndas@ahuja.com,LOW,90,3.42,ACTIVE
+VEN00438,"Kuruvilla, Panchal and Saini",Professional Services,Chennai,esubramanian@lata-choudhry.info,MEDIUM,45,3.88,ACTIVE
+VEN00439,"Raghavan, Ramakrishnan and Amble",Security,Pune,diya68@kashyap.biz,MEDIUM,90,2.77,ACTIVE
+VEN00440,"Mukherjee, Prabhakar and Sarraf",Marketing,Hyderabad,yswamy@sengupta.info,LOW,45,3.91,ACTIVE
+VEN00441,"Sant, Rajan and Rattan",Marketing,Delhi,vasana60@pandit.net,LOW,30,4.11,ACTIVE
+VEN00442,"Oommen, Dey and Sarin",Office Supplies,Delhi,forum52@swaminathan.com,LOW,90,3.98,ACTIVE
+VEN00443,Yogi-Venkataraman,Facilities,Hyderabad,iwadhwa@thaker.info,LOW,90,4.61,ACTIVE
+VEN00444,Mistry-Majumdar,Cloud Services,Bangalore,ojasahluwalia@bose-pathak.com,MEDIUM,15,4.07,ACTIVE
+VEN00445,Garde-Yadav,Cloud Services,Bangalore,pkata@sankaran.com,LOW,60,4.58,ACTIVE
+VEN00446,Srinivas-Dey,Security,Delhi,oeshi63@barad.com,MEDIUM,15,4.42,ACTIVE
+VEN00447,Kota-Bhakta,Security,Chennai,gauravgupta@khare.com,MEDIUM,90,2.67,ACTIVE
+VEN00448,Choudhury PLC,Marketing,Mumbai,ansh65@thaker-wali.com,LOW,60,2.6,ACTIVE
+VEN00449,Virk-Tara,Legal Services,Delhi,kamya24@dube-ramaswamy.com,LOW,90,4.37,ACTIVE
+VEN00450,Borde-Malhotra,Telecommunications,Mumbai,nishashankar@pal-sha.net,LOW,45,3.97,ACTIVE
+VEN00451,Nadig Inc,Software,Hyderabad,piyengar@shan.com,LOW,15,2.76,ACTIVE
+VEN00452,Ranganathan-Samra,Transportation,Pune,qkota@pant.net,LOW,30,3.31,ACTIVE
+VEN00453,Krishna-Bir,Facilities,Delhi,jwalla@ram-batra.com,LOW,15,4.98,ACTIVE
+VEN00454,"Choudhry, Sankaran and Dayal",Professional Services,Chennai,panini94@singhal.org,LOW,30,3.34,ACTIVE
+VEN00455,Ramaswamy Ltd,Transportation,Bangalore,laksh68@dada-sundaram.org,MEDIUM,15,2.83,ACTIVE
+VEN00456,Halder-Saraf,Legal Services,Pune,fbava@deep.info,LOW,30,3.71,ACTIVE
+VEN00457,Bhardwaj Ltd,Facilities,Mumbai,joshua03@sha.com,LOW,45,4.61,ACTIVE
+VEN00458,Pau Ltd,Office Supplies,Delhi,barmananusha@raja-garg.com,MEDIUM,30,3.1,ACTIVE
+VEN00459,"Madan, Sahni and Goswami",Telecommunications,Chennai,balendrachandra@nayar-sandal.biz,MEDIUM,30,3.22,ACTIVE
+VEN00460,Keer PLC,Professional Services,Delhi,irabansal@dugal.com,LOW,30,3.86,ACTIVE
+VEN00461,Dave-Naidu,Cloud Services,Delhi,gavinmalhotra@keer.info,LOW,45,4.49,ACTIVE
+VEN00462,Munshi-Vyas,Maintenance,Bangalore,dominic42@dhaliwal.net,LOW,60,2.77,ACTIVE
+VEN00463,Gupta-Pal,Marketing,Hyderabad,suraati@atwal-kala.com,MEDIUM,60,2.57,ACTIVE
+VEN00464,Varma Inc,Travel,Pune,ibakshi@madan-agrawal.com,MEDIUM,60,4.8,ACTIVE
+VEN00465,Chadha Inc,Consulting,Pune,sidhuveda@ghosh.com,MEDIUM,45,4.74,ACTIVE
+VEN00466,"Khurana, Dayal and Suresh",Hardware,Chennai,fkannan@pant-oza.com,LOW,90,3.08,ACTIVE
+VEN00467,Rao-Bhattacharyya,Professional Services,Pune,cdatta@soni-kar.com,LOW,60,4.45,ACTIVE
+VEN00468,Mukherjee-Chhabra,Marketing,Hyderabad,upadhriti12@ray-sangha.com,LOW,60,4.24,ACTIVE
+VEN00469,Koshy-Kalla,Hardware,Delhi,amairagola@behl-dewan.com,MEDIUM,90,2.81,ACTIVE
+VEN00470,Bhargava-Chaudhari,Software,Delhi,aachalkapadia@krish.com,LOW,30,3.47,ACTIVE
+VEN00471,Zacharia-Narayanan,IT Services,Mumbai,bhavnasekhon@gulati-kale.org,LOW,90,2.51,ACTIVE
+VEN00472,Deep PLC,Facilities,Hyderabad,kantshivani@choudhary.info,MEDIUM,15,4.46,ACTIVE
+VEN00473,Kibe-Patil,IT Services,Chennai,turvi14@chad.com,LOW,60,3.85,ACTIVE
+VEN00474,Grover-Goel,Facilities,Chennai,ramaneshana@chakrabarti.com,HIGH,90,4.58,ACTIVE
+VEN00475,Gupta-Ramesh,Office Supplies,Pune,tanveer64@krishnamurthy-kade.com,LOW,60,4.1,ACTIVE
+VEN00476,"Sahota, Chander and Krishnan",Software,Hyderabad,nakshamble@bhalla.com,LOW,15,3.02,ACTIVE
+VEN00477,Rao-Tella,Office Supplies,Bangalore,eiravatidugar@trivedi-batta.net,LOW,90,2.72,ACTIVE
+VEN00478,Nagarajan-Subramaniam,Travel,Bangalore,bhallatejas@zachariah.com,LOW,30,2.9,ACTIVE
+VEN00479,Atwal Inc,Telecommunications,Mumbai,bhasinpallavi@dey.net,LOW,45,3.16,ACTIVE
+VEN00480,"Samra, Soni and Sehgal",Professional Services,Mumbai,bhanumati65@sachdev.com,MEDIUM,45,4.42,ACTIVE
+VEN00481,"More, Shere and Bala",Facilities,Delhi,bimalamahal@kalita-kannan.com,MEDIUM,60,3.8,ACTIVE
+VEN00482,"Mangat, Radhakrishnan and Pandya",Maintenance,Pune,swadhwa@natt.biz,LOW,30,3.23,ACTIVE
+VEN00483,"Iyer, Natarajan and Dara",Hardware,Delhi,fmunshi@murthy.net,MEDIUM,60,4.81,ACTIVE
+VEN00484,Chokshi-Tata,Software,Delhi,wraju@patel.biz,LOW,60,4.81,ACTIVE
+VEN00485,Barman Ltd,Security,Delhi,theodoresem@murty.org,LOW,90,4.36,ACTIVE
+VEN00486,Magar-Varty,Office Supplies,Chennai,logan10@dutta.com,LOW,60,2.8,ACTIVE
+VEN00487,Lanka LLC,Maintenance,Delhi,varsha95@hora.com,LOW,90,4.67,ACTIVE
+VEN00488,Ranganathan-Sachdev,Travel,Delhi,mahajanekaraj@dhawan-sanghvi.com,LOW,90,2.83,ACTIVE
+VEN00489,Bhandari and Sons,Professional Services,Hyderabad,ibatra@kannan.com,MEDIUM,30,4.78,ACTIVE
+VEN00490,Dhar Inc,Security,Delhi,iyerjanaki@dixit.org,LOW,60,3.91,ACTIVE
+VEN00491,Ganesan PLC,Marketing,Chennai,bachittar14@ramesh.com,LOW,15,2.94,ACTIVE
+VEN00492,Sankaran-Narasimhan,Software,Bangalore,chaturasidhu@kala.biz,MEDIUM,30,3.29,ACTIVE
+VEN00493,Bajwa-Bedi,Facilities,Pune,jtiwari@mitter-rastogi.biz,MEDIUM,15,3.41,ACTIVE
+VEN00494,Purohit-More,Maintenance,Chennai,raaginiagrawal@more.biz,LOW,60,2.93,ACTIVE
+VEN00495,"Dutt, Parekh and Babu",Professional Services,Mumbai,gautami92@sane-gandhi.org,MEDIUM,15,4.02,ACTIVE
+VEN00496,Gour-Purohit,Travel,Mumbai,ndhingra@narang.com,LOW,90,4.66,ACTIVE
+VEN00497,Konda-Modi,Transportation,Bangalore,tzachariah@gandhi.com,LOW,30,4.49,ACTIVE
+VEN00498,Goel-Hans,Office Supplies,Hyderabad,zehaankrishnamurthy@saha-rao.com,LOW,15,4.67,ACTIVE
+VEN00499,Pandit Inc,Consulting,Pune,libni18@radhakrishnan.biz,LOW,15,3.16,ACTIVE
+VEN00500,Thakkar PLC,Office Supplies,Chennai,svenkatesh@sinha.com,LOW,15,3.85,ACTIVE
+VEN00501,"Kumar, Bahl and Korpal",Security,Pune,fiyaz86@naik.com,LOW,45,3.7,ACTIVE
+VEN00502,"Mistry, Mahajan and Batta",Marketing,Delhi,wahabchaudhuri@kota.biz,LOW,60,4.78,ACTIVE
+VEN00503,"Halder, Loyal and Singh",Legal Services,Delhi,zbir@jani.info,LOW,15,2.98,ACTIVE
+VEN00504,"Kota, Agate and Chand",Software,Delhi,nathanielbala@rajan.com,LOW,45,2.63,ACTIVE
+VEN00505,"Peri, Gole and Balasubramanian",Marketing,Bangalore,duawridesh@chaudhary.com,MEDIUM,60,3.38,ACTIVE
+VEN00506,Hayer and Sons,Travel,Delhi,rkalla@manne.org,LOW,90,4.86,ACTIVE
+VEN00507,"Goel, Buch and Ganesh",Transportation,Hyderabad,lbath@das.org,LOW,15,4.28,ACTIVE
+VEN00508,Sule-Grover,Professional Services,Delhi,chowdhuryqadim@pall.com,LOW,90,4.65,ACTIVE
+VEN00509,"Shan, Sunder and Nagarajan",Software,Hyderabad,aatwal@ahluwalia.info,LOW,45,2.67,ACTIVE
+VEN00510,Oommen-Kala,Office Supplies,Chennai,chaitalymore@khare.net,LOW,45,4.98,ACTIVE
+VEN00511,Comar-Pradhan,Professional Services,Delhi,munshibhavani@tailor.org,LOW,90,3.34,ACTIVE
+VEN00512,Comar Group,Facilities,Hyderabad,sethiadvay@subramanian.net,LOW,45,4.84,ACTIVE
+VEN00513,Bali LLC,Security,Mumbai,batrawazir@venkatesh.com,MEDIUM,45,4.08,ACTIVE
+VEN00514,"Comar, Gola and Jayaraman",Facilities,Hyderabad,isaiahrai@arora.org,MEDIUM,45,2.64,ACTIVE
+VEN00515,"Kala, Gokhale and Lanka",Facilities,Chennai,kaurliam@palla.biz,LOW,60,3.41,ACTIVE
+VEN00516,Patel and Sons,Office Supplies,Hyderabad,gadegaurang@choudhury.biz,LOW,90,4.04,ACTIVE
+VEN00517,Pal-Mannan,Office Supplies,Bangalore,tanveerganesh@tak-bala.com,MEDIUM,45,3.68,ACTIVE
+VEN00518,"Chacko, Rattan and Sehgal",Professional Services,Pune,chowdhuryrachita@yadav-sabharwal.com,MEDIUM,15,2.82,ACTIVE
+VEN00519,"Amble, Gola and Nagarajan",Office Supplies,Mumbai,nathranbir@ranganathan.biz,LOW,15,4.16,ACTIVE
+VEN00520,Kaur-Babu,Facilities,Bangalore,onveerbaria@mistry.com,HIGH,30,3.43,ACTIVE
+VEN00521,Bajaj LLC,Facilities,Mumbai,patelrudra@vig.com,LOW,90,4.52,ACTIVE
+VEN00522,Oommen Inc,Facilities,Mumbai,ynaidu@agate-wable.com,LOW,30,4.2,ACTIVE
+VEN00523,"Nagarajan, Gade and Manne",Maintenance,Hyderabad,csuri@kaul.net,LOW,30,3.33,ACTIVE
+VEN00524,Sarin-Seth,Hardware,Delhi,ubawa@karan.info,LOW,60,2.87,ACTIVE
+VEN00525,Mahajan-Menon,Marketing,Delhi,noriyashvi@nagy.com,LOW,60,3.8,ACTIVE
+VEN00526,Tank and Sons,Marketing,Chennai,dganesh@savant.net,HIGH,45,4.73,ACTIVE
+VEN00527,Bal Inc,Cloud Services,Bangalore,kalpitapte@chokshi-chana.com,LOW,60,3.57,ACTIVE
+VEN00528,Hans LLC,Cloud Services,Delhi,sanerohan@walla-balasubramanian.com,LOW,45,2.53,ACTIVE
+VEN00529,"Baral, Patla and Balan",Professional Services,Hyderabad,chavvibarman@murty-bhatt.com,MEDIUM,15,3.65,ACTIVE
+VEN00530,"Singh, Mahajan and Soman",Maintenance,Pune,chakrabartitriveni@ramaswamy.net,LOW,90,4.91,ACTIVE
+VEN00531,Sarraf-Sarin,Software,Delhi,ohayer@chakraborty.com,LOW,90,2.54,ACTIVE
+VEN00532,Bakshi-Morar,Cloud Services,Chennai,faris38@verma.com,LOW,45,3.26,ACTIVE
+VEN00533,Mahal LLC,IT Services,Pune,ytata@ratti.biz,MEDIUM,90,2.7,ACTIVE
+VEN00534,Nigam and Sons,Marketing,Mumbai,mohini01@barad-dua.com,LOW,15,4.16,ACTIVE
+VEN00535,Sami-Mohan,Consulting,Pune,falan77@dayal.com,LOW,90,3.25,ACTIVE
+VEN00536,"Agrawal, Krishnamurthy and Palla",Legal Services,Mumbai,dalajaseth@gaba.com,LOW,30,3.84,ACTIVE
+VEN00537,Gupta-Dixit,Telecommunications,Mumbai,panditqabil@loyal.com,MEDIUM,15,4.27,ACTIVE
+VEN00538,Thakkar-Tara,Office Supplies,Hyderabad,taragarg@gupta.info,LOW,45,4.76,ACTIVE
+VEN00539,"Babu, Gade and Kumer",Software,Pune,kibeyahvi@sampath-hayre.org,LOW,45,4.7,ACTIVE
+VEN00540,"Morar, Rajagopalan and Mangat",Security,Pune,amaira27@kaul.biz,LOW,60,4.05,ACTIVE
+VEN00541,"Palan, Deep and Khatri",Facilities,Hyderabad,sahasudiksha@ganesan-dugal.info,MEDIUM,45,3.85,ACTIVE
+VEN00542,Nath and Sons,Cloud Services,Chennai,devikaaggarwal@dugar-bhalla.com,LOW,45,3.07,ACTIVE
+VEN00543,Samra-Hayer,Legal Services,Pune,anamikabhargava@lala.com,LOW,45,4.02,ACTIVE
+VEN00544,Prasad Group,Software,Delhi,aadhyaoza@sagar.biz,LOW,15,4.7,ACTIVE
+VEN00545,Wable PLC,IT Services,Hyderabad,ngopal@patla.com,LOW,45,3.32,ACTIVE
+VEN00546,Majumdar-Lata,Travel,Pune,janani14@madan.com,LOW,45,3.62,ACTIVE
+VEN00547,Brahmbhatt Inc,Marketing,Delhi,qnori@lanka.info,LOW,30,3.55,ACTIVE
+VEN00548,"Mani, Ganesan and Buch",IT Services,Hyderabad,praneel46@tiwari.com,LOW,90,4.01,ACTIVE
+VEN00549,Edwin PLC,Consulting,Mumbai,dasnikita@swaminathan-ghose.com,LOW,45,2.99,ACTIVE
+VEN00550,"Ram, Mani and Gokhale",Maintenance,Hyderabad,qghose@jayaraman-naidu.com,LOW,60,4.99,ACTIVE
+VEN00551,"Wable, Tandon and Prasad",Facilities,Hyderabad,parsawriddhish@bhat.com,MEDIUM,60,4.28,ACTIVE
+VEN00552,Lal LLC,Security,Pune,wadhwathomas@srinivasan-goel.com,LOW,60,3.33,ACTIVE
+VEN00553,Nori Group,Software,Hyderabad,abhanair@hegde.net,LOW,90,3.88,ACTIVE
+VEN00554,Dey LLC,Transportation,Pune,pmital@sridhar.com,LOW,60,2.99,ACTIVE
+VEN00555,Jha-Batta,Office Supplies,Chennai,luthraojasvi@sandal.org,LOW,60,4.99,ACTIVE
+VEN00556,Comar-Bala,Hardware,Mumbai,psachdev@sehgal.com,LOW,60,3.21,ACTIVE
+VEN00557,Venkataraman Group,Maintenance,Pune,rajuhamsini@samra.com,LOW,60,2.6,ACTIVE
+VEN00558,Chacko-Palla,Hardware,Pune,chaudryhritik@nagar.com,MEDIUM,45,3.88,ACTIVE
+VEN00559,"Halder, Bumb and Sagar",Security,Pune,agarwalaachal@grover.com,LOW,90,4.48,ACTIVE
+VEN00560,"Sagar, Vaidya and Karan",Telecommunications,Delhi,isaiahgera@raman.com,LOW,30,4.82,ACTIVE
+VEN00561,"Merchant, Dhaliwal and Prabhu",Telecommunications,Delhi,sheremegha@sethi-tiwari.com,MEDIUM,45,2.71,ACTIVE
+VEN00562,Bali Inc,Software,Pune,mangalfrado@madan-deshpande.com,MEDIUM,60,3.41,ACTIVE
+VEN00563,Atwal-Soni,Maintenance,Delhi,vrindagara@walla.com,LOW,15,4.83,ACTIVE
+VEN00564,"Pandya, Pillay and Gara",Consulting,Delhi,anjali75@singhal.info,LOW,60,4.72,ACTIVE
+VEN00565,"Thakur, Garde and Karpe",Marketing,Hyderabad,oakdipta@sridhar-singh.org,LOW,90,2.64,ACTIVE
+VEN00566,"Warrior, Joshi and Ramakrishnan",Consulting,Bangalore,bsaraf@muni-chaudhry.com,LOW,90,2.87,ACTIVE
+VEN00567,Kamdar-Mahajan,IT Services,Hyderabad,nadigaayush@karpe-bhalla.com,LOW,60,3.1,ACTIVE
+VEN00568,Saraf-Bal,Software,Delhi,ishanirout@rajagopal.org,MEDIUM,45,4.83,ACTIVE
+VEN00569,Kakar-Parikh,Facilities,Delhi,upadhriti60@narain-bumb.com,LOW,60,4.09,ACTIVE
+VEN00570,Bhandari Inc,Marketing,Bangalore,kai62@devan.com,MEDIUM,30,3.71,ACTIVE
+VEN00571,Vyas Inc,Consulting,Pune,arunimapai@memon.com,MEDIUM,30,3.79,ACTIVE
+VEN00572,"Kaur, Nagy and Ravi",Travel,Pune,wridesh52@konda-singhal.info,MEDIUM,30,4.13,ACTIVE
+VEN00573,"Narayanan, Barad and Sekhon",Transportation,Hyderabad,xpatil@shanker-kapoor.info,LOW,30,3.39,ACTIVE
+VEN00574,Pandit-Dubey,Transportation,Hyderabad,faqid22@mannan-saini.info,LOW,90,4.21,ACTIVE
+VEN00575,"Behl, Butala and Swamy",Security,Pune,omkaar27@gill.com,LOW,15,4.85,ACTIVE
+VEN00576,Kadakia PLC,Hardware,Delhi,qtaneja@bera.com,LOW,45,3.02,ACTIVE
+VEN00577,"Varughese, Nori and Luthra",Maintenance,Hyderabad,sarmaaadi@lala.com,LOW,15,2.59,ACTIVE
+VEN00578,"Butala, Dave and Mandal",IT Services,Chennai,oeshinagarajan@nagarajan-kant.net,LOW,90,4.83,ACTIVE
+VEN00579,Biswas-Jaggi,IT Services,Chennai,tprashad@nath.org,LOW,30,4.37,ACTIVE
+VEN00580,Sahni-Bobal,Cloud Services,Delhi,kalpit62@madan.net,MEDIUM,60,3.9,ACTIVE
+VEN00581,Dhaliwal-Bains,Security,Pune,nkorpal@reddy-bose.com,LOW,60,4.49,ACTIVE
+VEN00582,"Tara, Vora and Tandon",Transportation,Pune,saumyadhawan@gola.org,LOW,90,4.73,ACTIVE
+VEN00583,Kamdar Ltd,Cloud Services,Bangalore,mangatharsh@bhatti.biz,HIGH,60,4.45,ACTIVE
+VEN00584,Korpal and Sons,Consulting,Chennai,darshthaman@manne-manda.com,LOW,90,4.41,ACTIVE
+VEN00585,"Mitra, Krish and Saini",Facilities,Bangalore,qbhagat@babu.org,LOW,15,2.89,ACTIVE
+VEN00586,Chahal and Sons,Telecommunications,Hyderabad,dzachariah@dutt.org,LOW,30,3.42,ACTIVE
+VEN00587,Sagar Group,Maintenance,Mumbai,dtara@sha-khatri.biz,HIGH,30,4.94,ACTIVE
+VEN00588,Shan-Purohit,Software,Hyderabad,ishanvi54@bhardwaj-joshi.com,LOW,60,4.36,ACTIVE
+VEN00589,"Choudhry, Narayanan and Krishna",Facilities,Chennai,ishitachoudhry@bedi.biz,LOW,45,2.84,ACTIVE
+VEN00590,"Jayaraman, Murty and Prabhu",Hardware,Bangalore,wahabbawa@deshmukh.com,LOW,15,2.77,ACTIVE
+VEN00591,"Butala, Jha and Patla",Legal Services,Chennai,mukhopadhyayzinal@nayar-balakrishnan.info,MEDIUM,60,4.71,ACTIVE
+VEN00592,Dhar Group,IT Services,Chennai,anay62@atwal-rajan.info,LOW,45,3.27,ACTIVE
+VEN00593,Cherian-Nagarajan,IT Services,Hyderabad,mishradamini@sood.com,LOW,90,4.78,ACTIVE
+VEN00594,Mangal-Konda,Transportation,Hyderabad,laban79@krish-bhagat.com,LOW,45,2.52,ACTIVE
+VEN00595,"Manda, Bera and Sarkar",Security,Bangalore,vanya25@bandi.com,LOW,30,4.9,ACTIVE
+VEN00596,"Patel, Tripathi and Jhaveri",Travel,Chennai,xshere@dyal.net,MEDIUM,30,3.18,ACTIVE
+VEN00597,Yadav LLC,Maintenance,Delhi,mitalishita@rajagopalan.com,LOW,60,3.22,ACTIVE
+VEN00598,"Bhavsar, Majumdar and Murthy",Legal Services,Chennai,tmemon@krishnamurthy-nagy.com,MEDIUM,30,3.63,ACTIVE
+VEN00599,Ahuja Inc,Software,Mumbai,elijah52@dugal-vora.biz,LOW,45,3.9,ACTIVE
+VEN00600,Yohannan-Pau,Professional Services,Delhi,aadhya70@thakkar.info,LOW,90,4.21,ACTIVE
+VEN00601,Pal-Bath,Security,Bangalore,mitrakeya@bassi-kari.biz,MEDIUM,30,4.02,ACTIVE
+VEN00602,Dhar-Oza,Maintenance,Pune,daveyahvi@bala.com,MEDIUM,30,4.88,ACTIVE
+VEN00603,Sule-Bali,Office Supplies,Delhi,rkhurana@sampath.com,LOW,15,2.9,ACTIVE
+VEN00604,Chaudhari-Kant,Security,Mumbai,advik79@datta.com,LOW,60,3.04,ACTIVE
+VEN00605,Srivastava-Naik,Consulting,Mumbai,vinayapai@gola-thakkar.com,MEDIUM,15,2.67,ACTIVE
+VEN00606,Ratta Group,Software,Pune,gautam50@raman-verma.net,LOW,90,4.52,ACTIVE
+VEN00607,Palan LLC,Transportation,Pune,schoudhary@patla-sagar.biz,LOW,90,3.37,ACTIVE
+VEN00608,Sama Group,Consulting,Bangalore,caleb93@khare-rama.com,MEDIUM,45,3.94,ACTIVE
+VEN00609,Atwal-Om,Travel,Chennai,dipta16@bora.com,LOW,90,3.47,ACTIVE
+VEN00610,"Natt, Sagar and Guha",Transportation,Hyderabad,karanlal@borde-vaidya.com,MEDIUM,15,3.34,ACTIVE
+VEN00611,Rana-Raval,Marketing,Mumbai,davefinn@sanghvi.info,HIGH,45,4.19,ACTIVE
+VEN00612,"Muni, Rama and Sunder",Marketing,Hyderabad,vasatika98@rege.org,LOW,45,2.87,ACTIVE
+VEN00613,Kapur-Bhardwaj,Facilities,Chennai,neel70@jayaraman-ramachandran.org,LOW,15,4.1,ACTIVE
+VEN00614,Gole LLC,Travel,Hyderabad,samizashil@keer.com,LOW,60,2.5,ACTIVE
+VEN00615,Subramanian LLC,Maintenance,Chennai,hanne@ramakrishnan-jani.com,LOW,60,2.56,ACTIVE
+VEN00616,"Chana, Thakkar and Sandal",Transportation,Bangalore,unnatibadal@patil.biz,LOW,15,4.51,ACTIVE
+VEN00617,Salvi and Sons,IT Services,Chennai,reyansharora@gulati-pall.biz,LOW,90,3.71,ACTIVE
+VEN00618,Jhaveri-Pandit,Maintenance,Mumbai,xsha@mann-ganesan.org,LOW,15,4.74,ACTIVE
+VEN00619,"More, Bhattacharyya and Agarwal",Security,Mumbai,abhiram03@dutta.com,LOW,45,3.25,ACTIVE
+VEN00620,Datta LLC,Consulting,Pune,saimodi@raj.com,MEDIUM,60,4.85,ACTIVE
+VEN00621,"Karnik, Om and Sachdev",Security,Delhi,daliayutika@dora.net,MEDIUM,30,2.91,ACTIVE
+VEN00622,Sanghvi Ltd,IT Services,Pune,yashasvi62@bhavsar.com,LOW,45,3.21,ACTIVE
+VEN00623,"Chauhan, Chandra and Gade",Software,Delhi,shuklavedhika@balan.biz,LOW,45,4.91,ACTIVE
+VEN00624,Ramaswamy-Karnik,Cloud Services,Delhi,emodi@tripathi.com,LOW,30,4.05,ACTIVE
+VEN00625,Sachdeva LLC,Professional Services,Pune,gayathri03@swamy.com,LOW,90,4.59,ACTIVE
+VEN00626,"Ghose, Mall and Balasubramanian",Maintenance,Chennai,vrittipatel@pai.com,MEDIUM,45,4.2,ACTIVE
+VEN00627,"Chokshi, Iyer and Dugal",Legal Services,Delhi,hemal27@narayan.com,LOW,30,3.34,ACTIVE
+VEN00628,"Oommen, Batta and Krish",Security,Pune,pingleneha@sha.com,LOW,90,4.08,ACTIVE
+VEN00629,Rao LLC,Marketing,Pune,bhanumatimaster@bora.com,MEDIUM,45,2.71,ACTIVE
+VEN00630,"Tiwari, Khanna and Tripathi",Facilities,Mumbai,aayushborah@dara-malhotra.org,LOW,15,3.26,ACTIVE
+VEN00631,Sathe-Taneja,Maintenance,Chennai,kloyal@korpal.com,LOW,90,2.99,ACTIVE
+VEN00632,Pandey-Sastry,IT Services,Pune,ipal@ganesan.com,MEDIUM,60,2.82,ACTIVE
+VEN00633,"Narang, Luthra and Bajwa",Facilities,Bangalore,dalajalall@minhas.com,MEDIUM,45,3.36,ACTIVE
+VEN00634,Srinivasan-Rout,Security,Bangalore,ubose@wason.com,LOW,45,3.04,ACTIVE
+VEN00635,"Oak, Babu and Bandi",Travel,Bangalore,pillaihiral@ratta.com,LOW,60,4.41,ACTIVE
+VEN00636,Joshi PLC,Office Supplies,Bangalore,raghav60@mane.com,LOW,60,4.68,ACTIVE
+VEN00637,"Sharaf, Balasubramanian and Sagar",Travel,Mumbai,jcherian@karpe-rout.com,LOW,60,3.09,ACTIVE
+VEN00638,"Wali, Tailor and Warrior",Professional Services,Pune,sarmalaban@dey.com,MEDIUM,30,4.64,ACTIVE
+VEN00639,"Kala, Chaudhry and Bhavsar",Software,Mumbai,advaysane@sood-sangha.com,MEDIUM,60,3.14,ACTIVE
+VEN00640,Gade-Badal,Maintenance,Mumbai,sachikapoor@krishna-thakur.com,MEDIUM,15,3.12,ACTIVE
+VEN00641,Pathak-Salvi,IT Services,Hyderabad,dacharya@chaudhuri.biz,HIGH,45,4.75,ACTIVE
+VEN00642,"Nanda, Swaminathan and Mangat",Software,Hyderabad,nikitasuresh@bandi-nadkarni.com,LOW,30,2.65,ACTIVE
+VEN00643,Seshadri-Jaggi,Marketing,Delhi,faqidramanathan@ahluwalia-om.com,LOW,15,4.54,ACTIVE
+VEN00644,Walia-Tandon,Software,Pune,chandreshpandya@thakkar.com,MEDIUM,45,4.39,ACTIVE
+VEN00645,Dyal LLC,Travel,Bangalore,girindradeshpande@goda.com,LOW,15,3.96,ACTIVE
+VEN00646,Magar-Tandon,IT Services,Hyderabad,balifalak@behl.com,LOW,30,4.55,ACTIVE
+VEN00647,Raju-Das,IT Services,Pune,unni00@bobal.com,LOW,60,4.24,ACTIVE
+VEN00648,Seshadri and Sons,IT Services,Pune,aarini67@kata.com,LOW,60,4.69,ACTIVE
+VEN00649,Ratti PLC,Cloud Services,Hyderabad,bachittarmajumdar@kade.org,LOW,90,3.48,ACTIVE
+VEN00650,"Nadkarni, Radhakrishnan and Tank",Consulting,Hyderabad,viswanathantheodore@chopra.com,LOW,30,2.91,ACTIVE
+VEN00651,Memon-Dass,Office Supplies,Delhi,parth51@chadha.com,LOW,90,3.38,ACTIVE
+VEN00652,Pandit PLC,Consulting,Mumbai,akshay94@mandal.com,LOW,45,3.28,ACTIVE
+VEN00653,Sen-Bansal,Office Supplies,Hyderabad,liamkoshy@sem.biz,LOW,60,3.35,ACTIVE
+VEN00654,Bansal-Ram,Software,Hyderabad,ekajabobal@mukherjee.com,LOW,45,2.83,ACTIVE
+VEN00655,"Singhal, Kamdar and Walla",Cloud Services,Delhi,smangat@hayer.com,LOW,45,2.84,ACTIVE
+VEN00656,"Hegde, Reddy and Khare",Office Supplies,Bangalore,samarthsem@anand.biz,LOW,60,2.65,ACTIVE
+VEN00657,Uppal and Sons,Facilities,Mumbai,sodhijason@more-buch.net,LOW,90,4.48,ACTIVE
+VEN00658,Dalal-Kapadia,Transportation,Hyderabad,henrybrahmbhatt@upadhyay-sachdeva.com,LOW,15,4.22,ACTIVE
+VEN00659,Sarma-Sen,Office Supplies,Pune,fsethi@deshpande.net,LOW,30,4.16,ACTIVE
+VEN00660,"Deshmukh, Bandi and Kari",Maintenance,Delhi,dugalsachi@sarma-madan.com,LOW,30,2.8,ACTIVE
+VEN00661,Thakur-Grewal,Transportation,Chennai,agastyakadakia@arya-radhakrishnan.info,LOW,30,3.79,ACTIVE
+VEN00662,Wagle-Subramaniam,Professional Services,Bangalore,garaamaira@sodhi.com,LOW,30,4.99,ACTIVE
+VEN00663,Shroff-Bhatt,Facilities,Delhi,nidhimanda@sachdeva.com,LOW,45,3.01,ACTIVE
+VEN00664,More LLC,Professional Services,Delhi,snehaparekh@pant.com,LOW,45,4.78,ACTIVE
+VEN00665,Vasa-Wali,Maintenance,Pune,ekantikadewan@saini.net,LOW,15,4.68,ACTIVE
+VEN00666,Chawla-Chauhan,Professional Services,Delhi,murtyrachita@krish-kata.net,LOW,90,3.39,ACTIVE
+VEN00667,Borde-Nagarajan,Office Supplies,Delhi,ssangha@salvi.com,MEDIUM,60,4.98,ACTIVE
+VEN00668,Sachdev PLC,Transportation,Pune,jainyamini@kadakia.com,MEDIUM,90,3.97,ACTIVE
+VEN00669,Naik-Bhasin,Software,Mumbai,vedhikanagarajan@sangha.com,LOW,90,3.92,ACTIVE
+VEN00670,"Padmanabhan, Puri and Jain",Travel,Pune,samuelzachariah@dora.org,LOW,30,4.28,ACTIVE
+VEN00671,Devi-Mallick,Hardware,Hyderabad,siya05@nadig.info,MEDIUM,90,4.83,ACTIVE
+VEN00672,"Deol, Rau and Handa",Facilities,Mumbai,jainojas@dhillon-shetty.com,LOW,45,4.09,ACTIVE
+VEN00673,Choudhary-Vohra,Office Supplies,Hyderabad,tdyal@vaidya.com,LOW,30,3.52,ACTIVE
+VEN00674,Sahni-Gole,Maintenance,Delhi,upasnabakshi@padmanabhan.com,LOW,15,3.65,ACTIVE
+VEN00675,Sawhney-Goyal,IT Services,Mumbai,gvyas@gulati.com,LOW,15,4.82,ACTIVE
+VEN00676,"Mand, Chana and Gill",Consulting,Mumbai,liamuppal@acharya.com,LOW,15,2.61,ACTIVE
+VEN00677,Krishna Ltd,Facilities,Mumbai,thakerjalsa@om-pillai.com,MEDIUM,90,2.81,ACTIVE
+VEN00678,Zacharia PLC,Security,Delhi,eeshayohannan@khare.com,MEDIUM,90,4.68,ACTIVE
+VEN00679,Kata LLC,Facilities,Chennai,bkar@dutt.com,LOW,90,3.82,ACTIVE
+VEN00680,Soman-Halder,IT Services,Chennai,chavvi90@sekhon-rai.com,LOW,90,3.6,ACTIVE
+VEN00681,Chaudhry-Sandhu,Office Supplies,Hyderabad,fdewan@divan.com,LOW,15,4.56,ACTIVE
+VEN00682,Vohra Group,Professional Services,Bangalore,nikitayadav@raju-master.com,MEDIUM,90,3.03,ACTIVE
+VEN00683,Sarma-Raju,Software,Mumbai,viswanathanparth@bahri.com,MEDIUM,30,4.12,ACTIVE
+VEN00684,Sarna-Goel,Transportation,Bangalore,megha73@kadakia-brahmbhatt.biz,LOW,15,3.44,ACTIVE
+VEN00685,Kohli Inc,Facilities,Chennai,lila01@dugar-ramesh.com,MEDIUM,60,4.06,ACTIVE
+VEN00686,"Atwal, Keer and Johal",Maintenance,Delhi,mmuni@varma.info,LOW,45,3.16,ACTIVE
+VEN00687,Buch-Chana,Consulting,Bangalore,qkhatri@kapadia.com,MEDIUM,90,4.47,ACTIVE
+VEN00688,Chaudhari Group,Professional Services,Chennai,xkeer@sankar-gola.com,LOW,45,4.28,ACTIVE
+VEN00689,"Mahal, Patil and Nadkarni",Software,Hyderabad,elijah40@narula.com,MEDIUM,30,4.17,ACTIVE
+VEN00690,Pandey Inc,Office Supplies,Delhi,agarwalyasti@vyas-sane.com,MEDIUM,15,4.85,ACTIVE
+VEN00691,Raja Ltd,Professional Services,Delhi,vbassi@bhasin.com,MEDIUM,30,3.35,ACTIVE
+VEN00692,Sahota-Badami,Maintenance,Mumbai,satheadweta@nayak.org,LOW,30,2.8,ACTIVE
+VEN00693,Raghavan and Sons,Office Supplies,Bangalore,arunima10@ramachandran-swamy.net,MEDIUM,30,4.65,ACTIVE
+VEN00694,"Mani, Nagarajan and Singhal",Security,Hyderabad,manbirborra@palla-bhalla.com,LOW,15,3.31,ACTIVE
+VEN00695,"Mahal, Dua and Kakar",Professional Services,Mumbai,hirallata@kumar.com,HIGH,30,4.98,ACTIVE
+VEN00696,Aurora Ltd,Facilities,Chennai,ngarg@prasad.com,LOW,15,4.34,ACTIVE
+VEN00697,"Bal, Pal and Balasubramanian",Legal Services,Pune,csaraf@krishnan.com,LOW,60,3.02,ACTIVE
+VEN00698,Kapadia Ltd,Telecommunications,Chennai,jairajtata@kumar.org,MEDIUM,90,4.23,ACTIVE
+VEN00699,Parikh-Kumer,Hardware,Pune,gardenoah@gokhale-dugar.com,LOW,15,4.13,ACTIVE
+VEN00700,Tripathi Ltd,Marketing,Hyderabad,parikhpratyush@upadhyay.com,LOW,30,3.37,ACTIVE
+VEN00701,Choudhry Group,Legal Services,Mumbai,haggarwal@sahni.biz,LOW,45,3.4,ACTIVE
+VEN00702,Natt Inc,Travel,Chennai,dakshesh73@deshpande.com,LOW,30,4.93,ACTIVE
+VEN00703,"Merchant, Khare and Bhagat",Office Supplies,Mumbai,ompau@ganguly.com,LOW,60,2.51,ACTIVE
+VEN00704,"Ranganathan, Doshi and Khatri",Facilities,Hyderabad,yashasvimanda@batta-kata.info,LOW,30,3.14,ACTIVE
+VEN00705,"Ramaswamy, Pant and Kurian",Software,Bangalore,amairadubey@parekh.com,LOW,15,4.83,ACTIVE
+VEN00706,Bal PLC,Transportation,Pune,gkumar@sabharwal-korpal.com,LOW,60,3.14,ACTIVE
+VEN00707,"Batra, Varma and Nagar",Facilities,Delhi,natarajandakshesh@vaidya-tandon.com,LOW,90,4.59,ACTIVE
+VEN00708,Bala-Murty,Cloud Services,Pune,dasssiddharth@sura-garde.com,LOW,90,3.18,ACTIVE
+VEN00709,Ben Group,Cloud Services,Hyderabad,bhavya47@kata.info,LOW,30,2.72,ACTIVE
+VEN00710,Sundaram LLC,Facilities,Mumbai,balansai@kunda.net,MEDIUM,30,4.38,ACTIVE
+VEN00711,"Thaman, Malhotra and Wagle",Transportation,Hyderabad,rnarayan@joshi-srinivas.com,LOW,60,4.58,ACTIVE
+VEN00712,Radhakrishnan-Ravel,Hardware,Chennai,cahluwalia@kanda.biz,MEDIUM,60,4.41,ACTIVE
+VEN00713,"Bhardwaj, Master and Singhal",Telecommunications,Mumbai,hemang20@cherian.biz,MEDIUM,45,4.17,ACTIVE
+VEN00714,"Kade, Thaker and Dube",Security,Mumbai,kevin89@manda.com,LOW,45,2.64,ACTIVE
+VEN00715,"Koshy, Patla and Dada",Office Supplies,Bangalore,ibadami@narasimhan-subramanian.info,LOW,60,4.95,ACTIVE
+VEN00716,Deo-Sani,Legal Services,Chennai,jmann@kalla.com,LOW,90,4.96,ACTIVE
+VEN00717,Hegde-Ratta,Cloud Services,Delhi,evirk@murty-doctor.com,MEDIUM,30,3.34,ACTIVE
+VEN00718,"Bhavsar, Kothari and Nigam",Maintenance,Hyderabad,vinayarajan@dugar-varma.com,LOW,45,3.14,ACTIVE
+VEN00719,"Kannan, Apte and Kadakia",Transportation,Mumbai,wridesh95@ranganathan.net,MEDIUM,15,4.28,ACTIVE
+VEN00720,"Yogi, Pal and Guha",Marketing,Chennai,upadhritikhalsa@balan-chander.com,LOW,60,3.24,ACTIVE
+VEN00721,Suresh-Modi,Office Supplies,Chennai,rnarasimhan@suri.info,MEDIUM,15,4.63,ACTIVE
+VEN00722,Majumdar PLC,Security,Bangalore,sahnitara@bir.biz,LOW,30,4.31,ACTIVE
+VEN00723,Srinivas-Seshadri,Transportation,Bangalore,lekhachandra@iyer.com,MEDIUM,60,2.76,ACTIVE
+VEN00724,Oza Group,Legal Services,Pune,neelimachar@venkataraman.com,LOW,30,3.33,ACTIVE
+VEN00725,Choudhary-Taneja,Facilities,Pune,pushti94@balay.com,HIGH,45,2.96,ACTIVE
+VEN00726,Thakkar Ltd,Travel,Delhi,zsetty@samra.org,HIGH,45,3.03,ACTIVE
+VEN00727,Ram LLC,Transportation,Hyderabad,ogolla@kota-morar.com,MEDIUM,30,4.94,ACTIVE
+VEN00728,Balay LLC,Security,Delhi,ria86@choudhry-dhillon.biz,LOW,90,4.6,ACTIVE
+VEN00729,Sood-Dutta,Legal Services,Pune,dhawanjacob@swaminathan.org,MEDIUM,30,2.91,ACTIVE
+VEN00730,"Walla, Upadhyay and Peri",Facilities,Mumbai,aarnabhatt@ravel.com,MEDIUM,30,3.34,ACTIVE
+VEN00731,Pall Ltd,Office Supplies,Bangalore,jhalak37@karan.com,LOW,60,3.15,ACTIVE
+VEN00732,Saha-Jani,Cloud Services,Pune,wagleekani@raval-tak.com,LOW,30,3.08,ACTIVE
+VEN00733,Dasgupta-Saran,Transportation,Delhi,aadhya81@mody-agate.com,MEDIUM,30,4.82,ACTIVE
+VEN00734,Magar Inc,Facilities,Chennai,apingle@dixit.com,LOW,60,4.7,ACTIVE
+VEN00735,Sami LLC,Professional Services,Delhi,saxenavedika@roy.com,MEDIUM,30,2.91,ACTIVE
+VEN00736,Thakur Ltd,Hardware,Chennai,dalaja27@loke.org,MEDIUM,30,4.95,ACTIVE
+VEN00737,"Sunder, Dixit and Prasad",Facilities,Chennai,srinivasanrobert@reddy-nagy.com,LOW,45,2.53,ACTIVE
+VEN00738,Peri-Trivedi,Office Supplies,Bangalore,qkohli@bhavsar-bhasin.com,LOW,45,2.83,ACTIVE
+VEN00739,Dhar LLC,Facilities,Chennai,saniwarhi@dara-naik.com,LOW,90,3.7,ACTIVE
+VEN00740,"Rattan, Agate and Chhabra",Travel,Hyderabad,omann@bahri.com,LOW,30,3.4,ACTIVE
+VEN00741,Purohit-Bhargava,IT Services,Chennai,memonjai@chaudhary.biz,LOW,45,4.16,ACTIVE
+VEN00742,Shroff-Pandey,Cloud Services,Bangalore,varshaacharya@choudhry-dugal.info,LOW,60,3.44,ACTIVE
+VEN00743,"Sidhu, Chauhan and Sarna",Marketing,Mumbai,vkala@andra-roy.com,LOW,30,3.52,ACTIVE
+VEN00744,Shanker and Sons,Consulting,Hyderabad,menonshivansh@chaudhuri.info,LOW,90,4.8,ACTIVE
+VEN00745,Deshmukh-Ganesh,Marketing,Chennai,jbanerjee@pall.com,LOW,60,3.86,ACTIVE
+VEN00746,Kata-Bhavsar,Facilities,Mumbai,yashvi46@subramanian-date.com,MEDIUM,15,4.6,ACTIVE
+VEN00747,Bhagat-Mandal,Professional Services,Pune,gsibal@basu.com,MEDIUM,45,4.5,ACTIVE
+VEN00748,Bail-Raman,Professional Services,Mumbai,nagarajanindali@goyal.com,LOW,30,3.99,ACTIVE
+VEN00749,Kurian Inc,Maintenance,Delhi,fkara@dubey.com,LOW,45,3.95,ACTIVE
+VEN00750,"Sankaran, Rajagopalan and Sarna",Telecommunications,Bangalore,uravi@agrawal-nair.com,LOW,15,3.76,ACTIVE
+VEN00751,"Gola, Mall and Dugar",Security,Hyderabad,sabharwalarunima@natt.com,LOW,15,3.49,ACTIVE
+VEN00752,"Saraf, Borah and Shukla",Cloud Services,Delhi,pauekansh@venkataraman.com,LOW,45,2.96,ACTIVE
+VEN00753,Kapur-Grover,Security,Chennai,kapoorkritika@rajan-minhas.com,LOW,15,3.35,ACTIVE
+VEN00754,Pradhan-Deol,Professional Services,Chennai,uchoudhary@balan.com,LOW,30,3.24,ACTIVE
+VEN00755,"Pall, Pau and Tank",Hardware,Delhi,patlanaksh@prakash.net,LOW,45,4.19,ACTIVE
+VEN00756,Loke-Mann,Transportation,Pune,daterayaan@saraf-ghose.com,LOW,15,4.81,ACTIVE
+VEN00757,"Ranganathan, Dora and Rastogi",Facilities,Pune,diptasankar@banerjee.com,LOW,15,4.86,ACTIVE
+VEN00758,Pal-Bhatnagar,Cloud Services,Mumbai,gagan79@patil-borra.org,LOW,60,3.49,ACTIVE
+VEN00759,Soman PLC,Software,Bangalore,gaurika31@sha.com,MEDIUM,60,3.71,ACTIVE
+VEN00760,Natt-Wagle,Legal Services,Pune,bhattiwaida@dutta-choudhury.com,MEDIUM,90,4.73,ACTIVE
+VEN00761,Saha-Chakraborty,Maintenance,Mumbai,rmalhotra@bose-nagarajan.com,MEDIUM,45,2.75,ACTIVE
+VEN00762,"Sankar, Nayak and Kothari",Security,Bangalore,lohitdatta@lal.net,LOW,45,3.53,ACTIVE
+VEN00763,Agate Inc,Telecommunications,Hyderabad,hritik29@savant.com,LOW,45,4.17,ACTIVE
+VEN00764,Krishnamurthy and Sons,Consulting,Delhi,jmittal@dar.net,MEDIUM,15,3.34,ACTIVE
+VEN00765,Sura PLC,Security,Bangalore,abhiramatwal@badami.net,LOW,30,4.61,ACTIVE
+VEN00766,"Arora, Narayan and Trivedi",Marketing,Mumbai,daraamrita@hans.com,LOW,15,3.36,ACTIVE
+VEN00767,"Bakshi, Oak and Bandi",Cloud Services,Delhi,bavaharinakshi@kant-om.net,LOW,45,4.17,ACTIVE
+VEN00768,"Sankaran, Barad and Gour",Cloud Services,Chennai,keerekapad@roy.biz,LOW,90,4.79,ACTIVE
+VEN00769,"Mitter, Sahota and Bains",Legal Services,Bangalore,falandyal@sani-sem.biz,LOW,45,3.15,ACTIVE
+VEN00770,Dhawan-Tiwari,Transportation,Delhi,dixitidika@viswanathan.com,LOW,90,4.61,ACTIVE
+VEN00771,Shankar LLC,Marketing,Pune,ekani91@ramachandran.org,MEDIUM,30,3.77,ACTIVE
+VEN00772,Acharya and Sons,Office Supplies,Mumbai,farhanlad@sant.com,LOW,90,2.75,ACTIVE
+VEN00773,Dar-Saini,Transportation,Pune,fpandya@char.com,LOW,60,4.89,ACTIVE
+VEN00774,"Pai, Bhandari and Mitter",Hardware,Mumbai,yachanarandhawa@chaudhry-rao.com,LOW,30,4.03,ACTIVE
+VEN00775,Baral-Wadhwa,Security,Bangalore,udhawan@naidu.com,LOW,15,4.25,ACTIVE
+VEN00776,Bajaj Group,Professional Services,Pune,anikasuresh@kumar-chandra.com,LOW,60,4.22,ACTIVE
+VEN00777,Chaudhary-Kalla,Facilities,Mumbai,janani74@ranganathan-dani.net,MEDIUM,60,3.81,ACTIVE
+VEN00778,"Arya, Naidu and Thaman",Cloud Services,Hyderabad,yatanmuni@vasa.com,MEDIUM,30,2.83,ACTIVE
+VEN00779,Mallick-Dhaliwal,Maintenance,Chennai,hvarma@uppal-dash.org,LOW,15,3.51,ACTIVE
+VEN00780,Aurora Group,Transportation,Mumbai,ypradhan@hayre.org,MEDIUM,90,4.96,ACTIVE
+VEN00781,Dhar-Shanker,Cloud Services,Hyderabad,igade@sachdeva.com,LOW,15,3.76,ACTIVE
+VEN00782,Ghosh Group,Hardware,Delhi,vihaan41@jha.info,LOW,15,3.36,ACTIVE
+VEN00783,"Bali, Dyal and Desai",Professional Services,Hyderabad,chakrabartisuhani@buch-bala.biz,LOW,60,3.17,ACTIVE
+VEN00784,Minhas LLC,Telecommunications,Chennai,deollibni@mangat.com,LOW,45,2.69,ACTIVE
+VEN00785,Kala-Mall,Software,Hyderabad,mandayatin@bora.com,MEDIUM,90,3.96,ACTIVE
+VEN00786,Dasgupta PLC,Professional Services,Pune,dsane@bedi.info,LOW,45,4.14,ACTIVE
+VEN00787,"Kurian, Singhal and Subramaniam",Software,Chennai,charanchatterjee@bhat.com,MEDIUM,45,2.92,ACTIVE
+VEN00788,"Karpe, Upadhyay and Krishna",Software,Mumbai,upadhritighose@badami-chad.net,LOW,60,3.28,ACTIVE
+VEN00789,Singh-Soni,Transportation,Mumbai,tristan34@deol.com,LOW,30,4.59,ACTIVE
+VEN00790,"Kara, Dayal and Desai",Security,Pune,kabir57@seshadri-golla.info,LOW,90,3.91,ACTIVE
+VEN00791,Krishnan-Pathak,Hardware,Bangalore,dnori@chhabra.net,LOW,15,3.9,ACTIVE
+VEN00792,"Padmanabhan, Grover and Chander",IT Services,Pune,mandadayamai@banerjee-karan.biz,LOW,60,4.21,ACTIVE
+VEN00793,Wali and Sons,Travel,Chennai,fwarrior@tiwari.com,LOW,15,2.59,ACTIVE
+VEN00794,"Mangal, Shere and Narula",Transportation,Pune,jyotithakur@mukhopadhyay.com,MEDIUM,30,3.14,ACTIVE
+VEN00795,Konda-Goel,IT Services,Chennai,wyatt20@nadig.biz,MEDIUM,30,3.86,ACTIVE
+VEN00796,Saini Ltd,Consulting,Mumbai,amann@saxena.com,LOW,90,3.94,ACTIVE
+VEN00797,"Varughese, Saraf and Kale",Hardware,Pune,obrar@nanda.org,LOW,30,3.5,ACTIVE
+VEN00798,Bhattacharyya Inc,Telecommunications,Bangalore,raksha23@natarajan.org,LOW,45,2.63,ACTIVE
+VEN00799,Sharma-Kala,Software,Chennai,ksura@devan-rattan.com,LOW,60,3.61,ACTIVE
+VEN00800,"Raghavan, Pandit and Master",IT Services,Mumbai,kshetty@srinivas.com,MEDIUM,30,4.34,ACTIVE
+VEN00801,Bahri Inc,Consulting,Pune,bajajayushman@kumer.net,LOW,15,4.93,ACTIVE
+VEN00802,Saha-Bhardwaj,Consulting,Mumbai,ugopal@nagy.com,LOW,60,3.18,ACTIVE
+VEN00803,"Oak, Chokshi and Kulkarni",Professional Services,Pune,raosai@atwal.net,LOW,30,4.63,ACTIVE
+VEN00804,Agarwal Ltd,Marketing,Hyderabad,ira87@mahajan.com,LOW,90,3.76,ACTIVE
+VEN00805,Memon-Ramesh,Maintenance,Delhi,tpalla@dave.com,MEDIUM,15,3.84,ACTIVE
+VEN00806,Pai Inc,Hardware,Delhi,ldash@dugal-narula.com,LOW,90,4.23,ACTIVE
+VEN00807,Kalla LLC,Transportation,Chennai,wahabnarang@sankaran.com,HIGH,15,2.87,ACTIVE
+VEN00808,"Sem, Sule and Tank",Transportation,Hyderabad,qkala@de.net,LOW,45,4.01,ACTIVE
+VEN00809,Naidu-Bava,Legal Services,Bangalore,ekarajandra@sarma-chanda.com,MEDIUM,15,4.27,ACTIVE
+VEN00810,Singhal Group,Office Supplies,Delhi,gopalyashvi@sachar.org,LOW,45,2.85,ACTIVE
+VEN00811,"Banik, Srivastava and Lalla",Transportation,Pune,tramaswamy@tank-mahajan.info,HIGH,30,3.45,ACTIVE
+VEN00812,Chana Group,Software,Bangalore,gardebimala@pillay.biz,MEDIUM,90,4.49,ACTIVE
+VEN00813,"Konda, Bedi and Kamdar",Security,Delhi,ijayahegde@prabhu-dhawan.com,LOW,45,3.67,ACTIVE
+VEN00814,Wali-Sehgal,Facilities,Delhi,nsuri@anne-som.net,LOW,90,3.77,ACTIVE
+VEN00815,Bhakta Ltd,Maintenance,Pune,hgoda@kapur.biz,LOW,45,3.76,ACTIVE
+VEN00816,Sagar-Bora,IT Services,Pune,kritikachakrabarti@jayaraman-ravel.com,MEDIUM,90,3.58,ACTIVE
+VEN00817,Rana and Sons,Cloud Services,Chennai,znath@misra.org,LOW,90,4.02,ACTIVE
+VEN00818,Nagar Inc,Security,Bangalore,maya63@bhatia.biz,HIGH,90,4.68,ACTIVE
+VEN00819,Ramakrishnan and Sons,Legal Services,Mumbai,bhagatjagrati@brahmbhatt.com,LOW,15,2.81,ACTIVE
+VEN00820,Uppal-Shere,Hardware,Delhi,mitalyachana@chana.com,LOW,90,4.79,ACTIVE
+VEN00821,Soni Ltd,Cloud Services,Delhi,ojasvipatla@subramanian.com,HIGH,60,3.82,ACTIVE
+VEN00822,"Nadig, Ramanathan and Sastry",Consulting,Bangalore,ssingh@natt.com,MEDIUM,45,4.05,ACTIVE
+VEN00823,"Bansal, Som and Chakraborty",Hardware,Mumbai,leenachar@master-goswami.info,MEDIUM,90,3.02,ACTIVE
+VEN00824,Bawa Ltd,Travel,Pune,yugkalla@cheema.biz,LOW,15,4.69,ACTIVE
+VEN00825,"Hayer, Sinha and Lala",Marketing,Hyderabad,kbahri@krish.net,LOW,60,4.33,ACTIVE
+VEN00826,"Mani, Borra and Parsa",Travel,Hyderabad,fsubramaniam@deshmukh.com,MEDIUM,60,4.96,ACTIVE
+VEN00827,Prasad Inc,Legal Services,Mumbai,odika17@patla-nayar.net,MEDIUM,45,4.96,ACTIVE
+VEN00828,"Dugar, Dubey and Kannan",Telecommunications,Pune,janaki28@swaminathan-bal.biz,LOW,60,3.84,ACTIVE
+VEN00829,Ahluwalia Ltd,Maintenance,Pune,manbirgoel@kapoor.com,LOW,30,3.63,ACTIVE
+VEN00830,"Sarna, Vyas and Tank",Maintenance,Chennai,prasadrishi@rout-mital.info,LOW,45,3.85,ACTIVE
+VEN00831,Roy PLC,Security,Chennai,wishi46@parsa-nagi.com,LOW,60,4.46,ACTIVE
+VEN00832,Dora-Venkatesh,Professional Services,Bangalore,harshilanne@pandit.com,LOW,60,3.34,ACTIVE
+VEN00833,"Bawa, Zacharia and Srinivasan",Consulting,Delhi,neha45@nigam.com,LOW,60,3.05,ACTIVE
+VEN00834,"Arora, Nagarajan and Wagle",Cloud Services,Pune,chopraaarav@salvi.com,MEDIUM,60,2.99,ACTIVE
+VEN00835,Tata-Saran,Professional Services,Hyderabad,kalasanya@sane.biz,LOW,15,3.02,ACTIVE
+VEN00836,"Merchant, Rama and Narayanan",Marketing,Bangalore,theodorekaur@sawhney-savant.com,MEDIUM,30,4.71,ACTIVE
+VEN00837,"Rege, Karnik and Issac",Travel,Chennai,jdivan@sani.com,MEDIUM,30,2.74,ACTIVE
+VEN00838,"Borde, Pai and Acharya",Travel,Delhi,tejassundaram@jhaveri-tara.com,LOW,90,3.87,ACTIVE
+VEN00839,Munshi-Bedi,Office Supplies,Chennai,nitesh19@anand-nagarajan.com,LOW,90,3.61,ACTIVE
+VEN00840,Solanki-De,Professional Services,Pune,nbala@sane-gade.org,LOW,15,4.79,ACTIVE
+VEN00841,Madan LLC,Software,Bangalore,pseshadri@purohit-babu.org,LOW,45,4.43,ACTIVE
+VEN00842,"Nadig, Contractor and Chander",Telecommunications,Pune,fmisra@kata.com,LOW,30,4.35,ACTIVE
+VEN00843,Sastry Ltd,Legal Services,Delhi,shravya48@pal.com,MEDIUM,45,3.99,ACTIVE
+VEN00844,Chowdhury Ltd,Software,Bangalore,adweta49@bhattacharyya-saran.com,LOW,90,4.58,ACTIVE
+VEN00845,"Nagarajan, Golla and Nori",Marketing,Bangalore,ekrishna@subramanian-mall.com,LOW,15,2.67,ACTIVE
+VEN00846,Dugar-Buch,Travel,Delhi,tristantripathi@varma-shah.info,LOW,45,3.3,ACTIVE
+VEN00847,Rajagopal-Bora,Maintenance,Mumbai,venkataramanupasna@prakash-tailor.org,MEDIUM,90,4.72,ACTIVE
+VEN00848,"Yogi, Kant and Date",IT Services,Pune,banjeetbalakrishnan@naik.com,MEDIUM,45,4.0,ACTIVE
+VEN00849,Mangat-Panchal,Software,Chennai,sarmavictor@nagy-patla.com,HIGH,90,2.89,ACTIVE
+VEN00850,Naidu Ltd,Office Supplies,Bangalore,kapuraradhana@goyal-mannan.biz,MEDIUM,60,3.95,ACTIVE
+VEN00851,Singh Inc,Professional Services,Mumbai,raghavkaur@bhakta.com,LOW,90,4.6,ACTIVE
+VEN00852,Jain LLC,Hardware,Delhi,jyotisodhi@bahri-randhawa.com,LOW,15,3.1,ACTIVE
+VEN00853,"Grewal, Dar and Raval",IT Services,Pune,vohravrishti@suresh.net,LOW,30,4.85,ACTIVE
+VEN00854,"Dhingra, Soni and Gupta",Security,Bangalore,psandal@singh.com,MEDIUM,60,4.37,ACTIVE
+VEN00855,"Varma, Kota and Sarkar",Professional Services,Bangalore,bsabharwal@tata.com,MEDIUM,60,2.68,ACTIVE
+VEN00856,Apte-Bhakta,Professional Services,Chennai,arunima50@dey-ratta.com,LOW,60,2.69,ACTIVE
+VEN00857,"Bala, Bumb and Badal",Transportation,Mumbai,tkashyap@divan.com,MEDIUM,60,2.72,ACTIVE
+VEN00858,Sen PLC,Legal Services,Pune,hemanimann@khanna-babu.com,LOW,15,3.76,ACTIVE
+VEN00859,"Modi, Brar and Panchal",Legal Services,Chennai,htata@shanker.com,LOW,90,4.01,ACTIVE
+VEN00860,Sathe and Sons,Legal Services,Bangalore,diya81@sharma.net,MEDIUM,90,2.96,ACTIVE
+VEN00861,Amble-Talwar,Facilities,Bangalore,divya38@patla.biz,LOW,90,3.73,ACTIVE
+VEN00862,Sood-Dhar,Security,Hyderabad,nvig@prabhakar.com,MEDIUM,45,4.28,ACTIVE
+VEN00863,Butala-Gupta,Security,Hyderabad,regeojasvi@gopal-bhattacharyya.com,LOW,30,2.6,ACTIVE
+VEN00864,"Chhabra, Nadkarni and Rama",Facilities,Chennai,shivanibala@sule.com,HIGH,90,4.0,ACTIVE
+VEN00865,Sengupta PLC,Security,Pune,isaacmani@garde.com,LOW,15,3.7,ACTIVE
+VEN00866,Chauhan-Srinivas,Travel,Bangalore,aarnavsandhu@handa.com,MEDIUM,30,4.13,ACTIVE
+VEN00867,"Kale, Bandi and Reddy",Facilities,Pune,yachana36@dasgupta.com,MEDIUM,60,3.25,ACTIVE
+VEN00868,Wason Group,Professional Services,Delhi,qnayar@batra-rastogi.info,LOW,15,2.73,ACTIVE
+VEN00869,Prabhu-Palla,Facilities,Mumbai,saumya35@chaudhry-aggarwal.com,LOW,15,3.77,ACTIVE
+VEN00870,"Sathe, Srivastava and De",Security,Bangalore,advik40@narasimhan.net,LOW,45,3.13,ACTIVE
+VEN00871,"Thakkar, Bhattacharyya and Bal",Consulting,Bangalore,eshana87@kakar.info,LOW,30,3.17,ACTIVE
+VEN00872,"Manne, Parsa and Sodhi",Hardware,Mumbai,chakradharvyas@dua.com,LOW,60,3.75,ACTIVE
+VEN00873,Mangat Inc,Security,Mumbai,daniel74@konda.biz,LOW,60,2.61,ACTIVE
+VEN00874,Virk Ltd,Travel,Hyderabad,sanghaishwar@oza.com,LOW,30,2.7,ACTIVE
+VEN00875,"Raja, Sarkar and Chakraborty",Marketing,Chennai,bhavanibadal@majumdar.com,LOW,15,3.99,ACTIVE
+VEN00876,Barman LLC,Software,Chennai,charvi08@devi.com,LOW,30,4.35,ACTIVE
+VEN00877,Barad-Rajagopalan,Maintenance,Hyderabad,darika93@sarkar-pall.net,MEDIUM,30,4.82,ACTIVE
+VEN00878,Kar Ltd,Travel,Mumbai,jkakar@raval.info,MEDIUM,15,4.17,ACTIVE
+VEN00879,Gala LLC,Telecommunications,Bangalore,eshana81@barad-viswanathan.com,HIGH,45,2.86,ACTIVE
+VEN00880,Palla Inc,IT Services,Mumbai,qarin44@ray.org,LOW,60,3.01,ACTIVE
+VEN00881,Baria Ltd,IT Services,Delhi,ladishanvi@badami.net,MEDIUM,60,4.6,ACTIVE
+VEN00882,"Sahni, Tandon and Gandhi",Transportation,Mumbai,hemang40@puri.com,MEDIUM,90,3.67,ACTIVE
+VEN00883,"Thakkar, Sem and Kade",Hardware,Delhi,tankakshay@thaker.biz,MEDIUM,90,4.03,ACTIVE
+VEN00884,"Chauhan, Kapoor and Badami",Software,Pune,chaitalyraghavan@chopra.com,LOW,60,4.08,ACTIVE
+VEN00885,Chaudhuri Group,Maintenance,Pune,eshana46@dube-pingle.info,LOW,60,2.81,ACTIVE
+VEN00886,Choudhury and Sons,Telecommunications,Chennai,theodore61@sastry.org,LOW,90,3.73,ACTIVE
+VEN00887,"Sethi, Rana and Gera",Hardware,Pune,ishatara@more.com,LOW,15,2.65,ACTIVE
+VEN00888,Bhasin Ltd,Software,Pune,ddar@kannan.com,HIGH,45,2.66,ACTIVE
+VEN00889,Chandra-Samra,Professional Services,Chennai,mallorinder@butala-lanka.com,LOW,30,3.36,ACTIVE
+VEN00890,Chahal-Sahni,Marketing,Pune,balhaar44@pingle.biz,LOW,15,3.47,ACTIVE
+VEN00891,Mander-Pai,Software,Chennai,oeshimangal@pillay.org,LOW,90,2.9,ACTIVE
+VEN00892,Kanda Ltd,Telecommunications,Mumbai,qbasu@toor.com,MEDIUM,45,4.72,ACTIVE
+VEN00893,Gulati PLC,Facilities,Hyderabad,sachikoshy@ramanathan.com,LOW,15,3.27,ACTIVE
+VEN00894,Soman Ltd,Facilities,Delhi,tagate@manda-dara.com,MEDIUM,45,3.19,ACTIVE
+VEN00895,Lal-Madan,Marketing,Chennai,garderadhika@dasgupta.com,LOW,15,3.76,ACTIVE
+VEN00896,Dubey-Nanda,Legal Services,Pune,harita61@hora.com,LOW,45,4.15,ACTIVE
+VEN00897,Johal PLC,Software,Delhi,jason55@andra.com,MEDIUM,15,4.79,ACTIVE
+VEN00898,Deo-Pathak,Office Supplies,Chennai,vasananori@pillai.net,MEDIUM,60,3.03,ACTIVE
+VEN00899,"Bhatia, Uppal and Mahal",IT Services,Hyderabad,agastyasarna@sinha.com,MEDIUM,90,3.86,ACTIVE
+VEN00900,Guha-Jha,Maintenance,Mumbai,bachittar29@suresh.com,MEDIUM,60,3.06,ACTIVE
+VEN00901,"Kothari, Doshi and Ray",Office Supplies,Pune,cdutt@kohli.biz,LOW,45,3.24,ACTIVE
+VEN00902,Sen Group,Travel,Bangalore,ssarna@nayak-toor.net,LOW,45,3.88,ACTIVE
+VEN00903,Master Group,IT Services,Bangalore,wshankar@dora-mann.com,LOW,15,2.65,ACTIVE
+VEN00904,"Hari, Bora and Jaggi",Maintenance,Pune,wsuresh@talwar.biz,LOW,15,2.85,ACTIVE
+VEN00905,"Lad, Agrawal and Narayanan",Telecommunications,Bangalore,nidhisami@thaker-kadakia.com,LOW,30,3.0,ACTIVE
+VEN00906,Halder Inc,Hardware,Chennai,tdasgupta@jhaveri.info,LOW,60,3.28,ACTIVE
+VEN00907,"Aurora, Om and Kohli",Software,Pune,benjamin38@walla.com,MEDIUM,45,3.68,ACTIVE
+VEN00908,Nagar Ltd,IT Services,Hyderabad,valaamol@rao.com,MEDIUM,90,3.0,ACTIVE
+VEN00909,"Apte, Dugar and Krish",Security,Delhi,ideshmukh@dar.com,MEDIUM,45,2.74,ACTIVE
+VEN00910,"Wadhwa, Pau and Hari",Software,Mumbai,choudharyirya@khosla-sule.net,LOW,45,3.05,ACTIVE
+VEN00911,Parsa Group,Professional Services,Mumbai,abhachadha@chad-bains.biz,LOW,15,4.29,ACTIVE
+VEN00912,Arora-Tella,Legal Services,Pune,pgoswami@rai.com,LOW,30,4.6,ACTIVE
+VEN00913,Barad-Dhaliwal,Telecommunications,Mumbai,zghosh@mukhopadhyay.net,LOW,60,4.32,ACTIVE
+VEN00914,"Deep, Dhillon and Nayar",Legal Services,Delhi,dhingrapooja@chaudhary.com,LOW,30,2.99,ACTIVE
+VEN00915,Dass-Bhattacharyya,Travel,Chennai,waglebimala@brahmbhatt.info,LOW,15,3.04,ACTIVE
+VEN00916,"Taneja, Badami and Rana",Facilities,Chennai,devanshbarad@sridhar.biz,LOW,45,3.87,ACTIVE
+VEN00917,"Randhawa, Sahota and Prasad",Software,Hyderabad,wallatanish@chander-raman.net,LOW,90,4.96,ACTIVE
+VEN00918,"Gade, Comar and Mannan",Travel,Mumbai,savantupkaar@hayre-bhagat.net,LOW,60,2.81,ACTIVE
+VEN00919,"Setty, Butala and Mand",Office Supplies,Mumbai,andrewhayer@anne.com,HIGH,90,4.16,ACTIVE
+VEN00920,Raman-Goel,Professional Services,Pune,ebaral@goel.com,LOW,90,3.19,ACTIVE
+VEN00921,Mangal-Varghese,Software,Hyderabad,saumya98@warrior.com,LOW,45,4.43,ACTIVE
+VEN00922,Ganguly Group,Maintenance,Bangalore,jacobnarayanan@dua.com,LOW,15,2.94,ACTIVE
+VEN00923,Deshmukh PLC,Telecommunications,Hyderabad,xghosh@kunda-barad.com,MEDIUM,90,3.45,ACTIVE
+VEN00924,Kothari-Merchant,Telecommunications,Mumbai,spillai@chada.net,LOW,90,3.35,ACTIVE
+VEN00925,Mukhopadhyay-Patel,Legal Services,Chennai,suhani80@soman.org,MEDIUM,30,2.52,ACTIVE
+VEN00926,Madan Group,Security,Chennai,mugdharoy@virk.com,LOW,90,4.27,ACTIVE
+VEN00927,Pau-Badal,Hardware,Delhi,gayathri83@tailor.com,HIGH,90,4.69,ACTIVE
+VEN00928,"Tata, Shetty and Balay",Office Supplies,Delhi,guhajack@dhillon-chandran.com,LOW,15,3.03,ACTIVE
+VEN00929,Patil PLC,Office Supplies,Pune,mandalreyansh@khalsa.com,LOW,45,2.69,ACTIVE
+VEN00930,"Salvi, Salvi and Lalla",Travel,Pune,daliachanakya@muni.com,LOW,90,2.75,ACTIVE
+VEN00931,Iyengar and Sons,Cloud Services,Chennai,quincy06@ghosh.com,LOW,15,2.79,ACTIVE
+VEN00932,"Johal, Brahmbhatt and Rama",Transportation,Chennai,kalpit66@kashyap.biz,MEDIUM,90,4.76,ACTIVE
+VEN00933,Master Inc,Facilities,Bangalore,ranveercheema@bhatt.com,LOW,15,3.62,ACTIVE
+VEN00934,"Sen, Dara and Merchant",Maintenance,Chennai,udyati40@choudhary-pathak.com,MEDIUM,60,4.08,ACTIVE
+VEN00935,"Borah, Apte and Ahluwalia",Software,Pune,nitara73@parmar.com,LOW,30,4.44,ACTIVE
+VEN00936,Pillay-Chahal,Telecommunications,Delhi,psankaran@gopal-lalla.com,MEDIUM,45,4.58,ACTIVE
+VEN00937,Bala and Sons,Professional Services,Hyderabad,krishasrinivas@bhagat.biz,LOW,30,2.74,ACTIVE
+VEN00938,Sampath-Bains,Consulting,Bangalore,chaitalyganesh@peri.info,LOW,30,4.62,ACTIVE
+VEN00939,Mani-Bumb,Hardware,Delhi,caleb57@tara.com,MEDIUM,45,3.01,ACTIVE
+VEN00940,Dave Ltd,Maintenance,Mumbai,stak@pall.com,LOW,90,3.44,ACTIVE
+VEN00941,Vyas-Shetty,Hardware,Bangalore,rattanzaid@sood.com,MEDIUM,30,3.14,ACTIVE
+VEN00942,Chander Inc,IT Services,Pune,nicholas41@master.net,LOW,15,2.84,ACTIVE
+VEN00943,Patla-Mody,Marketing,Bangalore,nsarraf@jani.com,LOW,45,4.64,ACTIVE
+VEN00944,"Singhal, Lalla and Chanda",Software,Hyderabad,routneelima@nagi.com,LOW,15,4.1,ACTIVE
+VEN00945,"Pandey, Soni and Ahluwalia",Office Supplies,Bangalore,aachalamble@chana.biz,LOW,45,2.53,ACTIVE
+VEN00946,Shenoy Inc,Legal Services,Hyderabad,nchawla@bansal.com,LOW,45,4.95,ACTIVE
+VEN00947,Kala-Walia,Maintenance,Pune,gautamvig@chahal.com,LOW,45,4.67,ACTIVE
+VEN00948,Nadkarni Group,Facilities,Bangalore,bparmar@arora-balasubramanian.com,LOW,90,4.84,ACTIVE
+VEN00949,"Bhatt, Nadig and Mannan",IT Services,Pune,mohinibhandari@sarma.com,MEDIUM,60,3.28,ACTIVE
+VEN00950,Sama LLC,Software,Pune,anikagera@boase-das.com,LOW,30,4.68,ACTIVE
+VEN00951,Nadig-Manne,Professional Services,Hyderabad,jsarin@wable-dhingra.com,LOW,60,4.3,ACTIVE
+VEN00952,Bhatia Ltd,Facilities,Pune,imemon@borah.net,LOW,45,3.73,ACTIVE
+VEN00953,Ratta-Bhakta,Legal Services,Hyderabad,zarnapall@nigam.com,MEDIUM,60,4.11,ACTIVE
+VEN00954,Mallick Ltd,Cloud Services,Hyderabad,uraman@bhattacharyya.com,MEDIUM,30,4.04,ACTIVE
+VEN00955,Kurian-Nair,Telecommunications,Bangalore,vivaanchaudhari@madan-murty.com,LOW,45,4.57,ACTIVE
+VEN00956,Bandi-Naik,Telecommunications,Mumbai,harshil13@chawla-kapur.com,MEDIUM,60,2.51,ACTIVE
+VEN00957,"Sandal, Khurana and Cheema",Transportation,Mumbai,tanejachakradev@sule.org,MEDIUM,30,4.34,ACTIVE
+VEN00958,"Nagi, Sethi and Prashad",Travel,Chennai,choudhuryutkarsh@mahal.com,LOW,45,4.06,ACTIVE
+VEN00959,"Mall, Mander and Suresh",Security,Chennai,wishi33@kapoor-prabhu.org,LOW,90,3.91,ACTIVE
+VEN00960,Kothari-Sankaran,Security,Bangalore,gbanerjee@sandhu.com,LOW,90,3.68,ACTIVE
+VEN00961,Khurana-Bose,Transportation,Bangalore,dnagarajan@agrawal-kala.info,LOW,60,4.77,ACTIVE
+VEN00962,Butala Ltd,Travel,Chennai,vasafalak@rao.com,HIGH,15,2.86,ACTIVE
+VEN00963,"Parmer, Gara and Bail",IT Services,Bangalore,irya09@subramanian-dua.net,HIGH,15,3.86,ACTIVE
+VEN00964,Wali LLC,Hardware,Pune,ydua@tiwari-bawa.biz,MEDIUM,30,4.02,ACTIVE
+VEN00965,Gera LLC,Software,Chennai,sandhugirish@pal.com,LOW,15,3.73,ACTIVE
+VEN00966,"Raj, Goel and Sura",Consulting,Hyderabad,uppalchatura@thakkar-jaggi.com,LOW,60,2.92,ACTIVE
+VEN00967,Doctor Ltd,Telecommunications,Delhi,sharmagaurangi@dewan.com,MEDIUM,45,3.76,ACTIVE
+VEN00968,Bumb and Sons,Professional Services,Pune,madhavi77@pal.com,MEDIUM,30,4.85,ACTIVE
+VEN00969,"Padmanabhan, Sanghvi and Dasgupta",Consulting,Bangalore,sgill@dalia-lal.com,LOW,45,4.83,ACTIVE
+VEN00970,Mallick and Sons,Legal Services,Delhi,mtalwar@jaggi.info,HIGH,45,2.55,ACTIVE
+VEN00971,Suri LLC,Security,Bangalore,harrisonmore@dora.com,MEDIUM,90,2.86,ACTIVE
+VEN00972,Sarna PLC,Legal Services,Hyderabad,vasanalal@pingle.net,LOW,60,2.7,ACTIVE
+VEN00973,Bhatti-Mani,Maintenance,Pune,hemabedi@narayan.com,LOW,45,4.21,ACTIVE
+VEN00974,"Agate, Patla and Parmer",Security,Chennai,mtalwar@kapur.com,LOW,30,4.77,ACTIVE
+VEN00975,Kade-Sharma,Software,Mumbai,sudiksha23@chaudhary.com,LOW,45,3.36,ACTIVE
+VEN00976,"Dixit, Chada and Khatri",Office Supplies,Hyderabad,hemang11@johal.com,LOW,90,4.54,ACTIVE
+VEN00977,Soman LLC,Travel,Pune,kashishbasu@lad.org,MEDIUM,90,3.61,ACTIVE
+VEN00978,Vohra-Mani,IT Services,Bangalore,gardesiddharth@date.com,HIGH,30,3.0,ACTIVE
+VEN00979,Bandi PLC,Travel,Bangalore,hkrish@som-bhargava.org,MEDIUM,60,2.65,ACTIVE
+VEN00980,Johal-Cheema,Marketing,Mumbai,varshaarora@pandit.com,LOW,30,3.69,ACTIVE
+VEN00981,Gara-Dasgupta,Professional Services,Mumbai,isaacsamra@grewal.com,LOW,60,3.38,ACTIVE
+VEN00982,"Ahuja, Kadakia and Sekhon",Security,Mumbai,pradhanhredhaan@kata.net,LOW,45,3.42,ACTIVE
+VEN00983,Madan-Koshy,Facilities,Chennai,horasachi@mall.net,LOW,30,2.8,ACTIVE
+VEN00984,Char and Sons,Security,Chennai,sanayabhat@krishna.com,LOW,45,4.3,ACTIVE
+VEN00985,Peri-Munshi,Professional Services,Chennai,azaan77@aurora.com,MEDIUM,15,3.13,ACTIVE
+VEN00986,Nagy-Tripathi,Legal Services,Hyderabad,samarthlalla@chaudhuri.com,LOW,30,3.68,ACTIVE
+VEN00987,"Gola, Kata and Varughese",Maintenance,Pune,dalbir28@swamy-srivastava.org,MEDIUM,45,4.76,ACTIVE
+VEN00988,"Gandhi, Oak and Varma",IT Services,Hyderabad,opandya@boase-prabhu.biz,LOW,45,3.74,ACTIVE
+VEN00989,Chaudhry-Nagi,Software,Hyderabad,tarakbandi@babu-raj.biz,MEDIUM,15,4.3,ACTIVE
+VEN00990,Tak-Bhat,Telecommunications,Bangalore,wkala@chana.org,LOW,15,3.52,ACTIVE
+VEN00991,Sankar Ltd,Facilities,Chennai,chawlagaurangi@kannan-bal.org,MEDIUM,60,2.74,ACTIVE
+VEN00992,Suri and Sons,Travel,Mumbai,guptaaadhya@bhandari.info,LOW,30,4.49,ACTIVE
+VEN00993,"Brahmbhatt, Shukla and Anand",Travel,Delhi,vedikakakar@sachdeva.net,LOW,45,3.31,ACTIVE
+VEN00994,"Devan, Behl and Atwal",Hardware,Pune,kamala82@sood.com,LOW,45,4.08,ACTIVE
+VEN00995,Gopal-Madan,Software,Mumbai,imisra@sankar-madan.info,LOW,45,3.66,ACTIVE
+VEN00996,Din LLC,Maintenance,Pune,darsh65@bajwa.com,LOW,90,2.64,ACTIVE
+VEN00997,Sastry-Dar,Maintenance,Mumbai,arjunseshadri@banerjee.com,LOW,30,4.38,ACTIVE
+VEN00998,Bajaj-Kaur,Legal Services,Bangalore,ekani08@sachdeva.com,LOW,60,3.54,ACTIVE
+VEN00999,Nagy-Saran,Office Supplies,Hyderabad,sanya81@sekhon.com,LOW,15,4.1,ACTIVE
+VEN01000,Murty LLC,Software,Hyderabad,pathakfrado@nanda-saini.info,LOW,30,4.42,ACTIVE
+VEN01001,Andra-Ghosh,Maintenance,Mumbai,dadameera@tara.com,LOW,60,3.19,ACTIVE
+VEN01002,Bora and Sons,Cloud Services,Mumbai,farhan40@yohannan-ben.biz,MEDIUM,90,4.13,ACTIVE
+VEN01003,"Srinivas, Bahl and Bora",Marketing,Bangalore,anita65@venkataraman-kurian.com,HIGH,15,3.72,ACTIVE
+VEN01004,Arya Inc,Telecommunications,Bangalore,baljiwan04@sachar.com,HIGH,60,4.58,ACTIVE
+VEN01005,"Shere, Rajan and Wadhwa",Hardware,Bangalore,chakrikawason@panchal-garde.com,LOW,30,3.43,ACTIVE
+VEN01006,Bahl-Manda,Travel,Delhi,baghyawatirandhawa@desai-mutti.info,LOW,15,3.23,ACTIVE
+VEN01007,Bhasin-Chacko,Travel,Chennai,balveersinghal@narula.net,LOW,15,4.02,ACTIVE
+VEN01008,Garde Ltd,Consulting,Hyderabad,rajagopalanira@pradhan.net,LOW,15,3.14,ACTIVE
+VEN01009,"Dalal, Pillai and Narayan",Hardware,Hyderabad,morarwridesh@nigam.info,MEDIUM,60,3.04,ACTIVE
+VEN01010,Tank LLC,Travel,Chennai,santanvi@sule-ram.com,LOW,60,3.4,ACTIVE
+VEN01011,Baral Ltd,Consulting,Delhi,nakshkota@shanker.info,LOW,45,4.21,ACTIVE
+VEN01012,Gaba LLC,Marketing,Bangalore,keya16@kumar.biz,LOW,60,3.07,ACTIVE
+VEN01013,"Saini, Mandal and Pau",Office Supplies,Chennai,zayanmorar@kari.net,LOW,90,3.12,ACTIVE
+VEN01014,Chakrabarti and Sons,IT Services,Bangalore,rdatta@mallick.org,MEDIUM,90,3.98,ACTIVE
+VEN01015,Nair-Chanda,Hardware,Mumbai,chandani89@bahri-ahluwalia.org,MEDIUM,90,3.03,ACTIVE
+VEN01016,"More, Rajagopalan and Nori",Telecommunications,Pune,nidhi39@mann.net,LOW,45,4.77,ACTIVE
+VEN01017,Badami-Sood,Marketing,Pune,vanyaranganathan@sood.org,MEDIUM,60,3.2,ACTIVE
+VEN01018,Jha-Sethi,Hardware,Hyderabad,nagyyuvraj@divan-panchal.com,MEDIUM,45,3.05,ACTIVE
+VEN01019,"Chaudhry, Yogi and Sha",Professional Services,Mumbai,sampathjonathan@sekhon.biz,MEDIUM,30,4.5,ACTIVE
+VEN01020,Sankaran-Sandal,Professional Services,Mumbai,sbhandari@bumb.com,LOW,60,2.83,ACTIVE
+VEN01021,Rai LLC,Cloud Services,Delhi,hemakade@sen.org,MEDIUM,90,3.85,ACTIVE
+VEN01022,Aurora-Wali,Telecommunications,Pune,osha75@dada.biz,MEDIUM,60,4.34,ACTIVE
+VEN01023,"Kala, Sagar and Sundaram",IT Services,Chennai,mitterarunima@sood-srivastava.com,LOW,15,3.96,ACTIVE
+VEN01024,Bandi-Pant,Cloud Services,Delhi,dsidhu@patla.com,LOW,30,4.48,ACTIVE
+VEN01025,"Chada, Parsa and Pillay",Software,Pune,aahana94@yohannan.info,MEDIUM,60,4.12,ACTIVE
+VEN01026,Deo-Prabhakar,Facilities,Delhi,fkalita@loke-luthra.com,HIGH,90,3.19,ACTIVE
+VEN01027,Nayar-Solanki,Software,Mumbai,nrout@nigam.com,LOW,60,4.34,ACTIVE
+VEN01028,Aggarwal Ltd,IT Services,Mumbai,avi95@anne.info,LOW,30,4.94,ACTIVE
+VEN01029,Singhal Ltd,Maintenance,Pune,hde@dhar.org,MEDIUM,90,4.46,ACTIVE
+VEN01030,Tripathi-Tank,Maintenance,Hyderabad,mahajannakul@sandhu.com,LOW,60,2.84,ACTIVE
+VEN01031,Sampath-Zachariah,Cloud Services,Bangalore,groverucchal@mohan-lalla.net,MEDIUM,45,3.11,ACTIVE
+VEN01032,Mangal and Sons,Cloud Services,Pune,chakradhar07@rao.com,MEDIUM,60,3.05,ACTIVE
+VEN01033,Sridhar Group,IT Services,Delhi,qvora@mall.com,LOW,30,3.02,ACTIVE
+VEN01034,Mani-Bhattacharyya,Travel,Pune,ramachandranreyansh@sangha.info,MEDIUM,90,3.95,ACTIVE
+VEN01035,Oza PLC,Software,Delhi,hemanginibanik@rama.com,LOW,30,4.16,ACTIVE
+VEN01036,Sane-Soni,Consulting,Delhi,srinivasanyashodhara@joshi.info,LOW,30,2.69,ACTIVE
+VEN01037,"Batra, Bail and Viswanathan",Security,Delhi,hegdetanveer@morar.com,LOW,15,4.35,ACTIVE
+VEN01038,Mistry-Kata,Office Supplies,Delhi,rachanagill@manda-chaudhari.net,LOW,90,3.81,ACTIVE
+VEN01039,Chana Ltd,Maintenance,Bangalore,npandey@dalal.org,LOW,15,4.82,ACTIVE
+VEN01040,Salvi-Lall,Consulting,Pune,kotaekansh@dugal.info,MEDIUM,90,3.66,ACTIVE
+VEN01041,"Chandra, Lall and Saran",Transportation,Mumbai,ikshita11@dhillon.com,MEDIUM,60,3.81,ACTIVE
+VEN01042,"Bhargava, Pillai and Rajan",Hardware,Chennai,psant@kulkarni.org,LOW,45,3.62,ACTIVE
+VEN01043,Gulati-Johal,Legal Services,Mumbai,rparikh@mangat.net,LOW,90,2.91,ACTIVE
+VEN01044,Rajan-Kibe,Travel,Pune,psrinivas@nair-bera.com,LOW,15,3.47,ACTIVE
+VEN01045,Gola Group,Cloud Services,Bangalore,rdeshpande@setty.com,MEDIUM,90,4.86,ACTIVE
+VEN01046,Rattan and Sons,Security,Delhi,chakradhar55@dugar.info,LOW,30,3.92,ACTIVE
+VEN01047,"Dhingra, Mall and Mody",Security,Delhi,unnatidhawan@shenoy-sura.org,LOW,60,4.33,ACTIVE
+VEN01048,Uppal Ltd,Maintenance,Delhi,fariq28@savant-gandhi.net,MEDIUM,30,4.06,ACTIVE
+VEN01049,Srinivasan-Kurian,Cloud Services,Bangalore,yyohannan@chacko.com,MEDIUM,30,3.69,ACTIVE
+VEN01050,Raghavan-Gandhi,Cloud Services,Chennai,uraj@manda.com,LOW,60,3.4,ACTIVE
+VEN01051,Kannan-Borde,IT Services,Mumbai,dhaliwalandrew@bahri-lalla.com,LOW,90,3.19,ACTIVE
+VEN01052,"Anand, Sharma and Chaudry",Professional Services,Bangalore,desaiati@kothari.com,HIGH,30,4.45,ACTIVE
+VEN01053,Sami LLC,Marketing,Chennai,gwadhwa@randhawa-kapadia.com,LOW,60,3.29,ACTIVE
+VEN01054,Balan-Brar,Office Supplies,Hyderabad,kalakadakia@buch.com,LOW,15,4.53,ACTIVE
+VEN01055,"Naik, Vaidya and Mittal",Facilities,Pune,meghana73@kanda.com,LOW,15,4.96,ACTIVE
+VEN01056,"Batra, Bhatti and Shenoy",Maintenance,Pune,rayaan17@sachdeva-bala.info,MEDIUM,90,4.32,ACTIVE
+VEN01057,Ahuja and Sons,Security,Pune,saxenatanay@kala-keer.org,LOW,90,2.94,ACTIVE
+VEN01058,Basu-Chacko,Cloud Services,Pune,chaudharibimala@garg.com,LOW,60,3.15,ACTIVE
+VEN01059,"Dugar, Dutta and Lal",Facilities,Bangalore,acharyaojasvi@joshi.biz,LOW,15,2.83,ACTIVE
+VEN01060,Madan-Sandhu,Facilities,Hyderabad,kbera@munshi.com,LOW,30,4.76,ACTIVE
+VEN01061,Barman-Malhotra,Office Supplies,Pune,echacko@balasubramanian.com,LOW,60,3.58,ACTIVE
+VEN01062,Butala LLC,Professional Services,Delhi,ekarajchowdhury@narang.com,LOW,60,4.25,ACTIVE
+VEN01063,Ravi-Halder,Consulting,Hyderabad,warda79@sahni-bawa.com,LOW,60,4.98,ACTIVE
+VEN01064,Thakkar-Natarajan,Telecommunications,Delhi,udoctor@palla-anand.com,LOW,60,4.54,ACTIVE
+VEN01065,Gola LLC,Transportation,Bangalore,wlal@ram.com,LOW,90,3.0,ACTIVE
+VEN01066,"Tella, Sachdeva and Choudhary",Hardware,Hyderabad,qnazareth@vasa.info,LOW,90,3.16,ACTIVE
+VEN01067,Chopra-D’Alia,Marketing,Hyderabad,gunbir60@bail-borra.org,MEDIUM,30,4.44,ACTIVE
+VEN01068,Narayanan-Pandya,Facilities,Hyderabad,jbasak@ratti.net,LOW,60,4.42,ACTIVE
+VEN01069,Nanda-Batra,Marketing,Hyderabad,anika41@mallick-devan.org,LOW,60,4.94,ACTIVE
+VEN01070,Dhillon-Ravel,Transportation,Bangalore,hbahl@bhat.com,LOW,45,3.92,ACTIVE
+VEN01071,Dasgupta-Karan,Transportation,Chennai,qvala@goel-roy.net,LOW,60,2.56,ACTIVE
+VEN01072,Sawhney-Bassi,Telecommunications,Mumbai,luke41@tiwari-dada.com,LOW,30,2.62,ACTIVE
+VEN01073,Ahluwalia Group,Marketing,Bangalore,fyohannan@anne-basu.biz,LOW,60,4.22,ACTIVE
+VEN01074,"Brahmbhatt, Lanka and Kannan",Hardware,Bangalore,kparsa@dube-kara.org,LOW,60,3.65,ACTIVE
+VEN01075,"Sibal, Raman and Roy",Marketing,Mumbai,battadhriti@dara-sharaf.com,MEDIUM,15,3.75,ACTIVE
+VEN01076,Barad-Balakrishnan,Telecommunications,Chennai,asankaran@shankar.com,MEDIUM,60,3.85,ACTIVE
+VEN01077,"Yadav, Ahuja and Ahluwalia",Maintenance,Bangalore,jsolanki@gola-tripathi.com,MEDIUM,15,4.32,ACTIVE
+VEN01078,Patil-Shan,IT Services,Chennai,hchauhan@sangha.com,MEDIUM,60,3.92,ACTIVE
+VEN01079,Sangha-Sura,Maintenance,Delhi,georgedutta@kaul.org,LOW,15,2.63,ACTIVE
+VEN01080,Lad and Sons,Office Supplies,Chennai,doraindrajit@dutt-sethi.com,LOW,30,4.22,ACTIVE
+VEN01081,"Patla, Sundaram and Warrior",Cloud Services,Mumbai,rohansami@mand-bhagat.net,MEDIUM,30,3.78,ACTIVE
+VEN01082,"Chaudry, Garde and Bath",Office Supplies,Bangalore,amrita47@raman.com,LOW,30,2.85,ACTIVE
+VEN01083,Goda Ltd,Marketing,Mumbai,hemaravel@bhat.com,LOW,45,4.93,ACTIVE
+VEN01084,Char-Atwal,Legal Services,Pune,dixitishita@barad-boase.biz,LOW,15,2.87,ACTIVE
+VEN01085,"Ganguly, Batta and Rao",Facilities,Chennai,tanvibhatia@prabhu.org,LOW,45,5.0,ACTIVE
+VEN01086,Cherian-Nadkarni,Legal Services,Chennai,ramanraksha@bose-sarin.biz,LOW,15,2.7,ACTIVE
+VEN01087,Ravi LLC,Travel,Hyderabad,yhans@deo.com,MEDIUM,45,3.15,ACTIVE
+VEN01088,Varghese-Sura,Office Supplies,Mumbai,maanasbhat@divan.com,LOW,15,3.61,ACTIVE
+VEN01089,Batra-Bahri,Cloud Services,Mumbai,bloyal@sarna.net,LOW,90,3.9,ACTIVE
+VEN01090,Chatterjee-Wason,Cloud Services,Mumbai,bhavnadalal@behl.com,MEDIUM,45,2.57,ACTIVE
+VEN01091,Ramachandran-Naidu,Marketing,Pune,yutika43@kashyap.com,MEDIUM,60,2.87,ACTIVE
+VEN01092,Bhatia-Kar,Facilities,Hyderabad,oeshi08@taneja.com,MEDIUM,45,4.19,ACTIVE
+VEN01093,"Konda, Singhal and Pradhan",Maintenance,Bangalore,manebarkha@behl-murty.net,LOW,30,4.28,ACTIVE
+VEN01094,Bhardwaj LLC,Software,Mumbai,iaurora@wagle-bajwa.com,LOW,15,3.51,ACTIVE
+VEN01095,Sandal-Lall,Transportation,Bangalore,ishaan30@batta.com,MEDIUM,90,3.75,ACTIVE
+VEN01096,"Narang, Swaminathan and Narasimhan",Consulting,Hyderabad,vasatika38@acharya.info,LOW,45,3.63,ACTIVE
+VEN01097,Bajwa-Raja,Marketing,Pune,yashvigala@nanda.com,LOW,15,3.54,ACTIVE
+VEN01098,Murty-Kapur,Marketing,Pune,agastyaprabhakar@dey.com,MEDIUM,15,3.88,ACTIVE
+VEN01099,Pingle-Bhalla,Office Supplies,Bangalore,gulatiforum@krishnan.com,MEDIUM,60,2.68,ACTIVE
+VEN01100,Sarma PLC,Transportation,Mumbai,apai@pathak.org,LOW,60,2.74,ACTIVE
+VEN01101,"Dara, Wali and Loke",Software,Bangalore,varghesearyan@chanda-mann.com,LOW,45,3.56,ACTIVE
+VEN01102,Bains Ltd,Marketing,Chennai,tailoraarna@barman.com,MEDIUM,60,4.28,ACTIVE
+VEN01103,Sangha-Kala,Facilities,Hyderabad,miteshsolanki@dhillon-raja.net,LOW,45,3.85,ACTIVE
+VEN01104,"Lanka, Sem and Kara",IT Services,Bangalore,cjain@dora.com,LOW,30,4.11,ACTIVE
+VEN01105,"Bava, Prashad and Behl",Maintenance,Delhi,nitara36@sarna.com,LOW,15,3.34,ACTIVE
+VEN01106,Dasgupta-Jani,Legal Services,Hyderabad,njha@chadha-devan.com,MEDIUM,45,2.69,ACTIVE
+VEN01107,"Boase, Kapadia and Sani",Professional Services,Hyderabad,mmani@mishra-johal.biz,LOW,90,3.35,ACTIVE
+VEN01108,Hayer-Chad,Professional Services,Mumbai,divya94@salvi-dalal.com,HIGH,90,3.63,ACTIVE
+VEN01109,Nagarajan Inc,IT Services,Bangalore,lakshmi31@sem.com,LOW,60,4.33,ACTIVE
+VEN01110,Batra and Sons,Hardware,Delhi,abhirammand@kade.com,LOW,90,2.51,ACTIVE
+VEN01111,"Vasa, Vohra and Khatri",IT Services,Mumbai,rajuaayush@nair.org,MEDIUM,45,4.17,ACTIVE
+VEN01112,"Dube, Tandon and Babu",Telecommunications,Bangalore,abdul04@saran.biz,LOW,60,4.32,ACTIVE
+VEN01113,"Mitter, Sibal and Baria",Legal Services,Hyderabad,ydua@dyal.com,MEDIUM,45,2.81,ACTIVE
+VEN01114,Toor-Sahota,IT Services,Mumbai,ajain@balakrishnan.info,MEDIUM,30,4.54,ACTIVE
+VEN01115,Wagle Inc,Facilities,Chennai,sakshamgupta@sharma.com,LOW,90,4.95,ACTIVE
+VEN01116,"Gara, Menon and Shetty",Consulting,Hyderabad,obedi@shukla.net,LOW,30,4.85,ACTIVE
+VEN01117,"Randhawa, Devi and Chawla",Transportation,Hyderabad,tripathiodika@raval.net,LOW,15,4.04,ACTIVE
+VEN01118,"Ghosh, Tiwari and Bir",Transportation,Bangalore,aram@radhakrishnan.net,MEDIUM,15,4.75,ACTIVE
+VEN01119,"Viswanathan, Bhatnagar and Dutta",Maintenance,Pune,tbatta@gade.net,LOW,60,3.29,ACTIVE
+VEN01120,"Lata, Purohit and Naidu",Facilities,Delhi,samifalan@sengupta.com,LOW,45,2.71,ACTIVE
+VEN01121,Shan PLC,Legal Services,Mumbai,nanand@barman.com,LOW,60,2.67,ACTIVE
+VEN01122,"Kala, Lalla and Agrawal",Facilities,Bangalore,aarna48@basu-magar.net,MEDIUM,30,3.2,ACTIVE
+VEN01123,Hans LLC,Office Supplies,Chennai,inadkarni@shankar-deshmukh.biz,MEDIUM,60,3.93,ACTIVE
+VEN01124,Goswami Inc,Office Supplies,Mumbai,ekarajthaman@balan.biz,HIGH,60,4.98,ACTIVE
+VEN01125,Bhalla-Nagarajan,Maintenance,Mumbai,omitter@bajwa.net,LOW,45,4.09,ACTIVE
+VEN01126,Kakar Group,Travel,Pune,gaurikakhosla@chhabra-date.biz,LOW,45,4.77,ACTIVE
+VEN01127,"Vora, Wable and Taneja",Security,Mumbai,manifaris@nagarajan-sur.net,LOW,60,2.89,ACTIVE
+VEN01128,"Chaudhari, Keer and Sarraf",Travel,Mumbai,farasmander@dar.com,LOW,90,4.59,ACTIVE
+VEN01129,Devan-Madan,Maintenance,Mumbai,umajumdar@koshy-hegde.com,LOW,30,4.97,ACTIVE
+VEN01130,Dutt-Sengupta,Office Supplies,Delhi,balvanpandey@sridhar.com,LOW,15,4.78,ACTIVE
+VEN01131,Wable LLC,Telecommunications,Pune,sastryanusha@rattan.com,MEDIUM,45,4.82,ACTIVE
+VEN01132,Sathe-Sen,Facilities,Hyderabad,niharika62@sunder.com,MEDIUM,90,2.83,ACTIVE
+VEN01133,Oza-Dass,Marketing,Hyderabad,hemal42@natt-sami.biz,LOW,90,2.88,ACTIVE
+VEN01134,Ghosh-Gokhale,Software,Bangalore,shethneel@salvi.org,LOW,60,2.58,ACTIVE
+VEN01135,Bassi-Sant,Legal Services,Mumbai,chaudharydipta@chawla-kari.net,MEDIUM,15,3.04,ACTIVE
+VEN01136,Sarma Ltd,Security,Delhi,niharikayogi@kamdar.com,HIGH,60,2.91,ACTIVE
+VEN01137,"Vohra, Ramakrishnan and Devi",Transportation,Bangalore,ishitakrishnan@thaker-sama.com,LOW,30,3.76,ACTIVE
+VEN01138,"Sachar, Sankar and Chadha",Travel,Mumbai,karanjalsa@pradhan-tank.com,LOW,30,3.93,ACTIVE
+VEN01139,"Ben, Muni and Iyer",Telecommunications,Chennai,tbuch@dyal-roy.com,LOW,30,3.84,ACTIVE
+VEN01140,Kata-Pau,Consulting,Mumbai,rastogiazad@brahmbhatt.biz,LOW,60,4.06,ACTIVE
+VEN01141,Mangal-Ramakrishnan,Travel,Chennai,saraffaqid@bansal-chacko.com,LOW,15,4.11,ACTIVE
+VEN01142,Cherian Group,Office Supplies,Delhi,qparekh@naidu.com,LOW,30,4.92,ACTIVE
+VEN01143,"Kothari, Barad and Bhagat",Professional Services,Mumbai,somzilmil@ratta-de.info,LOW,60,4.54,ACTIVE
+VEN01144,"Misra, Dugar and Agrawal",Hardware,Mumbai,pratyush25@toor.com,MEDIUM,15,2.83,ACTIVE
+VEN01145,Issac-Dugar,Telecommunications,Chennai,sabharwalmekhala@ratta-cherian.com,HIGH,60,4.02,ACTIVE
+VEN01146,"Sem, Bhargava and Wali",Facilities,Mumbai,hbhatti@chander-kala.com,MEDIUM,30,4.71,ACTIVE
+VEN01147,Din LLC,Software,Chennai,bainsniharika@goda-divan.info,LOW,90,4.4,ACTIVE
+VEN01148,Kurian-Korpal,Travel,Chennai,damini65@sankar.com,LOW,15,3.34,ACTIVE
+VEN01149,Nagarajan and Sons,Hardware,Delhi,xalak74@bumb.com,LOW,90,4.21,ACTIVE
+VEN01150,Trivedi LLC,Marketing,Delhi,rehaan88@tara.org,MEDIUM,30,3.17,ACTIVE
+VEN01151,"Tak, Nadig and Grover",Software,Bangalore,ladekaraj@padmanabhan.net,LOW,90,4.21,ACTIVE
+VEN01152,"Gala, Kari and Bawa",Security,Chennai,rastogianusha@kashyap.com,LOW,30,4.63,ACTIVE
+VEN01153,"Talwar, Shankar and Mallick",Security,Pune,bhavna33@dhillon.info,LOW,30,3.13,ACTIVE
+VEN01154,"Sangha, Tara and Mandal",Marketing,Delhi,merchanturmi@dayal-lala.biz,LOW,45,3.23,ACTIVE
+VEN01155,"Mahal, Srivastava and Doctor",Consulting,Chennai,chakrikachauhan@anne.com,MEDIUM,45,3.31,ACTIVE
+VEN01156,Balay PLC,Security,Hyderabad,smanne@trivedi.org,MEDIUM,90,3.79,ACTIVE
+VEN01157,"Kota, Bhatti and Raghavan",Telecommunications,Pune,karan12@date.net,MEDIUM,15,3.47,ACTIVE
+VEN01158,Singhal-Bedi,IT Services,Mumbai,bhavanivarty@bora.com,LOW,90,3.69,ACTIVE
+VEN01159,Chakrabarti-Pathak,Security,Hyderabad,veer45@palla-dada.com,HIGH,90,3.94,ACTIVE
+VEN01160,Mangat and Sons,Marketing,Pune,anvi07@bala.biz,MEDIUM,45,4.42,ACTIVE
+VEN01161,"Kalita, Bobal and Khatri",Telecommunications,Chennai,brinda35@zacharia-luthra.com,LOW,30,4.47,ACTIVE
+VEN01162,"Bail, Sodhi and Kadakia",Marketing,Chennai,dugalnihal@chaudhuri.com,LOW,45,3.99,ACTIVE
+VEN01163,Morar-Doshi,IT Services,Mumbai,vaidyafarhan@kunda-lala.info,LOW,30,2.76,ACTIVE
+VEN01164,"Tiwari, Kalla and Shetty",Marketing,Hyderabad,fben@pingle.info,LOW,15,2.97,ACTIVE
+VEN01165,Prabhakar Ltd,IT Services,Delhi,rattikalpit@kalla-goyal.info,LOW,30,2.63,ACTIVE
+VEN01166,Gola-Kumer,Facilities,Hyderabad,kalpitsane@sethi-dua.com,MEDIUM,45,3.07,ACTIVE
+VEN01167,Vohra-Ben,Office Supplies,Hyderabad,vritti07@khurana.info,LOW,30,4.88,ACTIVE
+VEN01168,Narasimhan-Gaba,Hardware,Delhi,radhikahayer@chopra-venkataraman.com,LOW,45,2.85,ACTIVE
+VEN01169,Malhotra-Loyal,Maintenance,Hyderabad,kapuryashica@sethi-dube.net,LOW,30,3.85,ACTIVE
+VEN01170,Ratta and Sons,Software,Pune,chaudhurioni@cheema-mutti.org,MEDIUM,60,3.97,ACTIVE
+VEN01171,"Murthy, Gandhi and Subramaniam",Software,Bangalore,sanya87@patel.com,LOW,30,4.8,ACTIVE
+VEN01172,"Kapur, Hans and Jayaraman",Office Supplies,Pune,sehgalvedant@kala.com,LOW,90,3.77,ACTIVE
+VEN01173,Narayan-Rajagopal,Transportation,Pune,sampathgirish@raghavan-patel.com,MEDIUM,15,3.26,ACTIVE
+VEN01174,Chowdhury Inc,Software,Delhi,bassionveer@wadhwa-samra.com,LOW,45,2.94,ACTIVE
+VEN01175,"Parikh, Vig and Shetty",Software,Bangalore,ahluwaliaindali@dass.com,LOW,15,2.72,ACTIVE
+VEN01176,"Bera, Sama and Hans",Telecommunications,Mumbai,agateganga@tandon.org,LOW,45,3.28,ACTIVE
+VEN01177,Garde Ltd,Facilities,Hyderabad,tganesh@mangat-rajan.com,MEDIUM,15,2.86,ACTIVE
+VEN01178,Rana PLC,Transportation,Delhi,mnadig@bose.com,LOW,15,4.2,ACTIVE
+VEN01179,Lad and Sons,Software,Delhi,qdesai@saxena.info,MEDIUM,15,4.7,ACTIVE
+VEN01180,"Hans, Chatterjee and Mukherjee",Maintenance,Chennai,zayan94@prashad.com,LOW,60,3.71,ACTIVE
+VEN01181,Rajagopalan-Goda,Marketing,Pune,samaksh84@dhaliwal.info,LOW,15,4.85,ACTIVE
+VEN01182,"Borde, Pant and Seshadri",Legal Services,Pune,odikawable@ahluwalia-saxena.com,LOW,15,4.26,ACTIVE
+VEN01183,Choudhary-Dugal,Legal Services,Delhi,gaurang10@chakraborty.net,LOW,30,4.66,ACTIVE
+VEN01184,Sethi-De,Office Supplies,Chennai,soodisha@cheema.com,LOW,30,4.09,ACTIVE
+VEN01185,Sanghvi-Brahmbhatt,Legal Services,Mumbai,urau@puri-andra.com,LOW,45,4.81,ACTIVE
+VEN01186,"Natarajan, Bhagat and Madan",Software,Bangalore,anitaagarwal@agarwal.biz,LOW,90,3.36,ACTIVE
+VEN01187,"Prabhu, Oommen and Setty",Cloud Services,Pune,dmodi@saini-rana.com,HIGH,30,4.75,ACTIVE
+VEN01188,"Shankar, Hans and Dewan",Hardware,Mumbai,tsrinivasan@bhargava.com,LOW,15,3.18,ACTIVE
+VEN01189,Venkatesh-Nair,Consulting,Chennai,doshiwyatt@bhagat.com,LOW,90,2.54,ACTIVE
+VEN01190,Grewal-Dalal,Travel,Chennai,vedhika06@prashad.com,MEDIUM,90,4.94,ACTIVE
+VEN01191,Kannan-Arora,Security,Delhi,samar42@acharya.com,LOW,60,3.36,ACTIVE
+VEN01192,"Sahni, Dixit and Jain",Transportation,Delhi,purohitisaac@bhalla-srinivas.com,MEDIUM,90,4.43,ACTIVE
+VEN01193,Sankaran Group,Travel,Delhi,ranganathanchatura@sant.com,LOW,30,2.59,ACTIVE
+VEN01194,Bhargava-Luthra,Transportation,Hyderabad,dartriveni@singh.com,MEDIUM,60,3.77,ACTIVE
+VEN01195,Mane Group,Consulting,Bangalore,kbali@ram.com,LOW,90,4.75,ACTIVE
+VEN01196,"Salvi, Biswas and Dixit",Legal Services,Hyderabad,yastikanda@varghese.info,LOW,90,3.68,ACTIVE
+VEN01197,"Varughese, Mukhopadhyay and Singh",Telecommunications,Chennai,gzacharia@dua.info,LOW,45,3.45,ACTIVE
+VEN01198,Rau-Wali,Facilities,Hyderabad,ryogi@goel-sekhon.com,LOW,15,4.46,ACTIVE
+VEN01199,"Grover, Kaur and Arora",Professional Services,Bangalore,sarrafdhruv@kurian-sura.com,LOW,30,4.73,ACTIVE
+VEN01200,"Pant, Babu and D’Alia",Office Supplies,Mumbai,tarakrajagopalan@doshi-chahal.com,MEDIUM,60,3.85,ACTIVE
+VEN01201,Raja-Sehgal,Travel,Chennai,malhotraandrew@dutta.com,LOW,60,3.2,ACTIVE
+VEN01202,Morar-Dani,Consulting,Chennai,shivanibuch@nanda-bhalla.org,LOW,90,4.33,ACTIVE
+VEN01203,Ganesh-Kalita,Travel,Bangalore,prakashnilima@keer.com,MEDIUM,30,4.06,ACTIVE
+VEN01204,Dalal Ltd,Telecommunications,Hyderabad,patlahitesh@borde.org,LOW,45,4.94,ACTIVE
+VEN01205,Bal LLC,Legal Services,Delhi,tbava@mody-manda.org,LOW,60,3.03,ACTIVE
+VEN01206,Bhasin-Palan,Office Supplies,Bangalore,narasimhanguneet@kapoor.info,LOW,45,4.66,ACTIVE
+VEN01207,"Chander, Bora and Dyal",Marketing,Pune,mwarrior@bail.net,MEDIUM,90,2.91,ACTIVE
+VEN01208,Bedi-Sami,Software,Bangalore,mannedarika@sanghvi.biz,LOW,45,4.87,ACTIVE
+VEN01209,"Ramachandran, Char and Chauhan",Facilities,Delhi,rshukla@mall.com,LOW,60,4.21,ACTIVE
+VEN01210,Singh-Bedi,Legal Services,Mumbai,oommenzilmil@padmanabhan.com,LOW,45,3.49,ACTIVE
+VEN01211,Srinivasan-Sundaram,Telecommunications,Bangalore,veda24@bandi.com,MEDIUM,45,4.81,ACTIVE
+VEN01212,Chacko LLC,IT Services,Mumbai,venkateshodika@sem.org,MEDIUM,60,4.04,ACTIVE
+VEN01213,"Saran, Gokhale and Doshi",Legal Services,Hyderabad,daksha76@chaudhry-madan.org,LOW,15,4.77,ACTIVE
+VEN01214,Toor-Kakar,Facilities,Delhi,jananiborra@barad.com,MEDIUM,15,3.0,ACTIVE
+VEN01215,Kata-Kala,Travel,Pune,krish27@solanki-bhakta.net,MEDIUM,15,2.89,ACTIVE
+VEN01216,Mohan-Gandhi,Consulting,Hyderabad,ltoor@patel.com,MEDIUM,30,3.3,ACTIVE
+VEN01217,Issac-Mall,Cloud Services,Bangalore,qabil13@agrawal.com,LOW,60,3.18,ACTIVE
+VEN01218,"Nori, Sood and Ravi",Cloud Services,Chennai,harish51@patil.com,LOW,45,2.65,ACTIVE
+VEN01219,Jayaraman Group,Office Supplies,Mumbai,akshay83@talwar.info,LOW,30,4.23,ACTIVE
+VEN01220,Ganesan-Nagarajan,Cloud Services,Mumbai,thomasdin@keer-krishnamurthy.com,LOW,60,2.68,ACTIVE
+VEN01221,Jayaraman PLC,Cloud Services,Chennai,vasudha96@sarkar-gandhi.net,LOW,45,3.12,ACTIVE
+VEN01222,Swaminathan and Sons,Facilities,Pune,kashvibahl@salvi.com,LOW,30,3.26,ACTIVE
+VEN01223,"Nanda, Nanda and Virk",Facilities,Delhi,modyzarna@master.info,MEDIUM,15,4.9,ACTIVE
+VEN01224,"Dutta, Venkataraman and Raghavan",Consulting,Pune,jasmitpalan@sastry.info,LOW,30,4.04,ACTIVE
+VEN01225,Sangha and Sons,Maintenance,Hyderabad,yashawini73@bahl-viswanathan.com,LOW,45,3.69,ACTIVE
+VEN01226,Pandey-Yohannan,Cloud Services,Pune,labansahota@jain.com,LOW,30,3.73,ACTIVE
+VEN01227,Sharma-Prakash,Professional Services,Delhi,bhattfrado@hora-deshmukh.info,MEDIUM,30,3.26,ACTIVE
+VEN01228,"Bakshi, Kale and Mital",Professional Services,Bangalore,mangalsachi@nazareth-raghavan.net,MEDIUM,30,3.71,ACTIVE
+VEN01229,"Sama, Kakar and Sura",Transportation,Pune,khalsaria@yogi.net,LOW,90,4.17,ACTIVE
+VEN01230,Natarajan and Sons,Legal Services,Delhi,faqidgoda@doctor.com,MEDIUM,15,2.83,ACTIVE
+VEN01231,Patla-Hayer,Professional Services,Hyderabad,rramachandran@natarajan-comar.com,LOW,15,2.9,ACTIVE
+VEN01232,"Narang, Rajagopal and Dubey",Telecommunications,Pune,michaelarora@jha.com,LOW,90,3.65,ACTIVE
+VEN01233,"Luthra, Deep and Raju",Marketing,Hyderabad,kadakiazarna@sem.net,LOW,45,4.15,ACTIVE
+VEN01234,"Puri, Basu and Sankaran",Telecommunications,Hyderabad,adyaoak@bansal.net,LOW,45,4.23,ACTIVE
+VEN01235,Venkataraman Ltd,IT Services,Delhi,lohitbobal@dhingra-varty.biz,MEDIUM,15,2.94,ACTIVE
+VEN01236,Mohan Ltd,Maintenance,Mumbai,vedhikatripathi@tandon-cherian.com,LOW,15,4.31,ACTIVE
+VEN01237,Sama Ltd,Transportation,Chennai,advikparsa@nath-sagar.com,LOW,60,4.58,ACTIVE
+VEN01238,Banerjee-Rajagopal,Travel,Bangalore,ethan23@ganguly-wadhwa.net,LOW,90,4.84,ACTIVE
+VEN01239,"Agarwal, Varkey and Venkataraman",Security,Mumbai,hbalasubramanian@chand.info,LOW,15,3.45,ACTIVE
+VEN01240,Mandal PLC,Office Supplies,Mumbai,samarthratta@konda.net,LOW,60,3.37,ACTIVE
+VEN01241,Tripathi Ltd,Cloud Services,Hyderabad,yashasvi44@kadakia-sura.com,LOW,90,4.35,ACTIVE
+VEN01242,Issac and Sons,Facilities,Mumbai,ftalwar@kala-kapur.com,LOW,30,2.56,ACTIVE
+VEN01243,"Borra, Thaman and Bhakta",Transportation,Chennai,viraj84@khosla.org,LOW,30,3.76,ACTIVE
+VEN01244,Narayan-Prashad,Professional Services,Delhi,patrick18@bali.net,LOW,45,3.66,ACTIVE
+VEN01245,"Sodhi, Mallick and Shere",Maintenance,Chennai,gavinkari@das.biz,LOW,90,3.44,ACTIVE
+VEN01246,Sastry-More,Office Supplies,Chennai,namble@deep.com,MEDIUM,30,4.16,ACTIVE
+VEN01247,Deol Inc,Travel,Delhi,hwable@badal-morar.com,LOW,15,3.5,ACTIVE
+VEN01248,"Konda, Dey and Tak",Hardware,Bangalore,george18@ganesan-bajwa.biz,LOW,15,3.02,ACTIVE
+VEN01249,Bajwa LLC,Maintenance,Hyderabad,rajhemangini@setty.biz,LOW,60,4.22,ACTIVE
+VEN01250,Chauhan Inc,Facilities,Bangalore,umang10@boase.org,LOW,30,3.41,ACTIVE
+VEN01251,"Golla, Naik and Bhatt",Facilities,Chennai,mekhalagara@hayer.com,LOW,15,3.28,ACTIVE
+VEN01252,Kale Ltd,Security,Hyderabad,lbalay@chand.com,MEDIUM,30,4.27,ACTIVE
+VEN01253,Borde LLC,Consulting,Hyderabad,fram@keer.info,MEDIUM,30,3.23,ACTIVE
+VEN01254,Dhar-Swaminathan,Telecommunications,Chennai,balhaarmandal@bava-amble.biz,LOW,15,2.64,ACTIVE
+VEN01255,"Jayaraman, Panchal and Karnik",Telecommunications,Mumbai,samuelpatil@choudhury.com,MEDIUM,15,4.33,ACTIVE
+VEN01256,Deo-Nanda,Legal Services,Delhi,banikdevika@magar.info,MEDIUM,15,3.43,ACTIVE
+VEN01257,Banik LLC,Security,Chennai,nigamharish@kant.com,LOW,90,2.89,ACTIVE
+VEN01258,Randhawa Group,Transportation,Bangalore,christopherdoctor@acharya-sridhar.com,LOW,90,2.71,ACTIVE
+VEN01259,Jaggi LLC,Security,Pune,vsachdeva@khalsa.com,LOW,30,2.89,ACTIVE
+VEN01260,Rajagopalan and Sons,Consulting,Delhi,vasana43@chaudhuri.com,LOW,15,2.77,ACTIVE
+VEN01261,"Bahl, Apte and Bala",Security,Pune,harsh62@purohit.com,LOW,15,2.9,ACTIVE
+VEN01262,Mukherjee Group,Security,Hyderabad,jairajloyal@patil-ahluwalia.com,LOW,30,3.81,ACTIVE
+VEN01263,Kumer Ltd,Telecommunications,Chennai,jalsa84@mani-edwin.com,LOW,90,4.01,ACTIVE
+VEN01264,Thakkar Inc,Facilities,Mumbai,deytanay@agate.biz,MEDIUM,90,4.15,ACTIVE
+VEN01265,Cheema-Vig,Software,Pune,raviamol@choudhury.com,LOW,15,4.89,ACTIVE
+VEN01266,Oza-Dar,Facilities,Mumbai,madhavishenoy@pandya-bail.com,HIGH,90,4.25,ACTIVE
+VEN01267,Chandra-Raman,Cloud Services,Chennai,maanavvarma@mander.com,MEDIUM,15,3.29,ACTIVE
+VEN01268,Yogi-Tata,Security,Bangalore,advaithdhar@kurian.info,LOW,60,3.47,ACTIVE
+VEN01269,Balan and Sons,Legal Services,Mumbai,onori@sura-puri.com,LOW,30,3.21,ACTIVE
+VEN01270,Krishnan LLC,Professional Services,Mumbai,upasnacontractor@sarma.com,LOW,30,3.24,ACTIVE
+VEN01271,Minhas LLC,Office Supplies,Delhi,isha08@bawa.org,MEDIUM,60,3.87,ACTIVE
+VEN01272,Sandhu Ltd,Hardware,Mumbai,dalaja73@samra-kumar.com,MEDIUM,60,3.59,ACTIVE
+VEN01273,Dewan-Kumar,Telecommunications,Chennai,nitarachander@bakshi.net,LOW,45,4.83,ACTIVE
+VEN01274,Lal LLC,Cloud Services,Hyderabad,vigjackson@sani-mishra.info,LOW,60,4.8,ACTIVE
+VEN01275,Dora and Sons,Marketing,Delhi,cahuja@chowdhury-swamy.com,LOW,15,3.43,ACTIVE
+VEN01276,Arya-Ganesh,Security,Delhi,jananigara@naidu-jain.com,MEDIUM,60,2.57,ACTIVE
+VEN01277,Kumar Ltd,Hardware,Pune,senguptaoviya@grover.com,HIGH,60,4.83,ACTIVE
+VEN01278,"Pal, Mistry and Biswas",Office Supplies,Pune,rpingle@balay.com,HIGH,60,4.63,ACTIVE
+VEN01279,Bansal-Panchal,Telecommunications,Mumbai,nitesh81@guha-jayaraman.com,MEDIUM,60,3.07,ACTIVE
+VEN01280,"Ravi, Chauhan and Bal",Maintenance,Mumbai,pallavipandya@chopra-deshpande.com,MEDIUM,15,2.87,ACTIVE
+VEN01281,Mane-Raju,Marketing,Delhi,nilima76@sheth-parekh.biz,MEDIUM,30,4.86,ACTIVE
+VEN01282,Narayanan Inc,Facilities,Delhi,ira01@mohan.com,LOW,15,4.56,ACTIVE
+VEN01283,Aurora-Garde,Facilities,Hyderabad,adar@verma.com,LOW,90,3.26,ACTIVE
+VEN01284,Krishna and Sons,Telecommunications,Mumbai,ekantikanath@apte.com,MEDIUM,30,2.76,ACTIVE
+VEN01285,"Rout, Nazareth and Dalal",Transportation,Mumbai,wadhwabalendra@grewal-wagle.com,LOW,45,3.89,ACTIVE
+VEN01286,"Basak, Nigam and Hayer",Facilities,Pune,santvrinda@aurora.net,LOW,45,2.99,ACTIVE
+VEN01287,Bera and Sons,Security,Delhi,anirudh16@soman.org,LOW,45,4.61,ACTIVE
+VEN01288,Bhattacharyya PLC,Professional Services,Hyderabad,badalfalguni@suri.org,LOW,60,4.71,ACTIVE
+VEN01289,Banerjee-Pandya,Transportation,Chennai,wmemon@pall-mall.com,MEDIUM,45,3.67,ACTIVE
+VEN01290,Dada-More,Marketing,Mumbai,yashvisha@sinha-johal.net,HIGH,60,2.99,ACTIVE
+VEN01291,"Mody, Korpal and Dada",Telecommunications,Chennai,kashish67@murty-shenoy.org,LOW,60,4.29,ACTIVE
+VEN01292,Purohit and Sons,Marketing,Hyderabad,kkaran@soni.com,HIGH,30,3.82,ACTIVE
+VEN01293,Suresh Inc,Consulting,Delhi,farhanbaria@rege-ravi.com,LOW,15,2.81,ACTIVE
+VEN01294,"Chopra, Lanka and Bhatnagar",Hardware,Pune,darikahalder@sen.net,LOW,30,4.46,ACTIVE
+VEN01295,"Kashyap, Doctor and Tripathi",Telecommunications,Delhi,zrajagopalan@chada.com,LOW,15,3.49,ACTIVE
+VEN01296,"Chadha, Chauhan and Sinha",Legal Services,Hyderabad,duttaamrita@khanna.com,LOW,90,3.75,ACTIVE
+VEN01297,Krishna-Kale,Hardware,Hyderabad,ikrish@bhavsar.com,LOW,90,3.66,ACTIVE
+VEN01298,"Lall, Hans and Mani",Professional Services,Delhi,guhahemangini@subramaniam.net,LOW,60,3.24,ACTIVE
+VEN01299,Sachdev Inc,Telecommunications,Delhi,choprabhavini@raj-garde.com,LOW,15,4.19,ACTIVE
+VEN01300,Jayaraman-Kumer,Maintenance,Mumbai,eyohannan@padmanabhan.com,HIGH,45,2.6,ACTIVE
+VEN01301,Naik-Palla,Cloud Services,Chennai,cmody@bhatt.com,HIGH,90,4.76,ACTIVE
+VEN01302,Vala-Walla,Marketing,Delhi,patrick66@solanki.com,MEDIUM,45,2.78,ACTIVE
+VEN01303,Virk PLC,Hardware,Delhi,udant83@dash.net,LOW,30,4.55,ACTIVE
+VEN01304,"Pau, Som and Tripathi",Transportation,Mumbai,ravelkashvi@anne-venkataraman.net,LOW,15,2.88,ACTIVE
+VEN01305,Lalla Inc,IT Services,Hyderabad,dayalbaghyawati@ratti-goyal.net,LOW,60,4.53,ACTIVE
+VEN01306,"Garde, Sankaran and Bhatti",Telecommunications,Bangalore,qjha@purohit.com,LOW,60,4.05,ACTIVE
+VEN01307,Jaggi-Brar,Cloud Services,Delhi,robert18@gupta.com,LOW,60,4.47,ACTIVE
+VEN01308,Jaggi PLC,Security,Pune,modyharinakshi@karnik.net,MEDIUM,30,3.04,ACTIVE
+VEN01309,"Karpe, Malhotra and Choudhury",Hardware,Bangalore,rattibhavini@sachar-kumer.org,LOW,30,4.94,ACTIVE
+VEN01310,Sood and Sons,Travel,Chennai,nchar@soman.com,LOW,90,2.94,ACTIVE
+VEN01311,"Edwin, Sura and Chauhan",Travel,Delhi,patlahemani@goyal.net,LOW,15,4.39,ACTIVE
+VEN01312,"Krish, Bandi and Gill",Facilities,Chennai,iyengarmitali@bhatnagar-reddy.com,LOW,60,3.89,ACTIVE
+VEN01313,"Khare, Konda and Thakur",Marketing,Delhi,elijah78@raval-arya.com,LOW,60,2.8,ACTIVE
+VEN01314,"Tailor, Mukherjee and Atwal",Consulting,Delhi,adutta@krishna.com,LOW,45,4.31,ACTIVE
+VEN01315,Nigam Ltd,Maintenance,Chennai,kotharigaurang@srivastava-yadav.com,LOW,90,4.57,ACTIVE
+VEN01316,Wali PLC,Security,Bangalore,sachikant@zachariah.com,HIGH,90,4.37,ACTIVE
+VEN01317,"Dubey, Gour and Sem",Transportation,Pune,mahalpavani@pall.com,LOW,15,4.7,ACTIVE
+VEN01318,Varty-Dixit,Cloud Services,Mumbai,owenbasak@ganesh-mital.net,LOW,60,4.21,ACTIVE
+VEN01319,Chaudhary-Chada,Consulting,Chennai,rachana23@ramachandran.net,LOW,60,3.37,ACTIVE
+VEN01320,Bhattacharyya Ltd,Office Supplies,Hyderabad,lekha70@malhotra.com,LOW,30,2.63,ACTIVE
+VEN01321,Acharya LLC,Transportation,Mumbai,raksha12@jaggi.com,LOW,90,4.71,ACTIVE
+VEN01322,Sekhon-Mohanty,Security,Mumbai,neha23@sandal-boase.info,LOW,30,2.88,ACTIVE
+VEN01323,De Group,Office Supplies,Pune,breddy@sagar.com,HIGH,15,4.42,ACTIVE
+VEN01324,"Khatri, Reddy and Bawa",Facilities,Mumbai,xparsa@manne-borde.biz,MEDIUM,90,4.76,ACTIVE
+VEN01325,"Krishnamurthy, Kanda and Sagar",Legal Services,Delhi,rkohli@soni.com,LOW,15,3.24,ACTIVE
+VEN01326,Chada-Tripathi,Office Supplies,Pune,irya35@sethi-subramaniam.info,LOW,90,4.15,ACTIVE
+VEN01327,"Pathak, Devi and Malhotra",IT Services,Bangalore,yashasvi36@wason.net,MEDIUM,30,2.5,ACTIVE
+VEN01328,"Handa, Sarraf and Manne",Cloud Services,Pune,ojas39@barad-manda.com,MEDIUM,60,4.62,ACTIVE
+VEN01329,Loke-Nair,Office Supplies,Chennai,gopalindali@taneja-bhatia.com,MEDIUM,15,3.2,ACTIVE
+VEN01330,Srinivas PLC,Professional Services,Delhi,gaurangibora@chopra-aggarwal.com,LOW,60,4.11,ACTIVE
+VEN01331,Roy-Joshi,IT Services,Pune,bishakhaagate@trivedi.com,MEDIUM,90,2.8,ACTIVE
+VEN01332,Kala-Swaminathan,Maintenance,Hyderabad,gautam26@andra.com,LOW,15,2.7,ACTIVE
+VEN01333,Dara-Aurora,Cloud Services,Delhi,nchaudry@shere.net,LOW,30,2.6,ACTIVE
+VEN01334,Jhaveri Ltd,Cloud Services,Pune,keerjoshua@modi.info,LOW,30,4.95,ACTIVE
+VEN01335,Mannan-Golla,Cloud Services,Mumbai,brijesh16@sen-patla.com,LOW,90,2.51,ACTIVE
+VEN01336,Soman-Mitra,Professional Services,Pune,okala@bobal.info,LOW,15,3.52,ACTIVE
+VEN01337,"Aggarwal, Om and Ramesh",Cloud Services,Mumbai,nazarethdivya@kade-virk.com,LOW,15,4.58,ACTIVE
+VEN01338,Behl PLC,Cloud Services,Delhi,xahuja@sankar.com,MEDIUM,30,4.4,ACTIVE
+VEN01339,Bhavsar-Oza,Office Supplies,Chennai,fariqsastry@ravi-bail.com,LOW,15,4.21,ACTIVE
+VEN01340,Manne-Prasad,Office Supplies,Chennai,ssheth@chand.com,LOW,15,4.27,ACTIVE
+VEN01341,Karpe Ltd,Consulting,Chennai,vseth@natarajan-pathak.com,MEDIUM,60,4.58,ACTIVE
+VEN01342,Badal-Rajagopalan,Marketing,Hyderabad,amritagole@bail-pradhan.com,LOW,90,2.99,ACTIVE
+VEN01343,Vohra PLC,Transportation,Hyderabad,dayitasaran@ratta.net,LOW,45,3.49,ACTIVE
+VEN01344,"D’Alia, Varkey and Shukla",Hardware,Pune,zansi80@chokshi-mann.com,HIGH,90,2.86,ACTIVE
+VEN01345,Saini and Sons,Professional Services,Delhi,sai45@devi.biz,LOW,60,3.92,ACTIVE
+VEN01346,Khosla Group,Telecommunications,Mumbai,galanakul@joshi.com,MEDIUM,45,3.28,ACTIVE
+VEN01347,Boase Ltd,Hardware,Chennai,fradohora@naik-narayanan.info,LOW,60,4.56,ACTIVE
+VEN01348,"Balasubramanian, Baria and Soman",Cloud Services,Delhi,hemarattan@sundaram-deep.com,MEDIUM,15,4.58,ACTIVE
+VEN01349,Raj Ltd,Marketing,Delhi,onipall@vyas-hora.info,LOW,30,2.93,ACTIVE
+VEN01350,"Borah, Prabhakar and Chopra",Travel,Hyderabad,manehardik@rastogi.info,MEDIUM,90,3.43,ACTIVE
+VEN01351,Raghavan-Sur,Software,Pune,saksham22@rajagopal-srinivas.com,HIGH,90,3.71,ACTIVE
+VEN01352,Buch-Sama,Cloud Services,Chennai,vmurthy@dani-deo.com,LOW,30,2.84,ACTIVE
+VEN01353,"Mohan, Natt and Lalla",Software,Delhi,gadearunima@jani-wadhwa.com,LOW,90,4.27,ACTIVE
+VEN01354,Sekhon-Raval,Security,Delhi,jai36@sur-madan.net,LOW,60,4.2,ACTIVE
+VEN01355,"Sandhu, Toor and Raman",Telecommunications,Pune,venkataramanvarenya@samra.com,LOW,15,4.32,ACTIVE
+VEN01356,Zacharia Ltd,Marketing,Bangalore,ekiyabarad@mangal.com,MEDIUM,90,3.03,ACTIVE
+VEN01357,Shukla-Mallick,Legal Services,Chennai,tarabera@devi-pathak.com,LOW,45,3.35,ACTIVE
+VEN01358,Oza-Dora,Security,Chennai,esabharwal@natt.info,LOW,60,4.59,ACTIVE
+VEN01359,"Gade, Soman and Malhotra",Marketing,Chennai,shaneesha@korpal.com,LOW,30,2.52,ACTIVE
+VEN01360,Raj-Amble,Office Supplies,Chennai,saumyaganguly@balasubramanian.biz,LOW,90,3.41,ACTIVE
+VEN01361,"Contractor, Bahl and Pradhan",IT Services,Mumbai,dsrinivasan@singh.com,LOW,30,2.78,ACTIVE
+VEN01362,Halder PLC,Hardware,Hyderabad,oscarnaidu@seth-sridhar.com,LOW,60,3.38,ACTIVE
+VEN01363,"Ramesh, Konda and Chanda",Cloud Services,Delhi,esubramaniam@rau.biz,MEDIUM,30,3.19,ACTIVE
+VEN01364,"Sarraf, Wable and Sabharwal",Office Supplies,Hyderabad,ravalviraj@ramanathan.net,LOW,45,4.32,ACTIVE
+VEN01365,Khurana Inc,Professional Services,Bangalore,luckyrout@mitter.org,HIGH,90,3.28,ACTIVE
+VEN01366,"Sama, Mitter and Bala",IT Services,Chennai,neha65@sur-sethi.com,MEDIUM,90,3.38,ACTIVE
+VEN01367,Kar-Ramesh,Facilities,Hyderabad,amruta34@nayar.com,HIGH,30,2.9,ACTIVE
+VEN01368,Shroff Group,Transportation,Hyderabad,chanakyazachariah@balay.net,LOW,45,3.14,ACTIVE
+VEN01369,"Krish, Kumar and Tripathi",Telecommunications,Mumbai,adityabajwa@gaba.com,LOW,60,3.58,ACTIVE
+VEN01370,Nagy-Bal,Facilities,Chennai,isha68@sahota-baral.com,MEDIUM,90,4.07,ACTIVE
+VEN01371,Gara and Sons,Professional Services,Bangalore,gauravmutti@mital.com,LOW,90,3.73,ACTIVE
+VEN01372,Munshi Ltd,Cloud Services,Pune,gnarain@loke.biz,LOW,90,3.47,ACTIVE
+VEN01373,"Sahni, Chander and Ghosh",Security,Bangalore,usen@hora.com,MEDIUM,90,2.92,ACTIVE
+VEN01374,Sarin-Mukhopadhyay,Hardware,Mumbai,anmolchander@loyal.info,LOW,15,3.24,ACTIVE
+VEN01375,Radhakrishnan-Chacko,Office Supplies,Chennai,kgill@patla.com,MEDIUM,60,2.93,ACTIVE
+VEN01376,Atwal and Sons,Consulting,Delhi,warriordamyanti@sur.com,MEDIUM,45,2.69,ACTIVE
+VEN01377,"Reddy, Pillay and Dey",Office Supplies,Chennai,aadhyasangha@pathak-manda.biz,LOW,15,3.88,ACTIVE
+VEN01378,"Bhatt, Datta and Bhatia",Software,Delhi,avnisabharwal@ghose-sarin.com,MEDIUM,15,3.82,ACTIVE
+VEN01379,Ben-Borra,Facilities,Chennai,yashvicontractor@kade-nath.com,LOW,30,4.9,ACTIVE
+VEN01380,Lala-Gole,Professional Services,Mumbai,qushi28@sami.net,LOW,30,2.87,ACTIVE
+VEN01381,Kothari PLC,Transportation,Bangalore,suhani51@kurian.info,MEDIUM,45,3.66,ACTIVE
+VEN01382,"Mahajan, Chakrabarti and Thakur",Professional Services,Bangalore,andrew58@lad.com,LOW,90,4.42,ACTIVE
+VEN01383,"Murty, Luthra and Sahni",Marketing,Bangalore,faras20@bajaj-sankar.com,LOW,15,3.73,ACTIVE
+VEN01384,Palla PLC,Office Supplies,Delhi,okamdar@dugal-narasimhan.com,MEDIUM,90,2.89,ACTIVE
+VEN01385,Kata Inc,IT Services,Pune,anjali64@krishna.com,LOW,60,4.36,ACTIVE
+VEN01386,"Babu, Nagi and Kumar",Professional Services,Hyderabad,bhatnitesh@kade.com,LOW,15,4.74,ACTIVE
+VEN01387,Taneja-Kibe,Facilities,Chennai,oommenranbir@bala.com,MEDIUM,30,4.79,ACTIVE
+VEN01388,"Kadakia, Grewal and Dutt",Legal Services,Bangalore,bdhar@patla-pillai.com,LOW,30,4.26,ACTIVE
+VEN01389,"Raja, Divan and Tiwari",Professional Services,Chennai,widisha56@savant-kanda.com,LOW,15,3.47,ACTIVE
+VEN01390,"Kibe, Mann and Johal",Professional Services,Delhi,balanindali@zacharia.net,LOW,60,2.63,ACTIVE
+VEN01391,Saxena-Sarraf,Office Supplies,Pune,alexanderoak@gole-upadhyay.com,LOW,15,4.46,ACTIVE
+VEN01392,"Sehgal, Vasa and Issac",Cloud Services,Bangalore,bobalrachana@virk-master.biz,LOW,90,3.02,ACTIVE
+VEN01393,"Badami, Seshadri and Master",Security,Bangalore,oni25@purohit.com,MEDIUM,15,4.41,ACTIVE
+VEN01394,Sem Inc,Facilities,Hyderabad,hparikh@narasimhan-bera.org,LOW,30,4.09,ACTIVE
+VEN01395,"Balay, Deo and Banerjee",Telecommunications,Hyderabad,qom@bath.biz,LOW,45,4.61,ACTIVE
+VEN01396,"Batta, Shere and Mani",Hardware,Mumbai,anshrastogi@walia-krishnamurthy.info,MEDIUM,30,4.97,ACTIVE
+VEN01397,Gupta-Ganesh,Legal Services,Chennai,dixitchanchal@kumer.info,MEDIUM,90,3.99,ACTIVE
+VEN01398,Chaudhuri PLC,Travel,Chennai,ibuch@acharya.com,LOW,30,2.7,ACTIVE
+VEN01399,Hayre Group,Marketing,Delhi,ngole@bora.com,LOW,90,3.8,ACTIVE
+VEN01400,Butala-Ramanathan,Telecommunications,Bangalore,rsalvi@bhatti-balakrishnan.info,LOW,60,2.68,ACTIVE
+VEN01401,"Kannan, Pal and Goswami",Facilities,Pune,aom@deshmukh-bakshi.net,LOW,30,4.63,ACTIVE
+VEN01402,Cherian Ltd,Security,Delhi,advayahluwalia@raju.net,LOW,90,4.74,ACTIVE
+VEN01403,Gokhale Inc,Professional Services,Hyderabad,nathan90@tailor.com,LOW,60,4.53,ACTIVE
+VEN01404,"Rajagopal, Purohit and Loyal",Professional Services,Delhi,baljiwanpurohit@minhas.net,LOW,45,2.89,ACTIVE
+VEN01405,"Keer, Char and Rao",Maintenance,Delhi,ndey@mital.com,MEDIUM,90,4.71,ACTIVE
+VEN01406,Som-D’Alia,Security,Mumbai,raichanakya@bhat-sani.info,LOW,30,4.61,ACTIVE
+VEN01407,"Khalsa, Swamy and Setty",Hardware,Hyderabad,elijahkumer@dalal.com,LOW,15,2.97,ACTIVE
+VEN01408,Dyal-Bal,Security,Mumbai,urishilla98@batra.info,MEDIUM,15,3.06,ACTIVE
+VEN01409,Pai Group,Telecommunications,Pune,udyati65@prabhakar.info,LOW,45,3.13,ACTIVE
+VEN01410,"Bail, Kar and Kar",Legal Services,Pune,ushenoy@mammen-suresh.org,LOW,15,4.49,ACTIVE
+VEN01411,Bail PLC,Consulting,Mumbai,vasudhawadhwa@zacharia-ratti.com,LOW,30,4.18,ACTIVE
+VEN01412,Kalla Inc,Travel,Mumbai,manidiya@hari.com,LOW,30,3.43,ACTIVE
+VEN01413,Lalla PLC,Security,Pune,atharvsheth@agate.com,LOW,45,4.48,ACTIVE
+VEN01414,Sidhu-Palla,Facilities,Chennai,adweta75@saraf.com,LOW,90,4.02,ACTIVE
+VEN01415,Kade-Wadhwa,Legal Services,Chennai,haritabuch@sinha.com,LOW,15,4.73,ACTIVE
+VEN01416,Hans LLC,Legal Services,Delhi,gauravsoman@rama.com,LOW,45,3.11,ACTIVE
+VEN01417,Bera Ltd,Consulting,Hyderabad,agastya88@sanghvi.com,MEDIUM,90,3.58,ACTIVE
+VEN01418,Thakkar-Bail,Legal Services,Delhi,daksha30@nagar-shetty.info,LOW,90,4.36,ACTIVE
+VEN01419,Chanda Inc,Legal Services,Bangalore,saichhabra@ravel.com,MEDIUM,45,3.13,ACTIVE
+VEN01420,"Wali, Chandran and Setty",Telecommunications,Delhi,osanghvi@dave-chada.com,HIGH,45,3.09,ACTIVE
+VEN01421,Sahota Group,Security,Hyderabad,siyacontractor@arora.com,LOW,60,4.48,ACTIVE
+VEN01422,Walla-Roy,Security,Bangalore,amahal@mohanty.info,LOW,30,3.19,ACTIVE
+VEN01423,Palla PLC,Security,Chennai,prisha89@handa-shukla.com,MEDIUM,15,2.53,ACTIVE
+VEN01424,Oza and Sons,Facilities,Pune,tripti76@swamy.org,MEDIUM,60,2.88,ACTIVE
+VEN01425,Chakrabarti-Rama,Marketing,Hyderabad,obandi@dyal.com,LOW,60,3.14,ACTIVE
+VEN01426,Lanka Ltd,Transportation,Delhi,panditdavid@sarraf.com,LOW,30,2.73,ACTIVE
+VEN01427,"Rai, Kapadia and Dhaliwal",Security,Pune,dalbirmohanty@swamy-dora.com,LOW,45,4.19,ACTIVE
+VEN01428,"Sahota, Borra and Chand",Software,Delhi,hemangini33@manne.com,LOW,15,4.28,ACTIVE
+VEN01429,"Badal, Saraf and Goyal",IT Services,Delhi,naginilima@bera-hans.com,LOW,45,4.76,ACTIVE
+VEN01430,"Warrior, Bhardwaj and Panchal",Consulting,Chennai,vigtanveer@iyengar-mahal.org,LOW,60,3.22,ACTIVE
+VEN01431,Reddy and Sons,Marketing,Bangalore,radhika80@vig.org,LOW,15,3.45,ACTIVE
+VEN01432,"Kothari, Mane and Sur",Cloud Services,Chennai,chaitalylad@samra.biz,MEDIUM,90,2.53,ACTIVE
+VEN01433,Chandra PLC,Maintenance,Pune,pmannan@ray.info,LOW,90,4.9,ACTIVE
+VEN01434,De-Iyer,Telecommunications,Mumbai,mahikawable@mittal.info,LOW,45,2.9,ACTIVE
+VEN01435,Gera PLC,Telecommunications,Delhi,hemang62@baria.com,MEDIUM,60,2.8,ACTIVE
+VEN01436,"Dubey, Purohit and Dey",Travel,Chennai,nsood@chaudry.com,LOW,45,4.56,ACTIVE
+VEN01437,"Char, De and Shroff",Maintenance,Bangalore,orau@amble-kunda.com,LOW,15,4.43,ACTIVE
+VEN01438,"Sathe, Krishnan and Lal",Maintenance,Mumbai,vsandal@gopal.biz,LOW,90,4.13,ACTIVE
+VEN01439,"Rattan, Varty and Narula",Security,Bangalore,sacharpranav@sood.com,LOW,45,4.91,ACTIVE
+VEN01440,Chawla-Kota,Consulting,Pune,maanas84@lad-sha.com,LOW,45,4.79,ACTIVE
+VEN01441,"Narain, Amble and Bajaj",Software,Bangalore,ria45@vyas.biz,LOW,15,4.76,ACTIVE
+VEN01442,Muni-Warrior,Facilities,Delhi,tvasa@kara.com,MEDIUM,45,4.77,ACTIVE
+VEN01443,Gola Group,Travel,Bangalore,fbatra@keer.org,LOW,45,3.54,ACTIVE
+VEN01444,Zachariah-Goda,Travel,Mumbai,aahanapatil@mangat.net,LOW,60,4.04,ACTIVE
+VEN01445,Ram Inc,Security,Hyderabad,janyakothari@chokshi-sur.biz,MEDIUM,60,4.53,ACTIVE
+VEN01446,"Pandit, Mukhopadhyay and Reddy",Maintenance,Delhi,lalahardik@chopra.com,MEDIUM,15,3.27,ACTIVE
+VEN01447,Shere-Kapadia,Facilities,Hyderabad,garayashawini@keer.com,HIGH,15,3.76,ACTIVE
+VEN01448,Anand-Chaudhary,Security,Pune,tarasoman@deshmukh.info,LOW,60,4.61,ACTIVE
+VEN01449,"Cheema, Nagy and Rajan",Professional Services,Delhi,robert90@char.com,MEDIUM,60,3.29,ACTIVE
+VEN01450,Krishnan-Atwal,Transportation,Mumbai,handaayush@dutta.biz,LOW,30,4.47,ACTIVE
+VEN01451,Chatterjee-Ramachandran,Telecommunications,Bangalore,chakrika02@konda.com,LOW,15,4.68,ACTIVE
+VEN01452,Date-Sagar,Transportation,Delhi,sneha28@ganguly.net,LOW,90,3.5,ACTIVE
+VEN01453,Nagarajan-Saini,Professional Services,Mumbai,odikabassi@anand.org,LOW,45,2.5,ACTIVE
+VEN01454,"Bal, Dara and Vora",Cloud Services,Hyderabad,ambleyug@acharya.com,HIGH,90,4.32,ACTIVE
+VEN01455,Yogi-Dube,Office Supplies,Mumbai,vviswanathan@dyal-dubey.com,LOW,90,2.97,ACTIVE
+VEN01456,Anne Group,Marketing,Bangalore,bhatdev@garde-ganesan.com,LOW,90,2.58,ACTIVE
+VEN01457,"Sibal, Radhakrishnan and Raman",Software,Pune,isaiahperi@biswas-pall.com,LOW,90,3.72,ACTIVE
+VEN01458,"Bhargava, Sehgal and Agate",Software,Pune,suhanidesai@ganesan.net,LOW,90,4.32,ACTIVE
+VEN01459,Kalita-Natarajan,Professional Services,Chennai,daminiganesh@ramakrishnan.info,MEDIUM,15,4.24,ACTIVE
+VEN01460,"Luthra, Naik and Panchal",Hardware,Mumbai,beralohit@karpe.com,HIGH,45,3.62,ACTIVE
+VEN01461,"Thaman, Pall and Shah",Telecommunications,Bangalore,yutikakant@ratta-kale.net,LOW,90,3.57,ACTIVE
+VEN01462,"Chatterjee, Saran and Bumb",Software,Delhi,pallaekani@sura.com,MEDIUM,15,3.86,ACTIVE
+VEN01463,"Doctor, Rout and Chadha",Cloud Services,Chennai,dakshesh94@sangha.org,LOW,30,4.86,ACTIVE
+VEN01464,Dugar-Basak,Hardware,Pune,ucchaltrivedi@char.com,MEDIUM,60,4.19,ACTIVE
+VEN01465,"Buch, Bobal and Dara",IT Services,Pune,gedwin@nazareth-varty.com,LOW,45,4.86,ACTIVE
+VEN01466,"Sule, Madan and Kurian",IT Services,Mumbai,basuowen@gour-varughese.biz,MEDIUM,15,3.78,ACTIVE
+VEN01467,Zachariah-Bains,Transportation,Chennai,bgoyal@bajaj.info,LOW,60,4.77,ACTIVE
+VEN01468,Buch PLC,Travel,Mumbai,nmangal@nagy.com,LOW,15,3.78,ACTIVE
+VEN01469,"Dave, Narayanan and Padmanabhan",Security,Mumbai,oviya80@loyal.com,LOW,45,2.66,ACTIVE
+VEN01470,Nori Ltd,Travel,Bangalore,dattasiddharth@dua-mahajan.com,LOW,90,3.28,ACTIVE
+VEN01471,Mangal-Sule,Cloud Services,Bangalore,agrawalkrishna@dalia-baral.biz,MEDIUM,30,3.56,ACTIVE
+VEN01472,"Sen, Dewan and Morar",Telecommunications,Pune,pavani09@solanki-sundaram.com,LOW,30,3.06,ACTIVE
+VEN01473,Walia-Srinivas,Office Supplies,Pune,dmani@kibe-bhagat.net,MEDIUM,60,4.08,ACTIVE
+VEN01474,Nath Group,Legal Services,Bangalore,ayushmanchandra@bhandari.com,HIGH,15,2.79,ACTIVE
+VEN01475,Sharma-Mohanty,Security,Bangalore,tiwariakshay@desai-bath.com,HIGH,90,2.67,ACTIVE
+VEN01476,Hayer Inc,IT Services,Pune,vansha57@kala.net,LOW,15,2.89,ACTIVE
+VEN01477,"Grover, Thaker and Srinivasan",Software,Hyderabad,cpadmanabhan@parikh-palan.com,LOW,90,2.72,ACTIVE
+VEN01478,Upadhyay-Sachdev,Maintenance,Pune,leena85@sandhu.com,LOW,15,4.27,ACTIVE
+VEN01479,"Sood, Vohra and Ganesh",Cloud Services,Bangalore,gmukherjee@choudhury-kapur.com,LOW,30,2.59,ACTIVE
+VEN01480,Bhagat and Sons,Transportation,Delhi,indira46@lanka.com,LOW,60,3.51,ACTIVE
+VEN01481,Saxena-Upadhyay,Security,Hyderabad,laban94@trivedi.info,LOW,45,2.99,ACTIVE
+VEN01482,Mangat Inc,Hardware,Pune,kamya05@rajan.info,LOW,45,3.31,ACTIVE
+VEN01483,Sane PLC,Office Supplies,Hyderabad,hitesh18@ramesh.com,LOW,60,4.6,ACTIVE
+VEN01484,Warrior Ltd,Telecommunications,Delhi,ppatla@pall.com,LOW,30,4.84,ACTIVE
+VEN01485,Vohra Inc,IT Services,Bangalore,yatindoshi@bose-sharma.info,MEDIUM,45,3.64,ACTIVE
+VEN01486,"Chahal, Buch and Venkatesh",Cloud Services,Pune,chokshikrishna@sharma-menon.com,LOW,30,3.09,ACTIVE
+VEN01487,Behl-Lalla,Legal Services,Bangalore,venkateshgarima@dubey.com,LOW,15,4.95,ACTIVE
+VEN01488,Sagar PLC,Facilities,Bangalore,upma49@mohan.biz,LOW,15,3.98,ACTIVE
+VEN01489,"Varughese, Walla and Kala",IT Services,Chennai,zbumb@chana.info,LOW,30,3.97,ACTIVE
+VEN01490,Mohanty-Mutti,Office Supplies,Chennai,zachariabrinda@bumb.biz,LOW,90,2.76,ACTIVE
+VEN01491,"Nadkarni, Gaba and Bhavsar",Maintenance,Pune,obansal@nagi.com,LOW,15,3.26,ACTIVE
+VEN01492,Saini Inc,Consulting,Delhi,eiravati74@dey.net,MEDIUM,30,3.63,ACTIVE
+VEN01493,Nayar-Pillai,Maintenance,Chennai,ksampath@prasad-chandra.com,LOW,30,4.1,ACTIVE
+VEN01494,Varty-Chana,Maintenance,Bangalore,bakhshitandon@khurana.com,MEDIUM,60,4.26,ACTIVE
+VEN01495,"Khurana, Pall and Mohanty",Software,Mumbai,gargwarinder@lal.com,LOW,30,4.65,ACTIVE
+VEN01496,Pingle Ltd,Consulting,Pune,gollabhavya@nagar-tata.com,LOW,30,2.82,ACTIVE
+VEN01497,Rajagopal and Sons,Legal Services,Hyderabad,xmadan@natarajan.com,MEDIUM,45,3.65,ACTIVE
+VEN01498,"Dass, Varkey and Sabharwal",Facilities,Delhi,krishtandon@bhakta.com,LOW,15,4.03,ACTIVE
+VEN01499,Kunda-Bandi,Transportation,Hyderabad,falanbasu@agate-sundaram.biz,LOW,15,4.12,ACTIVE
+VEN01500,Minhas LLC,Cloud Services,Chennai,sarthakmammen@sagar.biz,LOW,45,3.89,ACTIVE
+VEN01501,Korpal Ltd,Consulting,Chennai,mitali41@raval.com,LOW,90,4.47,ACTIVE
+VEN01502,Narayanan and Sons,Consulting,Hyderabad,parsagaurang@kari-panchal.com,MEDIUM,45,2.64,ACTIVE
+VEN01503,De-Hora,Transportation,Hyderabad,xtripathi@lall.com,HIGH,60,3.34,ACTIVE
+VEN01504,"Patla, Gara and Rama",IT Services,Hyderabad,dharyatan@mani-singhal.com,LOW,90,3.42,ACTIVE
+VEN01505,Kunda Inc,Legal Services,Mumbai,jagvi30@bose-dalia.com,LOW,45,4.77,ACTIVE
+VEN01506,"Badal, Agrawal and Lata",Professional Services,Pune,krishna75@gandhi.com,MEDIUM,60,4.89,ACTIVE
+VEN01507,"Swamy, Banik and Prasad",Consulting,Mumbai,okar@pau-parmar.biz,LOW,15,2.9,ACTIVE
+VEN01508,Upadhyay LLC,Transportation,Chennai,voramitesh@lad.com,LOW,15,4.39,ACTIVE
+VEN01509,"Ramachandran, Basak and Bassi",Consulting,Bangalore,jagvi73@vohra.info,LOW,15,4.71,ACTIVE
+VEN01510,"Dass, Ravi and Rama",IT Services,Pune,maniadvaith@krishnamurthy-shah.com,LOW,15,3.71,ACTIVE
+VEN01511,Chauhan Group,Office Supplies,Hyderabad,alexander56@ramanathan.net,MEDIUM,45,2.93,ACTIVE
+VEN01512,"Barad, Rao and Naidu",Software,Bangalore,ytaneja@deol.com,MEDIUM,60,2.84,ACTIVE
+VEN01513,Gopal-Basak,Office Supplies,Chennai,wriddhish00@khare-bhatt.org,LOW,30,3.14,ACTIVE
+VEN01514,Barad Group,Office Supplies,Chennai,vchaudhuri@raj.com,LOW,30,3.24,ACTIVE
+VEN01515,"Brar, Chand and Mitra",Telecommunications,Chennai,chandrandube@rao.com,LOW,90,4.14,ACTIVE
+VEN01516,Dugar PLC,Maintenance,Delhi,rdara@deep.com,MEDIUM,60,3.03,ACTIVE
+VEN01517,Misra-Deshpande,Software,Pune,advikadugal@mani.com,MEDIUM,60,2.87,ACTIVE
+VEN01518,Kashyap Ltd,IT Services,Pune,dakshaurora@char.com,MEDIUM,30,3.29,ACTIVE
+VEN01519,Vyas-Garg,Software,Pune,alkakeer@bhat-suresh.org,LOW,15,3.75,ACTIVE
+VEN01520,Kaul LLC,Maintenance,Mumbai,neelnaidu@dada-sundaram.biz,LOW,90,4.77,ACTIVE
+VEN01521,Mand Ltd,Marketing,Mumbai,nikita76@bhalla-yogi.org,LOW,45,4.77,ACTIVE
+VEN01522,Shanker-Patil,Office Supplies,Mumbai,keyabiswas@aggarwal-gulati.com,LOW,30,4.52,ACTIVE
+VEN01523,"Shroff, Baral and Bhagat",Consulting,Pune,pkorpal@bhakta-dave.info,MEDIUM,90,3.35,ACTIVE
+VEN01524,Dara Ltd,Consulting,Mumbai,pallavi72@biswas-suri.com,LOW,45,3.12,ACTIVE
+VEN01525,Grover-Dhingra,Facilities,Chennai,ekani98@singhal.com,LOW,90,3.73,ACTIVE
+VEN01526,"Gopal, Mital and Hari",Facilities,Mumbai,devanshmammen@ganesan-dutta.com,LOW,90,3.78,ACTIVE
+VEN01527,Dyal PLC,Security,Delhi,ronithvig@butala.com,MEDIUM,60,4.63,ACTIVE
+VEN01528,Gade and Sons,Legal Services,Chennai,ayaan62@bala-manne.com,MEDIUM,45,3.25,ACTIVE
+VEN01529,"Char, Mall and Mistry",Office Supplies,Mumbai,gargdeepa@dyal-goyal.org,MEDIUM,15,3.92,ACTIVE
+VEN01530,Krishnamurthy LLC,Legal Services,Delhi,rsavant@vig.org,LOW,30,4.45,ACTIVE
+VEN01531,Karan Ltd,Consulting,Pune,bakhshi46@gulati.info,LOW,15,2.75,ACTIVE
+VEN01532,Chowdhury-Pandey,Consulting,Chennai,hemakaur@vig.net,LOW,15,4.67,ACTIVE
+VEN01533,"Patla, Buch and Bains",Travel,Hyderabad,xavier09@loyal.com,LOW,45,3.33,ACTIVE
+VEN01534,"Pai, Bhargava and Trivedi",Consulting,Chennai,hemanisood@kar.com,LOW,30,4.92,ACTIVE
+VEN01535,Ahluwalia Group,Marketing,Delhi,samaekaraj@sarin.com,LOW,60,2.61,ACTIVE
+VEN01536,Shan-Mane,Telecommunications,Mumbai,kpalla@chaudhari.com,LOW,90,4.72,ACTIVE
+VEN01537,"Rai, Patil and Barman",Marketing,Hyderabad,qdeshpande@shanker.com,LOW,60,3.87,ACTIVE
+VEN01538,"Gera, Natarajan and De",Facilities,Mumbai,aishani11@bhatia.biz,LOW,15,4.56,ACTIVE
+VEN01539,Mitter Inc,Travel,Mumbai,pahalreddy@salvi-tripathi.com,LOW,15,2.96,ACTIVE
+VEN01540,"Lanka, Bawa and Munshi",Consulting,Mumbai,emittal@kothari.biz,LOW,60,4.19,ACTIVE
+VEN01541,Garde-Mani,Software,Mumbai,rushil20@nagarajan-madan.com,LOW,90,3.35,ACTIVE
+VEN01542,Reddy Ltd,Travel,Pune,merchantthomas@bhargava-johal.info,LOW,90,3.11,ACTIVE
+VEN01543,Pai and Sons,Security,Bangalore,ranveer10@bhattacharyya.net,LOW,30,4.69,ACTIVE
+VEN01544,Balan PLC,Software,Chennai,wridesh12@patla.biz,LOW,45,4.38,ACTIVE
+VEN01545,Sawhney-Manda,Security,Chennai,dsheth@sarma-raj.com,LOW,45,3.47,ACTIVE
+VEN01546,Gade-Toor,Cloud Services,Mumbai,ckaul@balan-sharma.net,LOW,45,4.09,ACTIVE
+VEN01547,Baral Ltd,Travel,Chennai,bansalikbal@menon.net,LOW,60,4.67,ACTIVE
+VEN01548,Prabhu Group,Facilities,Bangalore,kabir11@upadhyay.org,LOW,15,3.54,ACTIVE
+VEN01549,"Bahri, Bal and Mammen",Telecommunications,Chennai,ekaraj00@gara-handa.com,LOW,45,3.73,ACTIVE
+VEN01550,"Memon, Ghose and Balasubramanian",Travel,Pune,sarthak06@bhalla-lanka.com,LOW,45,3.4,ACTIVE
+VEN01551,Borah Inc,Legal Services,Mumbai,qbaria@jhaveri-borde.com,LOW,30,4.51,ACTIVE
+VEN01552,Prabhakar-Andra,Travel,Chennai,gaurangpatla@vig.net,LOW,30,2.68,ACTIVE
+VEN01553,Barad-Ram,Office Supplies,Pune,xaurora@saxena-parmar.com,LOW,15,3.89,ACTIVE
+VEN01554,D’Alia-Lanka,Software,Pune,hemanibora@rau-bail.org,HIGH,15,3.04,ACTIVE
+VEN01555,Dara-Lata,Maintenance,Delhi,tanvisom@dugal.com,LOW,90,2.57,ACTIVE
+VEN01556,Zacharia Group,IT Services,Delhi,cheemagaurika@dalal.biz,MEDIUM,90,4.0,ACTIVE
+VEN01557,Sinha Inc,Telecommunications,Hyderabad,sarthak59@lall.com,LOW,90,4.23,ACTIVE
+VEN01558,Cheema-Sama,Security,Delhi,advaith47@nadkarni.com,MEDIUM,60,4.66,ACTIVE
+VEN01559,Banik Group,Cloud Services,Hyderabad,xalakborde@dhingra.info,LOW,45,4.83,ACTIVE
+VEN01560,Nagy Ltd,Telecommunications,Bangalore,mohanekani@goel.net,MEDIUM,60,3.3,ACTIVE
+VEN01561,"Sarkar, Banerjee and Sangha",Marketing,Hyderabad,eeshakarpe@reddy.com,LOW,90,2.67,ACTIVE
+VEN01562,"Aurora, Khanna and Borde",Office Supplies,Delhi,luthradaniel@tiwari.com,LOW,45,4.02,ACTIVE
+VEN01563,"Seth, Choudhry and Deshmukh",IT Services,Chennai,zaitraverma@mohan-bose.com,MEDIUM,45,2.64,ACTIVE
+VEN01564,"Kurian, Doctor and Parekh",Transportation,Bangalore,rehaan45@dixit.biz,HIGH,30,3.2,ACTIVE
+VEN01565,Ghose-Srinivas,Marketing,Hyderabad,rachitaramesh@mallick-bhatnagar.com,LOW,45,3.7,ACTIVE
+VEN01566,Natt Inc,Travel,Hyderabad,krishnasidhu@madan.com,MEDIUM,30,3.98,ACTIVE
+VEN01567,"Sandhu, Tailor and Sinha",Telecommunications,Bangalore,ovarughese@rajan.net,MEDIUM,30,4.95,ACTIVE
+VEN01568,Apte Group,Professional Services,Hyderabad,uppalkrish@bhagat-thakur.org,LOW,45,4.43,ACTIVE
+VEN01569,Parmer Inc,Legal Services,Mumbai,rayaanchatterjee@sha-gokhale.com,LOW,90,3.53,ACTIVE
+VEN01570,"Gole, Kothari and Sankaran",Telecommunications,Chennai,tchacko@gade-babu.com,LOW,30,4.6,ACTIVE
+VEN01571,Dora-Nanda,IT Services,Bangalore,deylakshmi@rattan.org,LOW,90,2.84,ACTIVE
+VEN01572,Choudhry-Chahal,Legal Services,Hyderabad,madanaarav@khatri.info,HIGH,60,2.65,ACTIVE
+VEN01573,Sule-Kalita,Software,Delhi,xbail@sahni.com,LOW,45,3.31,ACTIVE
+VEN01574,"Pal, Basu and Raman",Consulting,Mumbai,pravel@sangha-anand.com,LOW,45,2.74,ACTIVE
+VEN01575,Bahri-Vora,Security,Chennai,bansalharinakshi@bera.com,MEDIUM,60,4.62,ACTIVE
+VEN01576,Saha Ltd,Facilities,Delhi,jalsabava@tiwari.com,MEDIUM,15,3.25,ACTIVE
+VEN01577,Merchant-Muni,Cloud Services,Delhi,maniekansh@lal.biz,LOW,45,3.07,ACTIVE
+VEN01578,Ramanathan Inc,Maintenance,Delhi,agastya29@basak.com,MEDIUM,15,4.57,ACTIVE
+VEN01579,"Dalal, Thaman and Choudhary",Legal Services,Pune,shivansh67@lall.com,LOW,15,3.75,ACTIVE
+VEN01580,Sengupta Group,IT Services,Pune,girik17@sarna-natarajan.com,MEDIUM,60,4.73,ACTIVE
+VEN01581,Baria LLC,Marketing,Chennai,wakeetanori@issac.info,LOW,45,4.14,ACTIVE
+VEN01582,Deo-Goel,Maintenance,Mumbai,charles83@ramesh.org,MEDIUM,90,3.98,ACTIVE
+VEN01583,Kala Group,Cloud Services,Mumbai,jmanne@sathe-parsa.biz,LOW,30,3.73,ACTIVE
+VEN01584,Pillai-Jani,Professional Services,Bangalore,falan53@tak-mane.com,LOW,60,4.39,ACTIVE
+VEN01585,"Deshpande, Taneja and Agarwal",Facilities,Chennai,gardedakshesh@basu-bal.com,LOW,30,3.6,ACTIVE
+VEN01586,Zacharia-Chakraborty,Consulting,Delhi,daliaaarush@dhar.net,LOW,30,4.74,ACTIVE
+VEN01587,Khatri LLC,Maintenance,Bangalore,raveladitya@bakshi.info,HIGH,30,4.62,ACTIVE
+VEN01588,"Venkatesh, Warrior and Pandya",Security,Hyderabad,rattanmohini@badami.biz,LOW,90,2.65,ACTIVE
+VEN01589,Muni-Lata,Hardware,Chennai,mandudant@mani.biz,MEDIUM,30,3.13,ACTIVE
+VEN01590,"Dhaliwal, Dass and Ganguly",IT Services,Chennai,isawhney@cheema-bahl.com,MEDIUM,60,3.66,ACTIVE
+VEN01591,Barad-Gara,Hardware,Chennai,vbahl@virk.com,LOW,60,4.98,ACTIVE
+VEN01592,Parekh-Narula,Office Supplies,Mumbai,gavinwali@nadig.net,LOW,45,4.94,ACTIVE
+VEN01593,Krishna-Kalla,Maintenance,Hyderabad,shivanimaharaj@gupta-bhatnagar.net,LOW,45,2.78,ACTIVE
+VEN01594,Goda and Sons,Office Supplies,Pune,ridhi61@modi.com,LOW,90,3.22,ACTIVE
+VEN01595,"Kapur, Sastry and Kata",Software,Delhi,nbansal@vala.info,HIGH,30,4.99,ACTIVE
+VEN01596,Kapoor-Sidhu,Maintenance,Mumbai,saanvi63@wadhwa.com,MEDIUM,30,2.69,ACTIVE
+VEN01597,"Kumer, Gole and Babu",Professional Services,Hyderabad,duttbhavika@gandhi.com,LOW,45,4.96,ACTIVE
+VEN01598,Jain LLC,Maintenance,Hyderabad,ubrar@dutta.biz,MEDIUM,15,3.01,ACTIVE
+VEN01599,Rau-Agrawal,Maintenance,Chennai,fbasu@radhakrishnan.com,LOW,60,3.81,ACTIVE
+VEN01600,"Sehgal, Thakkar and Dutta",Transportation,Hyderabad,kai56@de-kamdar.net,LOW,90,4.07,ACTIVE
+VEN01601,Krishna-Barman,Facilities,Hyderabad,chaitaly50@kaul.net,LOW,15,4.08,ACTIVE
+VEN01602,Kulkarni Group,Cloud Services,Bangalore,hbajaj@kurian.org,LOW,30,3.63,ACTIVE
+VEN01603,"Raman, Bassi and Devan",Marketing,Mumbai,onarayanan@kapoor.com,LOW,45,4.11,ACTIVE
+VEN01604,"Jaggi, Bains and Srinivas",Hardware,Mumbai,shuklahemang@basak.info,LOW,60,3.1,ACTIVE
+VEN01605,"Sandal, Bajaj and Borra",Hardware,Bangalore,david83@malhotra.com,LOW,15,4.01,ACTIVE
+VEN01606,Wable and Sons,Security,Delhi,idika41@joshi.net,LOW,90,2.9,ACTIVE
+VEN01607,"Chokshi, Modi and Swamy",Transportation,Bangalore,maanav50@morar-kapadia.net,MEDIUM,90,3.4,ACTIVE
+VEN01608,Bath and Sons,Office Supplies,Delhi,daniel07@sangha.com,LOW,90,3.61,ACTIVE
+VEN01609,Acharya-Banerjee,Legal Services,Bangalore,ranveer57@rajagopal.biz,LOW,45,4.86,ACTIVE
+VEN01610,Joshi-Kalla,Cloud Services,Bangalore,rbir@kulkarni.com,MEDIUM,45,3.46,ACTIVE
+VEN01611,Parekh Inc,Maintenance,Mumbai,jkapur@mutti.com,LOW,45,3.92,ACTIVE
+VEN01612,"Maharaj, Trivedi and Dugar",Travel,Chennai,wyatt64@oommen.net,LOW,15,4.87,ACTIVE
+VEN01613,Sengupta Ltd,Consulting,Bangalore,warhi73@ram.com,MEDIUM,15,4.95,ACTIVE
+VEN01614,Balan-Buch,Legal Services,Hyderabad,xkumer@purohit.com,LOW,90,3.39,ACTIVE
+VEN01615,"Bhasin, Bhat and Dubey",Security,Hyderabad,nitara83@narayan.info,LOW,30,3.56,ACTIVE
+VEN01616,"Krish, Som and Sridhar",Professional Services,Hyderabad,vraja@acharya-desai.com,LOW,60,2.58,ACTIVE
+VEN01617,Sinha-Dara,Legal Services,Hyderabad,hemangini13@mahajan-ahuja.com,HIGH,30,2.87,ACTIVE
+VEN01618,"Gade, Sahota and Parekh",Consulting,Chennai,loommen@kapoor.com,LOW,90,3.32,ACTIVE
+VEN01619,Gola-Sha,Office Supplies,Bangalore,zayan54@kaur.org,LOW,45,3.94,ACTIVE
+VEN01620,"Uppal, Koshy and Sen",Hardware,Mumbai,ishita53@misra-gara.com,LOW,15,3.02,ACTIVE
+VEN01621,"Bawa, Lala and Sarma",Maintenance,Delhi,narulaaarini@talwar-rao.com,LOW,15,2.64,ACTIVE
+VEN01622,"Iyer, Apte and Bir",Telecommunications,Chennai,xrajan@gala.com,HIGH,30,4.58,ACTIVE
+VEN01623,Vaidya PLC,Transportation,Delhi,manan87@pandit.net,LOW,60,2.97,ACTIVE
+VEN01624,Madan Ltd,Security,Chennai,umang02@shukla.com,LOW,45,2.95,ACTIVE
+VEN01625,Goda-Mand,Travel,Delhi,dugalaashi@amble.net,LOW,45,4.27,ACTIVE
+VEN01626,"Rajan, Batra and Zacharia",Legal Services,Mumbai,mrattan@ghosh-sura.com,HIGH,45,4.66,ACTIVE
+VEN01627,Sarna-Shroff,Software,Delhi,choudhuryindali@shan-hari.info,MEDIUM,30,4.39,ACTIVE
+VEN01628,"Chada, Om and Ray",Travel,Chennai,ravalnaksh@suresh.biz,LOW,45,4.24,ACTIVE
+VEN01629,Chada-Keer,Transportation,Hyderabad,ehora@bahri-kale.com,LOW,45,3.62,ACTIVE
+VEN01630,"Dalal, Rao and Sandal",Software,Mumbai,bdara@mukhopadhyay.biz,MEDIUM,15,3.55,ACTIVE
+VEN01631,"Virk, Sankar and Srinivasan",Facilities,Mumbai,vgera@thakkar.com,LOW,15,4.48,ACTIVE
+VEN01632,Shetty-Golla,Office Supplies,Hyderabad,aarinitak@sampath-sarraf.com,LOW,30,2.69,ACTIVE
+VEN01633,"Shah, Chaudry and Ramanathan",Travel,Delhi,ochanda@venkataraman-parmer.info,LOW,15,3.7,ACTIVE
+VEN01634,"Dhaliwal, Nath and Shan",Software,Mumbai,orinder35@thakkar.com,MEDIUM,30,4.7,ACTIVE
+VEN01635,"Gulati, Master and Boase",Office Supplies,Pune,riyakhare@om-luthra.com,LOW,45,3.33,ACTIVE
+VEN01636,Sridhar-Char,Software,Hyderabad,paldivya@grewal.net,LOW,45,2.7,ACTIVE
+VEN01637,Nath Inc,Transportation,Mumbai,ychanda@agarwal.biz,MEDIUM,15,3.87,ACTIVE
+VEN01638,Sodhi-Sane,IT Services,Mumbai,jacksonkadakia@raman.com,LOW,15,2.57,ACTIVE
+VEN01639,Hegde and Sons,Consulting,Pune,kminhas@naidu-anand.com,LOW,15,4.16,ACTIVE
+VEN01640,Konda-Kibe,Marketing,Mumbai,gaurangbali@dyal.com,MEDIUM,15,4.45,ACTIVE
+VEN01641,"Raval, Seshadri and Narang",Facilities,Delhi,masterishita@sen.com,MEDIUM,60,4.23,ACTIVE
+VEN01642,Srinivasan Inc,Professional Services,Hyderabad,priya82@hayre-grover.com,LOW,90,3.66,ACTIVE
+VEN01643,Lata and Sons,Security,Hyderabad,damini56@randhawa.org,LOW,90,4.24,ACTIVE
+VEN01644,"Varma, Karpe and Sarkar",Travel,Chennai,akeer@mital.org,LOW,60,2.56,ACTIVE
+VEN01645,"Dada, Balasubramanian and Raval",Telecommunications,Pune,kevinsachar@hans-dewan.com,MEDIUM,60,3.8,ACTIVE
+VEN01646,Bajaj-Maharaj,Software,Mumbai,chaitalydin@dey.org,LOW,45,4.24,ACTIVE
+VEN01647,Lata Group,Facilities,Pune,simon50@subramanian-gara.com,LOW,60,2.67,ACTIVE
+VEN01648,"Johal, Thakkar and Srinivasan",Facilities,Mumbai,jagatchandra@badami.net,LOW,15,4.19,ACTIVE
+VEN01649,Tiwari and Sons,Security,Delhi,cheemajyoti@pillai.com,LOW,90,3.84,ACTIVE
+VEN01650,Suri-Sandhu,Software,Pune,sarandarsh@rama.com,LOW,30,2.56,ACTIVE
+VEN01651,Mukherjee Ltd,Security,Mumbai,ahujaeta@madan.com,LOW,90,3.41,ACTIVE
+VEN01652,Iyer Inc,Marketing,Mumbai,siddharth36@parmar.com,MEDIUM,15,4.67,ACTIVE
+VEN01653,Grewal Inc,Consulting,Mumbai,darhemangini@natarajan-de.org,MEDIUM,15,4.17,ACTIVE
+VEN01654,Som PLC,IT Services,Delhi,raghavanchampak@bhavsar.com,LOW,90,3.89,ACTIVE
+VEN01655,Suri Ltd,Software,Chennai,snadig@dave.org,LOW,15,2.7,ACTIVE
+VEN01656,Jani-Rao,Legal Services,Delhi,balafalan@venkatesh-arya.com,HIGH,90,3.72,ACTIVE
+VEN01657,Oak Ltd,Transportation,Hyderabad,omajabadami@rajan.org,HIGH,90,4.44,ACTIVE
+VEN01658,Patla-Hayre,Software,Pune,waida32@aggarwal.biz,LOW,60,4.66,ACTIVE
+VEN01659,Dada LLC,Maintenance,Mumbai,gaurikajaggi@balakrishnan.com,LOW,15,4.24,ACTIVE
+VEN01660,Sankaran-Gera,Cloud Services,Hyderabad,anay49@bassi-lanka.biz,LOW,15,2.85,ACTIVE
+VEN01661,Narayanan-Naidu,Software,Bangalore,gunbir69@kade.com,MEDIUM,45,4.91,ACTIVE
+VEN01662,Seshadri-Mann,Legal Services,Delhi,buchsamarth@issac-chaudhari.com,LOW,90,4.14,ACTIVE
+VEN01663,Varghese Ltd,Legal Services,Delhi,randhawamugdha@sastry-bala.org,LOW,45,3.65,ACTIVE
+VEN01664,"Parsa, Dubey and Bora",Travel,Pune,yamini68@basak.org,LOW,45,3.66,ACTIVE
+VEN01665,Dhawan-Atwal,IT Services,Chennai,varmaluke@zacharia-nair.info,LOW,45,3.37,ACTIVE
+VEN01666,"Iyengar, Bath and Handa",Legal Services,Bangalore,nbajwa@sinha-jhaveri.com,LOW,45,4.71,ACTIVE
+VEN01667,Behl LLC,IT Services,Bangalore,hmohan@jha-bhatia.info,LOW,60,4.52,ACTIVE
+VEN01668,Venkatesh-Shanker,Security,Hyderabad,gulatiaahana@palla.com,LOW,30,2.61,ACTIVE
+VEN01669,Atwal-Nagarajan,Security,Chennai,boraharrison@raju.info,MEDIUM,60,3.48,ACTIVE
+VEN01670,Agate Inc,Telecommunications,Chennai,yutika54@chopra.com,LOW,90,3.49,ACTIVE
+VEN01671,"Chawla, Anand and Mane",Professional Services,Bangalore,noah55@rajan.com,MEDIUM,60,2.86,ACTIVE
+VEN01672,Sankar-Brar,Marketing,Bangalore,amruta12@sehgal.com,LOW,90,4.46,ACTIVE
+VEN01673,"Halder, Dayal and Dara",Professional Services,Mumbai,madhav94@taneja.com,LOW,60,2.92,ACTIVE
+VEN01674,Char LLC,Telecommunications,Chennai,nakulkrishna@barad.com,MEDIUM,90,4.64,ACTIVE
+VEN01675,"Sabharwal, Bose and Deep",Travel,Bangalore,ramanitara@misra.com,MEDIUM,30,3.6,ACTIVE
+VEN01676,Bose Inc,Office Supplies,Chennai,sarthakkanda@bajaj.info,LOW,60,3.42,ACTIVE
+VEN01677,"Raj, Nazareth and Pillay",Transportation,Hyderabad,pshetty@kant.com,LOW,45,4.85,ACTIVE
+VEN01678,Tiwari-Mohanty,Maintenance,Bangalore,memonwridesh@manda-ramaswamy.com,HIGH,30,3.64,ACTIVE
+VEN01679,Tiwari Inc,Legal Services,Bangalore,qlalla@bhalla.net,LOW,45,3.44,ACTIVE
+VEN01680,"Arya, Oommen and Pillai",Hardware,Pune,madanneel@biswas.biz,MEDIUM,90,4.42,ACTIVE
+VEN01681,Narula Group,Security,Bangalore,fgola@thaker.com,LOW,60,3.9,ACTIVE
+VEN01682,Mangat-Das,Office Supplies,Hyderabad,pradhanfariq@sharma-upadhyay.com,LOW,15,4.64,ACTIVE
+VEN01683,Nori-Nayar,Facilities,Chennai,muniishanvi@pillai.com,LOW,90,4.22,ACTIVE
+VEN01684,Nadkarni and Sons,Maintenance,Bangalore,gopalsule@dave.com,LOW,30,3.61,ACTIVE
+VEN01685,Lalla PLC,Marketing,Chennai,kgarg@bhasin.com,MEDIUM,15,3.57,ACTIVE
+VEN01686,"Borra, Shanker and Gera",Telecommunications,Bangalore,xmurthy@kohli.com,LOW,90,3.81,ACTIVE
+VEN01687,Bali LLC,IT Services,Chennai,vritti81@chhabra.com,LOW,60,2.87,ACTIVE
+VEN01688,Devan-Pradhan,Office Supplies,Pune,darshkamdar@devi.com,MEDIUM,90,3.89,ACTIVE
+VEN01689,Babu Inc,Office Supplies,Bangalore,chowdhuryshivansh@manda.com,LOW,90,4.8,ACTIVE
+VEN01690,Goyal-Chacko,Hardware,Delhi,yuvraj77@bala.org,LOW,90,4.85,ACTIVE
+VEN01691,Deol Group,Maintenance,Delhi,qbajwa@sane.com,LOW,15,3.29,ACTIVE
+VEN01692,"Shukla, Ratta and Solanki",Office Supplies,Pune,wgour@sarin-mohan.com,LOW,30,4.96,ACTIVE
+VEN01693,Kakar LLC,Transportation,Bangalore,semradha@rai-seth.com,LOW,30,4.05,ACTIVE
+VEN01694,"Sekhon, Rau and Gupta",Travel,Bangalore,nirjatoor@baria.com,LOW,30,4.99,ACTIVE
+VEN01695,Mandal Group,Maintenance,Pune,champak52@bath.com,MEDIUM,15,2.59,ACTIVE
+VEN01696,Sule Inc,Office Supplies,Pune,lucky25@kapoor.com,LOW,45,2.87,ACTIVE
+VEN01697,"Chada, Modi and Kata",IT Services,Hyderabad,isaacray@sankar.org,LOW,15,4.23,ACTIVE
+VEN01698,"Sinha, Mohanty and Mohanty",Security,Chennai,csur@contractor-choudhury.org,MEDIUM,15,3.09,ACTIVE
+VEN01699,"Narayanan, Bir and Choudhary",Transportation,Bangalore,pinglewakeeta@setty.org,LOW,60,2.76,ACTIVE
+VEN01700,Hegde Group,Telecommunications,Hyderabad,nagyjyoti@rattan.biz,MEDIUM,30,4.7,ACTIVE
+VEN01701,De-Kade,Facilities,Mumbai,ugokhale@nori-upadhyay.net,MEDIUM,45,3.36,ACTIVE
+VEN01702,"Mangal, Puri and Jhaveri",Hardware,Hyderabad,zbiswas@shenoy-taneja.com,LOW,60,4.09,ACTIVE
+VEN01703,Venkataraman Ltd,Legal Services,Hyderabad,parikhtripti@bhatti.net,LOW,60,3.8,ACTIVE
+VEN01704,Mohanty-Mallick,Security,Chennai,bhasinnachiket@sura.org,LOW,60,3.2,ACTIVE
+VEN01705,Garde-Majumdar,Security,Pune,vihaan79@ravi.biz,MEDIUM,45,3.54,ACTIVE
+VEN01706,Mangat LLC,Maintenance,Mumbai,hshanker@yohannan.com,LOW,30,2.93,ACTIVE
+VEN01707,Bir-Vora,Office Supplies,Hyderabad,vrishtisastry@kannan.info,LOW,45,2.91,ACTIVE
+VEN01708,Sahni-Sarma,Consulting,Chennai,kavya27@kibe.com,LOW,45,4.9,ACTIVE
+VEN01709,"Varty, Venkatesh and Cheema",Software,Pune,ojasvi75@dara-kala.com,HIGH,60,3.23,ACTIVE
+VEN01710,Pandey-Oza,Cloud Services,Mumbai,oshan@sharma.com,MEDIUM,90,3.86,ACTIVE
+VEN01711,Sathe-Bhakta,Hardware,Mumbai,kashvi53@bahri.info,MEDIUM,60,3.59,ACTIVE
+VEN01712,Chawla LLC,Software,Bangalore,doraurishilla@panchal.com,LOW,15,2.71,ACTIVE
+VEN01713,Goswami PLC,Cloud Services,Pune,lavanya72@ben-peri.com,LOW,15,2.89,ACTIVE
+VEN01714,Gaba-Narain,Legal Services,Mumbai,taraupasna@wali-pant.biz,MEDIUM,15,4.58,ACTIVE
+VEN01715,Dugal-Raval,Software,Chennai,nachiket43@morar-dubey.net,LOW,15,3.64,ACTIVE
+VEN01716,"Deshmukh, Dube and Bajwa",Office Supplies,Pune,joshuabehl@bora-aggarwal.biz,LOW,90,4.84,ACTIVE
+VEN01717,Ravi-Barman,Cloud Services,Hyderabad,yedwin@dugar-bhatia.com,LOW,30,3.52,ACTIVE
+VEN01718,"Mallick, Varghese and Shenoy",Office Supplies,Chennai,nbatta@seth-kata.info,LOW,45,3.67,ACTIVE
+VEN01719,Prakash Inc,Professional Services,Chennai,kharenaveen@oommen.org,LOW,60,2.99,ACTIVE
+VEN01720,Gola Inc,Hardware,Mumbai,aarav65@ranganathan.biz,LOW,15,4.79,ACTIVE
+VEN01721,"Comar, Nayak and Zachariah",Office Supplies,Mumbai,anjali52@ranganathan.org,LOW,30,3.96,ACTIVE
+VEN01722,Bora-Chauhan,Professional Services,Mumbai,bandionkar@yogi.biz,LOW,45,4.49,ACTIVE
+VEN01723,Raval-Bandi,Telecommunications,Hyderabad,dalbir62@grewal.com,MEDIUM,45,2.87,ACTIVE
+VEN01724,Shukla LLC,Marketing,Delhi,puriurvashi@gola.com,MEDIUM,60,2.93,ACTIVE
+VEN01725,"Sani, Pandya and Kaur",Transportation,Delhi,madansiddharth@gokhale-gola.com,MEDIUM,30,4.51,ACTIVE
+VEN01726,Batra-Mangat,Legal Services,Bangalore,farhanbath@shankar-ganguly.com,LOW,90,3.92,ACTIVE
+VEN01727,Shukla LLC,IT Services,Delhi,yashawini93@ratta.com,MEDIUM,45,3.17,ACTIVE
+VEN01728,"Rao, Bali and Butala",Office Supplies,Chennai,sramanathan@sinha.com,LOW,45,4.83,ACTIVE
+VEN01729,"Varty, Bhandari and Dalal",Professional Services,Mumbai,bhattsamuel@palla.org,LOW,90,4.06,ACTIVE
+VEN01730,Johal PLC,Legal Services,Delhi,janujagala@kade.info,LOW,30,3.2,ACTIVE
+VEN01731,Basu-Madan,Office Supplies,Pune,ayushman63@grover.net,LOW,30,4.88,ACTIVE
+VEN01732,"Rastogi, Krishna and Rout",Software,Mumbai,mallickimaran@gara.biz,LOW,90,4.43,ACTIVE
+VEN01733,"Peri, Nair and Mukhopadhyay",Telecommunications,Bangalore,unnikota@singh.com,HIGH,60,4.55,ACTIVE
+VEN01734,Mishra Ltd,Marketing,Bangalore,vbrahmbhatt@banerjee-muni.info,MEDIUM,15,3.74,ACTIVE
+VEN01735,"Rai, Bora and Bedi",Travel,Hyderabad,prishaperi@memon-butala.org,MEDIUM,90,3.23,ACTIVE
+VEN01736,"Basu, Lanka and Issac",Maintenance,Chennai,cshroff@sachdeva.com,MEDIUM,30,4.32,ACTIVE
+VEN01737,Anne-Jha,Office Supplies,Mumbai,odika23@grover-mahal.biz,LOW,60,4.17,ACTIVE
+VEN01738,"Loyal, Nanda and Ranganathan",Transportation,Pune,menonishanvi@chada.org,LOW,30,2.82,ACTIVE
+VEN01739,Ravel LLC,Office Supplies,Mumbai,lkeer@raval.org,LOW,15,3.55,ACTIVE
+VEN01740,D’Alia Inc,Facilities,Mumbai,vtrivedi@gole.org,LOW,15,3.2,ACTIVE
+VEN01741,"Garg, Sha and Gokhale",Security,Pune,ravibishakha@dhingra.org,LOW,30,3.16,ACTIVE
+VEN01742,Pall and Sons,Transportation,Bangalore,ekavir87@sridhar-ramakrishnan.com,LOW,45,3.57,ACTIVE
+VEN01743,Ravel-Prasad,Cloud Services,Delhi,kedwin@kuruvilla.net,LOW,60,2.7,ACTIVE
+VEN01744,Sarin Group,Security,Chennai,tatatarak@mandal.net,MEDIUM,30,4.33,ACTIVE
+VEN01745,Hayer Group,IT Services,Delhi,manyachowdhury@gopal-ramachandran.biz,LOW,45,4.84,ACTIVE
+VEN01746,"Ravi, Raja and Vasa",Maintenance,Mumbai,bainsvasana@pingle.com,LOW,90,4.28,ACTIVE
+VEN01747,Bakshi Inc,Marketing,Mumbai,lukesundaram@arya-jaggi.biz,LOW,45,4.74,ACTIVE
+VEN01748,"Babu, Mand and Singhal",Maintenance,Mumbai,dugalbalendra@kapadia.com,LOW,60,4.15,ACTIVE
+VEN01749,Dhar-Choudhury,Maintenance,Delhi,urmimani@goda-tara.org,LOW,60,4.51,ACTIVE
+VEN01750,Gill Ltd,Marketing,Pune,nikitathakur@mallick.com,LOW,45,4.26,ACTIVE
+VEN01751,Saha-Dass,Software,Delhi,yatinrana@vaidya.com,MEDIUM,45,4.77,ACTIVE
+VEN01752,Sinha and Sons,Travel,Bangalore,paiyadavi@saha.net,LOW,30,2.9,ACTIVE
+VEN01753,Toor Inc,Cloud Services,Pune,lallanirudh@johal.com,LOW,45,3.0,ACTIVE
+VEN01754,Din-Luthra,Office Supplies,Pune,forum22@parsa-lad.com,LOW,45,4.23,ACTIVE
+VEN01755,Suresh-Kaul,Office Supplies,Chennai,vedagola@divan.com,LOW,15,2.53,ACTIVE
+VEN01756,Khanna-Dhingra,Transportation,Hyderabad,chandresh16@guha.com,LOW,45,4.86,ACTIVE
+VEN01757,Char-Chada,IT Services,Chennai,snigam@sami.net,LOW,90,2.75,ACTIVE
+VEN01758,Ghose-Minhas,Marketing,Hyderabad,hitesh33@sandal.com,LOW,45,2.69,ACTIVE
+VEN01759,Naik-Dixit,Transportation,Delhi,vrana@srinivas-bhatti.com,LOW,45,3.99,ACTIVE
+VEN01760,"Chada, Kala and Desai",Software,Hyderabad,settymohammed@dani.com,MEDIUM,60,3.53,ACTIVE
+VEN01761,"Lall, Ratta and Narayan",Travel,Hyderabad,chatura63@trivedi-oak.com,LOW,15,2.59,ACTIVE
+VEN01762,Shanker-Salvi,Maintenance,Hyderabad,isha99@borra.org,LOW,45,2.73,ACTIVE
+VEN01763,Ravi-Bhat,Security,Chennai,lakshithora@maharaj-mohan.org,LOW,15,4.92,ACTIVE
+VEN01764,"Palan, Chawla and Mann",Marketing,Mumbai,shravyaagrawal@luthra.com,LOW,30,5.0,ACTIVE
+VEN01765,Chawla-Sahota,Transportation,Mumbai,qushihora@tank.info,LOW,60,4.94,ACTIVE
+VEN01766,Mahajan-Divan,IT Services,Bangalore,maanavchaudhary@mitra.com,MEDIUM,90,4.73,ACTIVE
+VEN01767,"Srinivasan, Handa and Varghese",Office Supplies,Pune,balaviraj@sawhney-jani.com,LOW,15,4.16,ACTIVE
+VEN01768,Narain-Chaudhuri,Security,Mumbai,godajasmit@khalsa.net,LOW,15,4.86,ACTIVE
+VEN01769,"Jha, Keer and Ganguly",Hardware,Chennai,bchaudhuri@murthy-johal.com,LOW,15,3.4,ACTIVE
+VEN01770,Kalla LLC,Facilities,Hyderabad,rjaggi@menon.info,LOW,90,4.61,ACTIVE
+VEN01771,Bhattacharyya Group,Professional Services,Mumbai,rohanpall@sehgal-chada.com,LOW,30,4.78,ACTIVE
+VEN01772,Kakar-Kibe,Software,Hyderabad,ekiyamittal@sundaram.net,LOW,15,3.58,ACTIVE
+VEN01773,"Dhaliwal, Din and Bali",Consulting,Mumbai,izacharia@kumar.com,MEDIUM,30,3.45,ACTIVE
+VEN01774,"Mitter, Pal and Sharma",IT Services,Chennai,sahniharish@varkey.com,LOW,15,4.11,ACTIVE
+VEN01775,Memon-Hayre,Hardware,Chennai,mittalekanta@sahota.com,LOW,90,2.61,ACTIVE
+VEN01776,Kalla PLC,Travel,Bangalore,ychoudhry@sachdeva.com,LOW,30,3.84,ACTIVE
+VEN01777,Bumb-Sankar,Cloud Services,Chennai,sanghviadvay@mahajan-khosla.com,MEDIUM,45,4.94,ACTIVE
+VEN01778,Bahri-Sule,Professional Services,Pune,lavanyasingh@datta.com,LOW,60,3.95,ACTIVE
+VEN01779,Agrawal-Sahni,Telecommunications,Chennai,wriddhish12@setty.org,LOW,45,2.68,ACTIVE
+VEN01780,Acharya-Rama,Telecommunications,Hyderabad,mdey@sekhon-dhaliwal.com,LOW,15,2.75,ACTIVE
+VEN01781,Chakraborty-Sani,Telecommunications,Mumbai,rohanbhattacharyya@cherian.net,MEDIUM,60,3.88,ACTIVE
+VEN01782,"Sethi, Murthy and Rajan",Office Supplies,Delhi,vyanjana40@dhawan.com,LOW,60,3.09,ACTIVE
+VEN01783,Koshy-Dara,IT Services,Bangalore,unatt@lad.com,LOW,30,3.86,ACTIVE
+VEN01784,Choudhury-Merchant,Hardware,Mumbai,anitabawa@shukla.biz,LOW,30,3.41,ACTIVE
+VEN01785,Nayar-Manda,Legal Services,Hyderabad,ria69@bhandari.com,LOW,60,3.06,ACTIVE
+VEN01786,Parekh Ltd,Travel,Pune,panditmanya@rege.com,LOW,15,3.01,ACTIVE
+VEN01787,Upadhyay LLC,Telecommunications,Chennai,naveen88@gupta.com,HIGH,30,3.28,ACTIVE
+VEN01788,Sane Group,Transportation,Pune,dayamaijain@wason-patla.org,LOW,60,4.24,ACTIVE
+VEN01789,"Chokshi, Sheth and Shukla",Office Supplies,Hyderabad,gkota@vala-ramanathan.org,LOW,30,4.81,ACTIVE
+VEN01790,Dhar LLC,Hardware,Delhi,utkarsh76@sama.com,HIGH,15,3.34,ACTIVE
+VEN01791,"Tank, Chatterjee and Bose",Marketing,Mumbai,zdalia@prabhakar-kala.com,HIGH,45,2.54,ACTIVE
+VEN01792,"Natarajan, Palan and Hayer",Cloud Services,Chennai,kala06@verma.com,LOW,45,3.55,ACTIVE
+VEN01793,"Lall, Yohannan and Sachar",Software,Pune,darshshenoy@dora.com,LOW,45,4.3,ACTIVE
+VEN01794,"Malhotra, Dara and Sekhon",Security,Mumbai,chandanikanda@muni.com,LOW,45,3.14,ACTIVE
+VEN01795,Dutt-Bobal,Maintenance,Mumbai,zayyan40@ratti.com,LOW,30,3.56,ACTIVE
+VEN01796,Dhar-Patel,IT Services,Chennai,clal@bajaj-pingle.com,LOW,90,2.77,ACTIVE
+VEN01797,"Sundaram, Shroff and Bahri",Travel,Pune,jyotikrishnamurthy@sankar-rai.com,LOW,30,3.03,ACTIVE
+VEN01798,Sethi Ltd,Professional Services,Bangalore,usuresh@acharya.com,HIGH,90,3.19,ACTIVE
+VEN01799,Pandya-Chaudhari,Telecommunications,Delhi,arin72@mand.com,LOW,90,2.57,ACTIVE
+VEN01800,Barman-Magar,IT Services,Delhi,bhatnagarxalak@varghese.org,LOW,60,3.42,ACTIVE
+VEN01801,Dewan Inc,Office Supplies,Mumbai,eeshachakrabarti@kade.com,HIGH,45,3.78,ACTIVE
+VEN01802,"Parekh, Basu and Bhatt",Travel,Hyderabad,modiridhi@sehgal-goda.org,LOW,60,2.72,ACTIVE
+VEN01803,"Bhakta, Palan and Prabhakar",Travel,Pune,jonathan37@guha.org,LOW,90,3.72,ACTIVE
+VEN01804,Pai-Srinivasan,IT Services,Mumbai,dhriti68@mander-deshpande.biz,LOW,30,2.6,ACTIVE
+VEN01805,Hayre and Sons,Professional Services,Hyderabad,damyantisachdeva@bhatti-basak.com,LOW,30,3.91,ACTIVE
+VEN01806,"Mannan, Iyengar and Bera",Legal Services,Pune,chaitalychakraborty@barman.biz,LOW,60,4.95,ACTIVE
+VEN01807,Ravi Ltd,Travel,Delhi,adya90@pau.org,LOW,60,2.98,ACTIVE
+VEN01808,Mannan Inc,Facilities,Bangalore,vsule@hayer.com,MEDIUM,60,4.37,ACTIVE
+VEN01809,"Basak, Setty and Choudhry",Professional Services,Hyderabad,harishwali@chanda.com,LOW,30,3.86,ACTIVE
+VEN01810,Guha-Gala,Maintenance,Mumbai,ekalingawable@shenoy-verma.com,LOW,15,2.79,ACTIVE
+VEN01811,"Chad, Bala and Bhat",Software,Bangalore,warinderkhosla@srinivasan-ahuja.com,LOW,30,4.62,ACTIVE
+VEN01812,"Parekh, Sengupta and Nadig",Consulting,Hyderabad,ishitasampath@madan-bhatt.com,MEDIUM,30,4.74,ACTIVE
+VEN01813,"Gulati, Palla and Manne",Travel,Hyderabad,hgoyal@kothari-ramanathan.com,LOW,60,4.96,ACTIVE
+VEN01814,Badal-Dugar,Security,Pune,yadavilala@dhawan.com,MEDIUM,90,4.72,ACTIVE
+VEN01815,Pai-Borra,Software,Mumbai,ekani09@bajwa.com,MEDIUM,45,4.36,ACTIVE
+VEN01816,"Patla, Srinivas and Devi",Hardware,Delhi,nkhurana@keer-chakraborty.com,LOW,15,2.94,ACTIVE
+VEN01817,Srivastava-Kara,Legal Services,Delhi,tanayvenkatesh@saxena.com,LOW,60,3.66,ACTIVE
+VEN01818,Merchant PLC,IT Services,Delhi,gokhalecharita@ramachandran.org,LOW,15,3.01,ACTIVE
+VEN01819,"Garg, Keer and Pathak",Consulting,Delhi,garima20@agarwal.com,LOW,30,4.04,ACTIVE
+VEN01820,"Patla, Mukherjee and Mitter",Marketing,Bangalore,dayita79@agrawal.com,LOW,45,4.82,ACTIVE
+VEN01821,Peri Inc,Travel,Mumbai,matwal@desai.info,MEDIUM,60,3.87,ACTIVE
+VEN01822,Narasimhan-Bhagat,Transportation,Bangalore,hemanginikrishnamurthy@wagle.com,MEDIUM,30,3.98,ACTIVE
+VEN01823,Goda Inc,Travel,Pune,hitesh03@sur.com,MEDIUM,90,3.47,ACTIVE
+VEN01824,Doctor PLC,Cloud Services,Pune,mgera@sem-narain.com,LOW,60,2.99,ACTIVE
+VEN01825,Dugal Group,Professional Services,Bangalore,ubikabhalla@bhalla.com,LOW,15,4.0,ACTIVE
+VEN01826,Bajaj and Sons,Marketing,Mumbai,ikshitachauhan@ram-sanghvi.biz,LOW,90,4.22,ACTIVE
+VEN01827,"Ghosh, Dalal and Gala",Maintenance,Mumbai,amangal@chaudhary.com,LOW,45,4.51,ACTIVE
+VEN01828,Patla-Palan,Cloud Services,Pune,jhalakrao@rao-dutta.com,LOW,15,4.65,ACTIVE
+VEN01829,"Garg, Nanda and Bali",Legal Services,Chennai,chameli14@patla-joshi.info,LOW,90,3.53,ACTIVE
+VEN01830,Hayre-Seth,Facilities,Delhi,ikshitasahni@trivedi-pandya.net,LOW,30,3.69,ACTIVE
+VEN01831,Muni-Tank,Telecommunications,Hyderabad,lsahni@naik-taneja.info,MEDIUM,90,2.78,ACTIVE
+VEN01832,"Agrawal, Nagy and Dalal",Legal Services,Bangalore,dpau@shetty-sachdev.com,LOW,60,3.24,ACTIVE
+VEN01833,Bhavsar-Chaudhary,Facilities,Mumbai,abdul59@narula.net,LOW,30,3.65,ACTIVE
+VEN01834,Agate-Mukherjee,Software,Hyderabad,paninilala@tata-parikh.com,MEDIUM,45,4.01,ACTIVE
+VEN01835,"Batta, Mistry and Ranganathan",Legal Services,Chennai,sahuja@ramakrishnan.com,LOW,90,3.16,ACTIVE
+VEN01836,"Prabhu, Balay and Merchant",Telecommunications,Pune,sahnilucky@narayanan-acharya.com,LOW,45,3.28,ACTIVE
+VEN01837,Dugar and Sons,Maintenance,Delhi,owen12@arora.org,LOW,15,2.8,ACTIVE
+VEN01838,"Manda, Lanka and Raja",Security,Mumbai,waidaradhakrishnan@naik.com,MEDIUM,15,4.33,ACTIVE
+VEN01839,Vaidya-Shetty,Software,Mumbai,urishilla15@chatterjee.com,LOW,15,3.89,ACTIVE
+VEN01840,Khosla-Munshi,Travel,Chennai,utkarshnarula@memon.org,LOW,60,2.78,ACTIVE
+VEN01841,Kapoor-Pall,Legal Services,Bangalore,luke28@solanki.com,LOW,90,2.83,ACTIVE
+VEN01842,Basu Inc,Legal Services,Hyderabad,tanejachasmum@shankar.com,LOW,45,4.79,ACTIVE
+VEN01843,Mani PLC,Office Supplies,Delhi,nkhare@bal-char.com,HIGH,90,4.62,ACTIVE
+VEN01844,Agate-Manda,Transportation,Mumbai,lopa19@sethi.com,LOW,15,4.94,ACTIVE
+VEN01845,"Pathak, Swaminathan and Peri",Facilities,Hyderabad,adwetamannan@mahajan-ganguly.com,MEDIUM,90,3.91,ACTIVE
+VEN01846,Mistry and Sons,Software,Bangalore,upadhyaychaitaly@varkey.net,LOW,60,4.76,ACTIVE
+VEN01847,"Ray, Nagi and Madan",Hardware,Pune,shroffsaanvi@nair.com,MEDIUM,60,4.82,ACTIVE
+VEN01848,"Prakash, Mukhopadhyay and Dar",Cloud Services,Pune,jai90@jayaraman.info,MEDIUM,60,3.35,ACTIVE
+VEN01849,Agate-Savant,Telecommunications,Hyderabad,rbalan@chanda-sampath.org,LOW,60,2.56,ACTIVE
+VEN01850,Chowdhury-Kakar,Maintenance,Chennai,harish28@jayaraman-raghavan.org,MEDIUM,30,4.66,ACTIVE
+VEN01851,Parsa-Patla,Hardware,Chennai,vedhikasheth@bhatia.com,LOW,30,3.41,ACTIVE
+VEN01852,Choudhry-Prasad,Cloud Services,Hyderabad,mkrishnamurthy@saran.net,LOW,30,2.52,ACTIVE
+VEN01853,"Gokhale, Tank and Samra",Facilities,Bangalore,bahladvay@kar.com,HIGH,45,3.79,ACTIVE
+VEN01854,"Devan, Bala and Lad",Hardware,Bangalore,leela91@singh-jha.com,HIGH,90,4.07,ACTIVE
+VEN01855,"Lal, Hayer and Pal",Maintenance,Hyderabad,niyer@parmer-vala.com,LOW,15,4.06,ACTIVE
+VEN01856,"Chada, Kibe and Zachariah",Telecommunications,Pune,fwadhwa@chowdhury.net,HIGH,30,4.26,ACTIVE
+VEN01857,Chahal Inc,Consulting,Bangalore,vivaansolanki@nanda.com,LOW,45,3.41,ACTIVE
+VEN01858,Lata and Sons,Marketing,Delhi,anyabumb@sathe.com,LOW,45,3.99,ACTIVE
+VEN01859,Suri PLC,Hardware,Hyderabad,psaha@uppal.org,HIGH,90,3.78,ACTIVE
+VEN01860,"Baria, Vala and Biswas",Security,Mumbai,orindergera@bedi.com,MEDIUM,45,2.89,ACTIVE
+VEN01861,Mody LLC,Office Supplies,Hyderabad,william51@swaminathan.biz,LOW,60,3.71,ACTIVE
+VEN01862,Pandit-Soni,IT Services,Bangalore,banerjeebina@oak.org,LOW,90,4.48,ACTIVE
+VEN01863,Aurora Ltd,Transportation,Mumbai,yastimenon@deol.com,LOW,45,4.78,ACTIVE
+VEN01864,Bassi-Dash,Telecommunications,Mumbai,girishkhare@tailor-majumdar.com,LOW,15,3.3,ACTIVE
+VEN01865,Banerjee-Kapur,Professional Services,Hyderabad,omurvashi@garde.info,MEDIUM,60,4.83,ACTIVE
+VEN01866,Kapoor and Sons,Telecommunications,Hyderabad,ishwar36@gade.com,LOW,90,3.76,ACTIVE
+VEN01867,"Natt, Dugal and Sur",Professional Services,Pune,spillai@gill-bumb.com,LOW,60,3.1,ACTIVE
+VEN01868,Seth-Anand,Legal Services,Mumbai,sahninitesh@varkey.com,LOW,30,3.64,ACTIVE
+VEN01869,Loyal Inc,Telecommunications,Pune,bpurohit@nazareth-kala.biz,LOW,30,2.87,ACTIVE
+VEN01870,Datta Inc,IT Services,Chennai,gaurangibassi@chaudhry.com,LOW,60,2.71,ACTIVE
+VEN01871,Purohit-Narain,Telecommunications,Pune,deofitan@mangal.com,LOW,45,4.69,ACTIVE
+VEN01872,Mall-Sarna,Maintenance,Delhi,indiramenon@din-bhakta.com,LOW,90,4.71,ACTIVE
+VEN01873,Krishna-Mohan,Legal Services,Chennai,hritiksem@sabharwal-kashyap.org,LOW,60,2.82,ACTIVE
+VEN01874,Agarwal-Lall,Facilities,Mumbai,gnanda@mitra-kuruvilla.com,LOW,60,3.17,ACTIVE
+VEN01875,Patil-Sundaram,Security,Pune,zansi14@nadkarni.com,LOW,60,3.21,ACTIVE
+VEN01876,"Vaidya, Vaidya and Walla",Maintenance,Chennai,ymisra@badal-karnik.com,LOW,15,3.03,ACTIVE
+VEN01877,Khanna-Butala,Cloud Services,Bangalore,jmemon@khanna.com,HIGH,90,3.57,ACTIVE
+VEN01878,Sarkar Ltd,Professional Services,Chennai,qoak@kanda.info,LOW,90,3.64,ACTIVE
+VEN01879,Deo-Sastry,Software,Pune,pathakzayan@gade.com,LOW,90,3.14,ACTIVE
+VEN01880,Nadig Inc,IT Services,Mumbai,shivanshmaharaj@grewal.info,LOW,15,3.83,ACTIVE
+VEN01881,Gole and Sons,Security,Delhi,cdhingra@mishra-biswas.org,LOW,45,2.96,ACTIVE
+VEN01882,Pai-Kalita,Security,Hyderabad,rbawa@sanghvi.com,LOW,60,4.33,ACTIVE
+VEN01883,Suri Group,Maintenance,Bangalore,upkaarpradhan@chatterjee.net,LOW,60,2.64,ACTIVE
+VEN01884,Wagle-Gulati,Travel,Mumbai,wpau@gola.com,LOW,45,4.66,ACTIVE
+VEN01885,Wable PLC,Hardware,Hyderabad,kala10@virk.org,LOW,90,3.63,ACTIVE
+VEN01886,"Varty, Chander and Wable",Telecommunications,Bangalore,chaudhryanamika@dar.net,LOW,60,2.72,ACTIVE
+VEN01887,Mangal and Sons,Marketing,Mumbai,sabharwalaadhya@iyer.org,LOW,90,3.61,ACTIVE
+VEN01888,"Nagar, Nori and Guha",Consulting,Chennai,rohan34@setty.com,MEDIUM,15,4.01,ACTIVE
+VEN01889,"Arora, Madan and Bedi",IT Services,Delhi,qasimmanne@malhotra.com,LOW,45,2.63,ACTIVE
+VEN01890,Buch Ltd,Professional Services,Delhi,hkar@hans-kant.com,LOW,15,4.1,ACTIVE
+VEN01891,Karan-Aggarwal,Legal Services,Mumbai,tgarde@srinivasan-thakkar.com,LOW,45,4.92,ACTIVE
+VEN01892,"Balakrishnan, Sunder and Dani",Software,Chennai,fiyazganesh@tandon-zacharia.org,LOW,45,4.06,ACTIVE
+VEN01893,Brahmbhatt-Bedi,Office Supplies,Mumbai,chavvichoudhury@thakur.com,LOW,30,4.87,ACTIVE
+VEN01894,Mannan-Parsa,Security,Pune,baljiwansastry@bose-parekh.com,MEDIUM,15,2.78,ACTIVE
+VEN01895,"Kade, Chada and Chana",Security,Chennai,gtailor@parikh.biz,LOW,15,4.73,ACTIVE
+VEN01896,Bhalla-Chhabra,Legal Services,Bangalore,benkashish@minhas-bail.com,LOW,30,2.78,ACTIVE
+VEN01897,Sarma-Ramakrishnan,Hardware,Delhi,dadajonathan@chatterjee.com,LOW,45,4.09,ACTIVE
+VEN01898,Sinha-Pillai,Telecommunications,Chennai,bakshibahadurjit@kale.biz,LOW,30,2.87,ACTIVE
+VEN01899,"Palla, Sinha and Muni",Hardware,Bangalore,vaishnavikhalsa@madan.net,LOW,15,4.58,ACTIVE
+VEN01900,Pau-Thakkar,Security,Hyderabad,ramautkarsh@goda.com,LOW,60,4.46,ACTIVE
+VEN01901,"Brahmbhatt, Wason and Dutt",Facilities,Pune,niharikahari@desai-narayanan.com,MEDIUM,60,4.64,ACTIVE
+VEN01902,Dewan PLC,Hardware,Delhi,jhagabriel@dube.com,LOW,60,2.53,ACTIVE
+VEN01903,Sastry Inc,Telecommunications,Hyderabad,balhaar67@menon.com,MEDIUM,60,4.41,ACTIVE
+VEN01904,Dutta LLC,Cloud Services,Chennai,maya54@puri-kapadia.com,MEDIUM,15,4.28,ACTIVE
+VEN01905,Chanda-Mishra,Transportation,Chennai,irya90@rajan.com,LOW,15,3.85,ACTIVE
+VEN01906,Manda-Dutt,Office Supplies,Hyderabad,ridhidutta@sarkar-samra.info,MEDIUM,15,4.57,ACTIVE
+VEN01907,Dass-Ganesh,Professional Services,Chennai,ysubramaniam@tailor.info,LOW,45,2.6,ACTIVE
+VEN01908,"Arora, Mall and Parekh",Marketing,Chennai,ojas24@garde.org,LOW,90,4.98,ACTIVE
+VEN01909,Lad-Din,Facilities,Bangalore,bhavya97@ben.com,LOW,15,3.64,ACTIVE
+VEN01910,Chacko-Rao,Professional Services,Bangalore,gulatibina@sunder.com,MEDIUM,60,2.77,ACTIVE
+VEN01911,Batra-Das,Facilities,Pune,lajita53@prabhakar.com,LOW,30,3.23,ACTIVE
+VEN01912,"Nadkarni, Mammen and Goswami",Professional Services,Chennai,aayush15@lal.info,LOW,45,2.7,ACTIVE
+VEN01913,"Bhat, Vohra and Sagar",Facilities,Hyderabad,waliyauvani@nigam.com,MEDIUM,15,2.85,ACTIVE
+VEN01914,Thakkar-Kapur,Professional Services,Hyderabad,ulal@sen-prakash.org,LOW,60,3.42,ACTIVE
+VEN01915,Subramanian-Lad,Professional Services,Bangalore,ikshitamaster@bhardwaj.com,LOW,30,3.68,ACTIVE
+VEN01916,Rajagopalan PLC,Security,Bangalore,vanshanarain@varma-kumer.org,MEDIUM,90,3.52,ACTIVE
+VEN01917,Wable-Narang,Security,Hyderabad,sethiraagini@golla-nadkarni.com,LOW,15,4.29,ACTIVE
+VEN01918,Vaidya Inc,Cloud Services,Hyderabad,abdul86@vig-lal.com,LOW,60,3.78,ACTIVE
+VEN01919,Chokshi PLC,Telecommunications,Mumbai,nathanmander@subramaniam-bobal.org,LOW,90,4.63,ACTIVE
+VEN01920,"Dubey, Shetty and Nayar",Facilities,Chennai,taraksarna@bahri.com,LOW,60,3.92,ACTIVE
+VEN01921,"Pillai, Rajan and Halder",Marketing,Delhi,ethan87@sethi-bhakta.com,LOW,15,2.95,ACTIVE
+VEN01922,Golla Inc,Legal Services,Bangalore,krishabose@bahri.com,LOW,45,4.68,ACTIVE
+VEN01923,Reddy-Mahal,Telecommunications,Pune,subramaniamnakul@mani.com,MEDIUM,90,3.14,ACTIVE
+VEN01924,Tailor-Narang,Travel,Chennai,ramtristan@viswanathan.com,LOW,90,3.27,ACTIVE
+VEN01925,Bobal Inc,Maintenance,Hyderabad,mbrahmbhatt@kothari.info,LOW,90,4.13,ACTIVE
+VEN01926,Sharaf Inc,IT Services,Pune,nisha79@shroff.com,MEDIUM,30,2.65,ACTIVE
+VEN01927,Kalita-Cherian,Telecommunications,Delhi,cdhar@gara-swaminathan.com,LOW,45,4.14,ACTIVE
+VEN01928,Batta-Chad,Telecommunications,Mumbai,babumugdha@savant.com,MEDIUM,15,4.13,ACTIVE
+VEN01929,Shere Inc,Legal Services,Bangalore,varghesetanveer@prabhakar.biz,LOW,15,4.6,ACTIVE
+VEN01930,Bora-Anand,Software,Hyderabad,achandra@nigam.com,LOW,60,4.59,ACTIVE
+VEN01931,Tata Inc,Software,Chennai,chaudhryabeer@dey.com,LOW,90,4.28,ACTIVE
+VEN01932,Randhawa PLC,Security,Chennai,benjaminnagar@banik.com,LOW,30,3.68,ACTIVE
+VEN01933,"Bir, Radhakrishnan and Hayre",IT Services,Chennai,isaac06@sarin-vasa.info,LOW,45,3.65,ACTIVE
+VEN01934,Baral Inc,Security,Pune,dalaja11@karnik-gola.net,LOW,45,4.24,ACTIVE
+VEN01935,Doshi LLC,Transportation,Mumbai,rajaarini@narayan.biz,LOW,30,4.44,ACTIVE
+VEN01936,Sant Group,Telecommunications,Pune,ikbalbhatnagar@bahri-dugal.com,LOW,60,3.67,ACTIVE
+VEN01937,Mitra-Ramakrishnan,Software,Pune,eta02@majumdar.net,LOW,45,2.69,ACTIVE
+VEN01938,"Dhar, Nanda and Lall",Facilities,Chennai,narulaunnati@narasimhan-agate.com,LOW,45,3.41,ACTIVE
+VEN01939,Dhar-Krishnamurthy,Legal Services,Pune,omyakale@prasad.com,MEDIUM,60,3.38,ACTIVE
+VEN01940,Sheth Ltd,Hardware,Hyderabad,bhavna87@dash-hari.com,LOW,30,2.68,ACTIVE
+VEN01941,Dubey Inc,Consulting,Mumbai,schana@de.com,LOW,60,2.93,ACTIVE
+VEN01942,Viswanathan Group,Facilities,Chennai,usandal@mammen-mohanty.net,MEDIUM,15,3.83,ACTIVE
+VEN01943,Gokhale PLC,Security,Hyderabad,fapte@bhatia.com,MEDIUM,60,4.11,ACTIVE
+VEN01944,"Sankaran, Karpe and Balay",Transportation,Pune,zsahni@sarkar-ghosh.org,MEDIUM,45,3.1,ACTIVE
+VEN01945,Balay-Dugar,Facilities,Delhi,nmuni@boase.info,LOW,30,3.77,ACTIVE
+VEN01946,Sachdeva LLC,Consulting,Delhi,aarini58@modi-ray.com,MEDIUM,30,2.7,ACTIVE
+VEN01947,Shenoy-Dalal,Hardware,Mumbai,shravyachoudhry@hora-kumar.com,LOW,45,3.22,ACTIVE
+VEN01948,Thakkar-Kakar,Security,Chennai,ucchalkale@ghose.biz,MEDIUM,60,3.0,ACTIVE
+VEN01949,Nagi-Kurian,Maintenance,Delhi,kabir74@mann.com,MEDIUM,15,3.98,ACTIVE
+VEN01950,"Maharaj, Bhargava and Gulati",Marketing,Pune,balanachiket@chaudhry.biz,LOW,60,4.89,ACTIVE
+VEN01951,Narain-Memon,Maintenance,Bangalore,saksham88@kale.com,LOW,15,4.48,ACTIVE
+VEN01952,Natarajan-Konda,Telecommunications,Mumbai,ikshitaram@varma-edwin.com,LOW,30,4.46,ACTIVE
+VEN01953,"Sagar, Patla and Sule",Legal Services,Mumbai,chavvi92@ahluwalia.com,MEDIUM,90,3.05,ACTIVE
+VEN01954,Kaul Ltd,Consulting,Hyderabad,eranganathan@brahmbhatt.info,LOW,45,4.17,ACTIVE
+VEN01955,Chaudhary LLC,Legal Services,Mumbai,contractorfarhan@wadhwa-chokshi.biz,LOW,15,4.16,ACTIVE
+VEN01956,Kakar Inc,Maintenance,Mumbai,yagnesh94@borah.com,MEDIUM,60,4.68,ACTIVE
+VEN01957,"Shere, Ravel and Nazareth",Maintenance,Bangalore,bhattkrisha@sen.com,LOW,60,4.43,ACTIVE
+VEN01958,Pillay Group,Telecommunications,Hyderabad,jaiprabhakar@barad.org,LOW,15,2.76,ACTIVE
+VEN01959,"Chanda, Bhatia and Balasubramanian",Security,Bangalore,chaitaly30@dewan.info,LOW,15,3.6,ACTIVE
+VEN01960,Devi Inc,Telecommunications,Pune,znayak@mann.biz,LOW,90,4.8,ACTIVE
+VEN01961,"Gulati, Anand and Vora",Facilities,Mumbai,lavanyahora@ramesh.biz,LOW,60,4.99,ACTIVE
+VEN01962,"Kara, Chaudhry and Chahal",IT Services,Mumbai,yatin10@nori-karnik.org,LOW,30,4.23,ACTIVE
+VEN01963,"Soni, Brar and Majumdar",Facilities,Delhi,lataquincy@manne-desai.org,LOW,60,3.7,ACTIVE
+VEN01964,Balasubramanian Group,Travel,Bangalore,lakshmi14@toor.com,MEDIUM,45,3.97,ACTIVE
+VEN01965,"Toor, Bhatnagar and Sachar",Cloud Services,Chennai,tmital@desai.com,MEDIUM,60,4.46,ACTIVE
+VEN01966,Parekh PLC,Office Supplies,Hyderabad,urvi43@master.com,LOW,30,4.88,ACTIVE
+VEN01967,"Sule, Edwin and Mody",Hardware,Delhi,tara98@gokhale.com,MEDIUM,30,3.87,ACTIVE
+VEN01968,Merchant-Bala,Consulting,Delhi,max10@chowdhury.org,LOW,30,2.79,ACTIVE
+VEN01969,"Ratta, Dani and Choudhary",Telecommunications,Pune,hsehgal@mammen-prabhu.com,HIGH,60,2.95,ACTIVE
+VEN01970,"Balay, Pal and Sarraf",Cloud Services,Pune,irajagopalan@sankar.com,MEDIUM,90,4.08,ACTIVE
+VEN01971,"Nigam, Khurana and Anand",Professional Services,Bangalore,dattahiral@panchal.com,LOW,45,2.92,ACTIVE
+VEN01972,"Pingle, Ratta and Jhaveri",Marketing,Chennai,qsura@kamdar.com,LOW,45,2.93,ACTIVE
+VEN01973,Mukhopadhyay LLC,Security,Mumbai,hbalay@chandran.com,MEDIUM,45,3.23,ACTIVE
+VEN01974,Saxena LLC,Telecommunications,Chennai,swaminathanwazir@jhaveri.biz,LOW,60,4.99,ACTIVE
+VEN01975,Menon PLC,Security,Hyderabad,jeetnayar@nori.org,LOW,90,4.93,ACTIVE
+VEN01976,Mukhopadhyay-Kannan,Marketing,Bangalore,esoni@biswas-kashyap.com,HIGH,15,4.06,ACTIVE
+VEN01977,"Kale, Pall and Varghese",Legal Services,Pune,bhallainaya@yohannan-ghosh.com,LOW,15,4.8,ACTIVE
+VEN01978,Dutt-Sule,Transportation,Bangalore,paninimand@jaggi.biz,LOW,90,3.31,ACTIVE
+VEN01979,Dube Inc,Travel,Mumbai,oshawalla@soni.info,HIGH,90,4.45,ACTIVE
+VEN01980,Narayanan-Chauhan,Cloud Services,Mumbai,tristan67@batta.org,MEDIUM,15,3.21,ACTIVE
+VEN01981,Pandya-Banik,Cloud Services,Bangalore,nprashad@chawla.biz,LOW,45,4.21,ACTIVE
+VEN01982,"Narayan, Maharaj and Manne",Hardware,Pune,salvibhavika@khalsa.com,LOW,15,3.51,ACTIVE
+VEN01983,Nagarajan Group,Travel,Chennai,devika02@dass-chaudhary.net,LOW,60,4.42,ACTIVE
+VEN01984,Ramaswamy Ltd,Transportation,Chennai,korpalnilima@gara.com,LOW,15,2.66,ACTIVE
+VEN01985,"Das, Nanda and Garg",Travel,Delhi,gauravsane@rastogi-chander.com,LOW,45,4.94,ACTIVE
+VEN01986,"Bhatia, Sarraf and Khosla",Facilities,Delhi,pbrar@mannan.com,LOW,30,2.79,ACTIVE
+VEN01987,Morar-Issac,Professional Services,Chennai,agrawalucchal@master.info,LOW,60,2.55,ACTIVE
+VEN01988,Mannan-Dara,Telecommunications,Pune,osha51@kade.com,MEDIUM,15,4.23,ACTIVE
+VEN01989,Gill LLC,Security,Mumbai,xaviersant@baral.info,LOW,15,4.38,ACTIVE
+VEN01990,"Pandit, Sheth and Tiwari",Professional Services,Hyderabad,draval@bhardwaj-grover.com,LOW,15,4.07,ACTIVE
+VEN01991,Shan Ltd,IT Services,Hyderabad,bsane@raju.com,MEDIUM,90,2.53,ACTIVE
+VEN01992,Varma LLC,Hardware,Bangalore,poojabumb@salvi.org,LOW,15,3.69,ACTIVE
+VEN01993,Pradhan-Pal,Travel,Chennai,labanrajan@taneja-madan.com,HIGH,90,4.85,ACTIVE
+VEN01994,"Lad, Bhatt and Gole",Maintenance,Delhi,akshay43@sarin.net,LOW,60,4.59,ACTIVE
+VEN01995,Nadkarni PLC,Cloud Services,Delhi,abedi@bhavsar.com,MEDIUM,30,3.2,ACTIVE
+VEN01996,Varghese Group,Consulting,Hyderabad,ramtarak@dara.info,LOW,60,4.93,ACTIVE
+VEN01997,Chandran PLC,Software,Pune,hiteshwarrior@dave-char.biz,LOW,15,2.61,ACTIVE
+VEN01998,Agate-Chatterjee,Consulting,Hyderabad,shroffjanaki@sama-anand.com,LOW,45,3.94,ACTIVE
+VEN01999,"Balay, Venkatesh and Sankar",Professional Services,Mumbai,vnagarajan@date.com,LOW,45,2.67,ACTIVE
+VEN02000,Chadha-Nath,Facilities,Delhi,zarnakar@uppal.biz,MEDIUM,90,2.92,ACTIVE
