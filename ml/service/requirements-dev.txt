@@ -1,0 +1,5 @@
+# STS FINTECH AI FINANCIAL INTELLIGENCE
+# Private Microservice Test & Development Dependencies (Milestone 2 - Step 7.4B-1A)
+-r requirements.txt
+httpx==0.28.1
+pytest==8.4.2

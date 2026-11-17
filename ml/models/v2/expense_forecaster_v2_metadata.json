@@ -1,0 +1,897 @@
+{
+  "step": "7.3B-2",
+  "description": "V2 Continuous Enterprise Expense Forecasting Pipeline",
+  "timestamp": "2026-11-16T10:00:11.592569",
+  "environment": {
+    "python_version": "3.9.6 (default, May 22 2026, 11:13:45) \n[Clang 21.0.0 (clang-2100.1.1.101)]",
+    "scikit_learn_version": "1.5.2",
+    "numpy_version": "2.0.2",
+    "pandas_version": "2.2.3",
+    "joblib_version": "1.4.2"
+  },
+  "dataset_provenance": {
+    "version": "2.0.0",
+    "generator_script": "ml/data_generator_v2.py",
+    "transactions_sha256": "533f78a153032a0da5be45bec84d6a2f3018e6eb79c5b59b8be4c3b2bb5d0a82",
+    "total_transactions": 59834,
+    "total_calendar_days": 1096,
+    "total_expenditure_inr": 3293259422.56
+  },
+  "model_artifact": {
+    "model_type": "RandomForestRegressor",
+    "artifact_path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/expense_forecaster_v2.joblib",
+    "sha256": "ea71b872864f3ab8dba53ab96422e24c6d21b730c9fee0191b9fded950de6b22",
+    "size_bytes": 2430577
+  },
+  "feature_specification": {
+    "feature_columns": [
+      "day_of_week",
+      "day_of_month",
+      "month",
+      "quarter",
+      "day_of_year",
+      "is_weekend",
+      "is_month_end",
+      "is_month_start",
+      "is_holiday",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "lag_14",
+      "lag_21",
+      "lag_28",
+      "lag_30",
+      "rolling_mean_7",
+      "rolling_std_7",
+      "rolling_mean_14",
+      "rolling_mean_30",
+      "rolling_std_30",
+      "rolling_min_7",
+      "rolling_max_7",
+      "lag1_to_roll7",
+      "roll7_to_roll30"
+    ],
+    "target_variable": "daily_expenditure",
+    "leakage_guard": "All lag and rolling features are shifted by >= 1 step. Future actuals are strictly zeroed during recursive rollout."
+  },
+  "validation_selection": {
+    "baselines": {
+      "Seasonal_Naive_lag_7": {
+        "mae": 1421372.4551851852,
+        "rmse": 2193107.5198149765,
+        "wape": 0.4308624521250235,
+        "bias": -0.01494166640396567,
+        "mape": 0.5582918113373968
+      },
+      "Previous_Day_Naive_lag_1": {
+        "mae": 1998594.7076131685,
+        "rmse": 2786974.5414279043,
+        "wape": 0.605836572521811,
+        "bias": -0.005202751004154543,
+        "mape": 1.4430559948660688
+      },
+      "Rolling_7Day_Mean": {
+        "mae": 1698121.2133803645,
+        "rmse": 2260807.0622016517,
+        "wape": 0.5147536575184717,
+        "bias": -0.005399658402831954,
+        "mape": 1.5715716014308834
+      }
+    },
+    "candidate_models": {
+      "Ridge_Regression": {
+        "mae": 1032233.6676368652,
+        "rmse": 1669449.235972642,
+        "wape": 0.3129023132406779,
+        "bias": -0.11667162210744918,
+        "mape": 0.44301352537777566
+      },
+      "HistGradientBoosting_L1": {
+        "mae": 1063675.6611485102,
+        "rmse": 1700617.9835813418,
+        "wape": 0.32243336498908215,
+        "bias": -0.17724209493218424,
+        "mape": 0.4092371783615221
+      },
+      "HistGradientBoosting_L2": {
+        "mae": 1139345.997829645,
+        "rmse": 1756584.2287953212,
+        "wape": 0.34537141102805097,
+        "bias": -0.08937443723422302,
+        "mape": 0.49703692778883557
+      },
+      "RandomForestRegressor": {
+        "mae": 1015840.852897023,
+        "rmse": 1678499.1425102605,
+        "wape": 0.30793313832085056,
+        "bias": -0.09994265874292448,
+        "mape": 0.43964795059515266
+      }
+    }
+  },
+  "rolling_origin_evaluation": {
+    "origins_evaluated": [
+      "2026-09-01",
+      "2026-09-15",
+      "2026-10-01"
+    ],
+    "horizons_evaluated": [
+      7,
+      14,
+      30
+    ],
+    "detailed_origin_results": {
+      "2026-09-01": {
+        "7_day": {
+          "mae": 1910692.4714285715,
+          "rmse": 2256535.3105230145,
+          "wape": 0.4342992748498687,
+          "mape": 0.4506875642199483,
+          "bias": -0.29296198732245077,
+          "aggregated_error": 0.29296198732245077,
+          "actual_sum": 30796384.140000008,
+          "predicted_sum": 21774214.240000002,
+          "coverage_80": 0.42857142857142855,
+          "coverage_95": 0.7142857142857143
+        },
+        "14_day": {
+          "mae": 1224057.3914285714,
+          "rmse": 1651074.5191239598,
+          "wape": 0.32984543345230344,
+          "mape": 0.3659567800606717,
+          "bias": -0.1681847628289044,
+          "aggregated_error": 0.1681847628289044,
+          "actual_sum": 51954041.93000001,
+          "predicted_sum": 43216163.71,
+          "coverage_80": 0.7142857142857143,
+          "coverage_95": 0.8571428571428571
+        },
+        "30_day": {
+          "mae": 911924.7766666667,
+          "rmse": 1264914.555276463,
+          "wape": 0.26550742931288274,
+          "mape": 0.3332878476457577,
+          "bias": -0.05299132302282886,
+          "aggregated_error": 0.05299132302282886,
+          "actual_sum": 103039464.36,
+          "predicted_sum": 97579266.81999998,
+          "coverage_80": 0.8333333333333334,
+          "coverage_95": 0.9333333333333333
+        }
+      },
+      "2026-09-15": {
+        "7_day": {
+          "mae": 764619.6014285714,
+          "rmse": 898937.6506475565,
+          "wape": 0.28568953079372206,
+          "mape": 0.45165780248085824,
+          "bias": 0.14901229980664032,
+          "aggregated_error": 0.14901229980664032,
+          "actual_sum": 18734803.459999997,
+          "predicted_sum": 21526519.61,
+          "coverage_80": 0.8571428571428571,
+          "coverage_95": 1.0
+        },
+        "14_day": {
+          "mae": 598785.745,
+          "rmse": 754888.2499669532,
+          "wape": 0.20324892588845864,
+          "mape": 0.33164780651097364,
+          "bias": 0.11709290834486653,
+          "aggregated_error": 0.11709290834486653,
+          "actual_sum": 41244992.53,
+          "predicted_sum": 46074488.66,
+          "coverage_80": 0.9285714285714286,
+          "coverage_95": 1.0
+        },
+        "30_day": {
+          "mae": 656075.9400000001,
+          "rmse": 877188.2885536568,
+          "wape": 0.21533487779239835,
+          "mape": 0.3124124518091117,
+          "bias": 0.02157593228540937,
+          "aggregated_error": 0.02157593228540937,
+          "actual_sum": 91403113.14999998,
+          "predicted_sum": 93375220.52999999,
+          "coverage_80": 0.9,
+          "coverage_95": 1.0
+        }
+      },
+      "2026-10-01": {
+        "7_day": {
+          "mae": 956291.65,
+          "rmse": 1249002.1965688204,
+          "wape": 0.31673569286951103,
+          "mape": 0.45601837934457146,
+          "bias": -0.1562016089454431,
+          "aggregated_error": 0.1562016089454431,
+          "actual_sum": 21134471.74,
+          "predicted_sum": 17833233.25,
+          "coverage_80": 0.7142857142857143,
+          "coverage_95": 0.8571428571428571
+        },
+        "14_day": {
+          "mae": 737289.337142857,
+          "rmse": 1016520.2799680374,
+          "wape": 0.2560179051842282,
+          "mape": 0.34794862917022523,
+          "bias": -0.07374602282280741,
+          "aggregated_error": 0.07374602282280741,
+          "actual_sum": 40317690.720000006,
+          "predicted_sum": 37344421.379999995,
+          "coverage_80": 0.7857142857142857,
+          "coverage_95": 0.9285714285714286
+        },
+        "30_day": {
+          "mae": 736782.3033333335,
+          "rmse": 981358.028628621,
+          "wape": 0.24218047289526795,
+          "mape": 0.39760880549939775,
+          "bias": -0.048378203904028735,
+          "aggregated_error": 0.048378203904028735,
+          "actual_sum": 91268585.1,
+          "predicted_sum": 86853174.88,
+          "coverage_80": 0.8333333333333334,
+          "coverage_95": 0.9666666666666667
+        }
+      }
+    },
+    "average_by_horizon": {
+      "7_day": {
+        "mean_daily_wape": 0.34557483283770063,
+        "mean_aggregated_error": 0.19939196535817807,
+        "mean_daily_mae": 1210534.5742857142,
+        "mean_bias": -0.10005043215375119
+      },
+      "14_day": {
+        "mean_daily_wape": 0.2630374215083301,
+        "mean_aggregated_error": 0.11967456466552612,
+        "mean_daily_mae": 853377.491190476,
+        "mean_bias": -0.041612625768948426
+      },
+      "30_day": {
+        "mean_daily_wape": 0.24100759333351637,
+        "mean_aggregated_error": 0.04098181973742232,
+        "mean_daily_mae": 768261.0066666668,
+        "mean_bias": -0.02659786488048274
+      }
+    }
+  },
+  "synthetic_future_stress_evaluation": {
+    "origin": "2026-11-14",
+    "horizon_days": 30,
+    "metrics": {
+      "mae": 692123.7016666667,
+      "rmse": 859546.2862245291,
+      "wape": 0.23323362196640587,
+      "mape": 0.4594887895909798,
+      "bias": 0.06093457272861744,
+      "aggregated_error": 0.06093457272861744,
+      "actual_sum": 89025376.67999998,
+      "predicted_sum": 94450099.97
+    }
+  },
+  "prediction_intervals": {
+    "residual_std": 885070.71642515,
+    "error_margin_80_percent": 1015470.9205951071,
+    "error_margin_95_percent": 1493281.937768865
+  },
+  "exemplar_forecasts": {
+    "seven_day": {
+      "model_version": "2.0.0",
+      "forecast_origin": "2026-10-01",
+      "horizon_days": 7,
+      "currency": "INR",
+      "total_projected_expenditure_inr": 17833233.26,
+      "average_daily_expenditure_inr": 2547604.75,
+      "projections": [
+        {
+          "step": 1,
+          "date": "2026-10-02",
+          "day_name": "Friday",
+          "predicted_expenditure_inr": 1918903.05,
+          "prediction_interval_80": [
+            668903.05,
+            3168903.05
+          ],
+          "prediction_interval_95": [
+            0.0,
+            4018903.05
+          ],
+          "cumulative_expenditure_inr": 1918903.05,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 2,
+          "date": "2026-10-03",
+          "day_name": "Saturday",
+          "predicted_expenditure_inr": 834710.44,
+          "prediction_interval_80": [
+            0.0,
+            2103460.44
+          ],
+          "prediction_interval_95": [
+            0.0,
+            2966210.44
+          ],
+          "cumulative_expenditure_inr": 2753613.5,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 3,
+          "date": "2026-10-04",
+          "day_name": "Sunday",
+          "predicted_expenditure_inr": 849498.24,
+          "prediction_interval_80": [
+            0.0,
+            2136998.24
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3012498.24
+          ],
+          "cumulative_expenditure_inr": 3603111.74,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 4,
+          "date": "2026-10-05",
+          "day_name": "Monday",
+          "predicted_expenditure_inr": 4006192.87,
+          "prediction_interval_80": [
+            2699942.87,
+            5312442.87
+          ],
+          "prediction_interval_95": [
+            1811692.87,
+            6200692.87
+          ],
+          "cumulative_expenditure_inr": 7609304.61,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 5,
+          "date": "2026-10-06",
+          "day_name": "Tuesday",
+          "predicted_expenditure_inr": 3659270.3,
+          "prediction_interval_80": [
+            2334270.3,
+            4984270.3
+          ],
+          "prediction_interval_95": [
+            1433270.3,
+            5885270.3
+          ],
+          "cumulative_expenditure_inr": 11268574.91,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 6,
+          "date": "2026-10-07",
+          "day_name": "Wednesday",
+          "predicted_expenditure_inr": 3261258.08,
+          "prediction_interval_80": [
+            1917508.08,
+            4605008.08
+          ],
+          "prediction_interval_95": [
+            1003758.08,
+            5518758.08
+          ],
+          "cumulative_expenditure_inr": 14529833.0,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 7,
+          "date": "2026-10-08",
+          "day_name": "Thursday",
+          "predicted_expenditure_inr": 3303400.27,
+          "prediction_interval_80": [
+            1940900.27,
+            4665900.27
+          ],
+          "prediction_interval_95": [
+            1014400.27,
+            5592400.27
+          ],
+          "cumulative_expenditure_inr": 17833233.26,
+          "is_synthetic_future_scenario": false
+        }
+      ],
+      "synthetic_data_disclaimer": "Forecast generated from STS Fintech V2 Enterprise Financial Data. Predictions represent decision-support projections. Dates on or after 2026-11-14 fall in synthetic future stress scenarios."
+    },
+    "thirty_day": {
+      "model_version": "2.0.0",
+      "forecast_origin": "2026-10-01",
+      "horizon_days": 30,
+      "currency": "INR",
+      "total_projected_expenditure_inr": 86853174.9,
+      "average_daily_expenditure_inr": 2895105.83,
+      "projections": [
+        {
+          "step": 1,
+          "date": "2026-10-02",
+          "day_name": "Friday",
+          "predicted_expenditure_inr": 1918903.05,
+          "prediction_interval_80": [
+            668903.05,
+            3168903.05
+          ],
+          "prediction_interval_95": [
+            0.0,
+            4018903.05
+          ],
+          "cumulative_expenditure_inr": 1918903.05,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 2,
+          "date": "2026-10-03",
+          "day_name": "Saturday",
+          "predicted_expenditure_inr": 834710.44,
+          "prediction_interval_80": [
+            0.0,
+            2103460.44
+          ],
+          "prediction_interval_95": [
+            0.0,
+            2966210.44
+          ],
+          "cumulative_expenditure_inr": 2753613.5,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 3,
+          "date": "2026-10-04",
+          "day_name": "Sunday",
+          "predicted_expenditure_inr": 849498.24,
+          "prediction_interval_80": [
+            0.0,
+            2136998.24
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3012498.24
+          ],
+          "cumulative_expenditure_inr": 3603111.74,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 4,
+          "date": "2026-10-05",
+          "day_name": "Monday",
+          "predicted_expenditure_inr": 4006192.87,
+          "prediction_interval_80": [
+            2699942.87,
+            5312442.87
+          ],
+          "prediction_interval_95": [
+            1811692.87,
+            6200692.87
+          ],
+          "cumulative_expenditure_inr": 7609304.61,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 5,
+          "date": "2026-10-06",
+          "day_name": "Tuesday",
+          "predicted_expenditure_inr": 3659270.3,
+          "prediction_interval_80": [
+            2334270.3,
+            4984270.3
+          ],
+          "prediction_interval_95": [
+            1433270.3,
+            5885270.3
+          ],
+          "cumulative_expenditure_inr": 11268574.91,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 6,
+          "date": "2026-10-07",
+          "day_name": "Wednesday",
+          "predicted_expenditure_inr": 3261258.08,
+          "prediction_interval_80": [
+            1917508.08,
+            4605008.08
+          ],
+          "prediction_interval_95": [
+            1003758.08,
+            5518758.08
+          ],
+          "cumulative_expenditure_inr": 14529833.0,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 7,
+          "date": "2026-10-08",
+          "day_name": "Thursday",
+          "predicted_expenditure_inr": 3303400.27,
+          "prediction_interval_80": [
+            1940900.27,
+            4665900.27
+          ],
+          "prediction_interval_95": [
+            1014400.27,
+            5592400.27
+          ],
+          "cumulative_expenditure_inr": 17833233.26,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 8,
+          "date": "2026-10-09",
+          "day_name": "Friday",
+          "predicted_expenditure_inr": 3361610.67,
+          "prediction_interval_80": [
+            1980360.67,
+            4742860.67
+          ],
+          "prediction_interval_95": [
+            1041110.67,
+            5682110.67
+          ],
+          "cumulative_expenditure_inr": 21194843.93,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 9,
+          "date": "2026-10-10",
+          "day_name": "Saturday",
+          "predicted_expenditure_inr": 654169.2,
+          "prediction_interval_80": [
+            0.0,
+            2054169.2
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3006169.2
+          ],
+          "cumulative_expenditure_inr": 21849013.13,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 10,
+          "date": "2026-10-11",
+          "day_name": "Sunday",
+          "predicted_expenditure_inr": 617088.93,
+          "prediction_interval_80": [
+            0.0,
+            2035838.93
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3000588.93
+          ],
+          "cumulative_expenditure_inr": 22466102.06,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 11,
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "predicted_expenditure_inr": 3519590.11,
+          "prediction_interval_80": [
+            2082090.11,
+            4957090.11
+          ],
+          "prediction_interval_95": [
+            1104590.11,
+            5934590.11
+          ],
+          "cumulative_expenditure_inr": 25985692.17,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 12,
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "predicted_expenditure_inr": 4022285.17,
+          "prediction_interval_80": [
+            2566035.17,
+            5478535.17
+          ],
+          "prediction_interval_95": [
+            1575785.17,
+            6468785.17
+          ],
+          "cumulative_expenditure_inr": 30007977.35,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 13,
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "predicted_expenditure_inr": 3849981.98,
+          "prediction_interval_80": [
+            2374981.98,
+            5324981.98
+          ],
+          "prediction_interval_95": [
+            1371981.98,
+            6327981.98
+          ],
+          "cumulative_expenditure_inr": 33857959.32,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 14,
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "predicted_expenditure_inr": 3486462.07,
+          "prediction_interval_80": [
+            1992712.07,
+            4980212.07
+          ],
+          "prediction_interval_95": [
+            976962.07,
+            5995962.07
+          ],
+          "cumulative_expenditure_inr": 37344421.39,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 15,
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "predicted_expenditure_inr": 3762120.06,
+          "prediction_interval_80": [
+            2249620.06,
+            5274620.06
+          ],
+          "prediction_interval_95": [
+            1221120.06,
+            6303120.06
+          ],
+          "cumulative_expenditure_inr": 41106541.45,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 16,
+          "date": "2026-10-17",
+          "day_name": "Saturday",
+          "predicted_expenditure_inr": 611086.24,
+          "prediction_interval_80": [
+            0.0,
+            2142336.24
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3183586.24
+          ],
+          "cumulative_expenditure_inr": 41717627.69,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 17,
+          "date": "2026-10-18",
+          "day_name": "Sunday",
+          "predicted_expenditure_inr": 602623.13,
+          "prediction_interval_80": [
+            0.0,
+            2152623.13
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3206623.13
+          ],
+          "cumulative_expenditure_inr": 42320250.83,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 18,
+          "date": "2026-10-19",
+          "day_name": "Monday",
+          "predicted_expenditure_inr": 3622060.3,
+          "prediction_interval_80": [
+            2053310.3,
+            5190810.3
+          ],
+          "prediction_interval_95": [
+            986560.3,
+            6257560.3
+          ],
+          "cumulative_expenditure_inr": 45942311.13,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 19,
+          "date": "2026-10-20",
+          "day_name": "Tuesday",
+          "predicted_expenditure_inr": 3955496.16,
+          "prediction_interval_80": [
+            2367996.16,
+            5542996.16
+          ],
+          "prediction_interval_95": [
+            1288496.16,
+            6622496.16
+          ],
+          "cumulative_expenditure_inr": 49897807.29,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 20,
+          "date": "2026-10-21",
+          "day_name": "Wednesday",
+          "predicted_expenditure_inr": 3978214.87,
+          "prediction_interval_80": [
+            2371964.87,
+            5584464.87
+          ],
+          "prediction_interval_95": [
+            1279714.87,
+            6676714.87
+          ],
+          "cumulative_expenditure_inr": 53876022.15,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 21,
+          "date": "2026-10-22",
+          "day_name": "Thursday",
+          "predicted_expenditure_inr": 3922917.05,
+          "prediction_interval_80": [
+            2297917.05,
+            5547917.05
+          ],
+          "prediction_interval_95": [
+            1192917.05,
+            6652917.05
+          ],
+          "cumulative_expenditure_inr": 57798939.2,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 22,
+          "date": "2026-10-23",
+          "day_name": "Friday",
+          "predicted_expenditure_inr": 3453589.51,
+          "prediction_interval_80": [
+            1809839.51,
+            5097339.51
+          ],
+          "prediction_interval_95": [
+            692089.51,
+            6215089.51
+          ],
+          "cumulative_expenditure_inr": 61252528.71,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 23,
+          "date": "2026-10-24",
+          "day_name": "Saturday",
+          "predicted_expenditure_inr": 881139.1,
+          "prediction_interval_80": [
+            0.0,
+            2543639.1
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3674139.1
+          ],
+          "cumulative_expenditure_inr": 62133667.81,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 24,
+          "date": "2026-10-25",
+          "day_name": "Sunday",
+          "predicted_expenditure_inr": 823583.66,
+          "prediction_interval_80": [
+            0.0,
+            2504833.66
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3648083.66
+          ],
+          "cumulative_expenditure_inr": 62957251.47,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 25,
+          "date": "2026-10-26",
+          "day_name": "Monday",
+          "predicted_expenditure_inr": 4322330.84,
+          "prediction_interval_80": [
+            2622330.84,
+            6022330.84
+          ],
+          "prediction_interval_95": [
+            1466330.84,
+            7178330.84
+          ],
+          "cumulative_expenditure_inr": 67279582.32,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 26,
+          "date": "2026-10-27",
+          "day_name": "Tuesday",
+          "predicted_expenditure_inr": 4639536.86,
+          "prediction_interval_80": [
+            2920786.86,
+            6358286.86
+          ],
+          "prediction_interval_95": [
+            1752036.86,
+            7527036.86
+          ],
+          "cumulative_expenditure_inr": 71919119.18,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 27,
+          "date": "2026-10-28",
+          "day_name": "Wednesday",
+          "predicted_expenditure_inr": 4795103.62,
+          "prediction_interval_80": [
+            3057603.62,
+            6532603.62
+          ],
+          "prediction_interval_95": [
+            1876103.62,
+            7714103.62
+          ],
+          "cumulative_expenditure_inr": 76714222.8,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 28,
+          "date": "2026-10-29",
+          "day_name": "Thursday",
+          "predicted_expenditure_inr": 4653973.73,
+          "prediction_interval_80": [
+            2897723.73,
+            6410223.73
+          ],
+          "prediction_interval_95": [
+            1703473.73,
+            7604473.73
+          ],
+          "cumulative_expenditure_inr": 81368196.53,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 29,
+          "date": "2026-10-30",
+          "day_name": "Friday",
+          "predicted_expenditure_inr": 4579341.05,
+          "prediction_interval_80": [
+            2804341.05,
+            6354341.05
+          ],
+          "prediction_interval_95": [
+            1597341.05,
+            7561341.05
+          ],
+          "cumulative_expenditure_inr": 85947537.58,
+          "is_synthetic_future_scenario": false
+        },
+        {
+          "step": 30,
+          "date": "2026-10-31",
+          "day_name": "Saturday",
+          "predicted_expenditure_inr": 905637.32,
+          "prediction_interval_80": [
+            0.0,
+            2699387.32
+          ],
+          "prediction_interval_95": [
+            0.0,
+            3919137.32
+          ],
+          "cumulative_expenditure_inr": 86853174.9,
+          "is_synthetic_future_scenario": false
+        }
+      ],
+      "synthetic_data_disclaimer": "Forecast generated from STS Fintech V2 Enterprise Financial Data. Predictions represent decision-support projections. Dates on or after 2026-11-14 fall in synthetic future stress scenarios."
+    }
+  },
+  "synthetic_data_disclaimer": "Forecasts are trained on synthetic enterprise financial data generated for STS FINTECH PRIVATE LIMITED. Results reflect synthetic seasonality and should be empirically recalibrated on live customer banking statements."
+}

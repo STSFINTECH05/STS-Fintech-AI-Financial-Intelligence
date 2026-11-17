@@ -1,0 +1,642 @@
+{
+  "step": "7.3B-1",
+  "description": "V2 Expense Classification & Anomaly Detection Training",
+  "timestamp": "2026-11-16T09:42:59.546955",
+  "environment": {
+    "python_version": "3.9.6 (default, May 22 2026, 11:13:45) \n[Clang 21.0.0 (clang-2100.1.1.101)]",
+    "scikit_learn_version": "1.5.2",
+    "numpy_version": "2.0.2",
+    "pandas_version": "2.2.3",
+    "scipy_version": "1.13.1",
+    "joblib_version": "1.4.2"
+  },
+  "dataset_provenance": {
+    "version": "2.0.0",
+    "generator_script": "ml/data_generator_v2.py",
+    "generator_timestamp": "2026-11-12T10:37:26.046837",
+    "row_counts": {
+      "departments.csv": 50,
+      "employees.csv": 5000,
+      "vendors.csv": 2000,
+      "salaries.csv": 68292,
+      "transactions.csv": 59834,
+      "invoices.csv": 10000,
+      "bills.csv": 10000,
+      "budgets.csv": 1800,
+      "budget_snapshots.csv": 5400
+    },
+    "checksums": {
+      "departments.csv": "737ebd9a5d2441ce190b26bcfc5da8bddd80f49a338058cb75fc672ea808ce96",
+      "employees.csv": "b2dc876a313022a770c37c2b0098fa5c80fb61d92ec3e300e993e8f9d344e91d",
+      "vendors.csv": "8812e29307f58003a4de600b63268a8edceec80ad131217f4720e0a433b25954",
+      "salaries.csv": "9e5ddfd5fad7d2dc538b68f20ad2704418620b24998b98b37a2e0a069a3ff476",
+      "transactions.csv": "533f78a153032a0da5be45bec84d6a2f3018e6eb79c5b59b8be4c3b2bb5d0a82",
+      "invoices.csv": "bfdf112d48ff88d8f108cbbe9df7aaba889ebfe91faf4c55a8c6587c71a01ba4",
+      "bills.csv": "f1c652f8498ba8d61f5cb7ffec879f83cc205608637c9abd999bb069329fe5bb",
+      "budgets.csv": "f52bc533b8dac1a34cd2d5728c7320fce527e50c939fa8532ce8069a65842a7a",
+      "budget_snapshots.csv": "15f4f7ff6e69ac13ea13aa6281ce1cfeaa7a45c20815c54a4e2c71fe2743a110"
+    }
+  },
+  "model_a_expense_classification": {
+    "model_version": "2.0.0",
+    "selected_model": "LogisticRegression",
+    "artifact_path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/expense_classifier_v2.joblib",
+    "sha256": "6b1405b3770ff0ae55c5de8871cf347e80f4e6201472a1ca5e4b08df44e4d1d2",
+    "training_timestamp": "2026-11-16T09:42:56.290503",
+    "classes": [
+      "Cloud Services",
+      "Employee Benefits & Healthcare",
+      "Facilities & Maintenance",
+      "Hardware & Equipment",
+      "IT Services & Infrastructure",
+      "Legal & Professional Services",
+      "Marketing & Advertising",
+      "Meals & Entertainment",
+      "Office Supplies & Printing",
+      "Recruitment & Staffing",
+      "Software & SaaS",
+      "Transportation & Logistics",
+      "Travel & Lodging",
+      "Utilities & Telecommunications"
+    ],
+    "majority_class_baseline": 0.11170175561306568,
+    "features": {
+      "text": "description",
+      "numeric": [
+        "amount",
+        "log_amount",
+        "vendor_rating",
+        "payment_terms_days",
+        "annual_budget_baseline",
+        "month",
+        "day",
+        "quarter"
+      ],
+      "categorical": [
+        "vendor_category",
+        "division",
+        "department_id",
+        "payment_method",
+        "transaction_type",
+        "is_preferred_vendor",
+        "employment_type",
+        "day_of_week",
+        "is_weekend"
+      ],
+      "excluded_prohibited": [
+        "category",
+        "transaction_id",
+        "vendor_id",
+        "employee_id",
+        "is_anomaly",
+        "anomaly_type",
+        "anomaly_score",
+        "currency",
+        "is_business_expense"
+      ]
+    },
+    "validation_selection": {
+      "LogisticRegression": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0
+      },
+      "SGDClassifier": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0
+      },
+      "LinearSVC": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "weighted_f1": 1.0
+      }
+    },
+    "historical_test_evaluation": {
+      "sample_count": 3592,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "confusion_matrix": [
+        [
+          363,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          158,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          236,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          313,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          246,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          175,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          378,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          189,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          203,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          143,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          374,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          244,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          375,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          195
+        ]
+      ],
+      "classification_report": {
+        "Cloud Services": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 363.0
+        },
+        "Employee Benefits & Healthcare": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 158.0
+        },
+        "Facilities & Maintenance": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 236.0
+        },
+        "Hardware & Equipment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 313.0
+        },
+        "IT Services & Infrastructure": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 246.0
+        },
+        "Legal & Professional Services": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 175.0
+        },
+        "Marketing & Advertising": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 378.0
+        },
+        "Meals & Entertainment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 189.0
+        },
+        "Office Supplies & Printing": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 203.0
+        },
+        "Recruitment & Staffing": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 143.0
+        },
+        "Software & SaaS": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 374.0
+        },
+        "Transportation & Logistics": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 244.0
+        },
+        "Travel & Lodging": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 375.0
+        },
+        "Utilities & Telecommunications": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 195.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3592.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3592.0
+        }
+      }
+    },
+    "synthetic_future_stress_test": {
+      "sample_count": 2660,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0
+    },
+    "unseen_vendor_evaluation": {
+      "held_out_vendors_count": 400,
+      "test_sample_count": 12253,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0
+    },
+    "department_holdout_evaluation": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0
+    }
+  },
+  "model_b_anomaly_detection": {
+    "model_version": "2.0.0",
+    "training_timestamp": "2026-11-16T09:42:59.519687",
+    "unsupervised_baseline": {
+      "model_type": "IsolationForestV2AnomalyDetector",
+      "artifact_path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/anomaly_detector_v2.joblib",
+      "sha256": "e7094d751b337862bc6892c551f215dea0957a1b7e1926a851f7425837c22f29",
+      "calibrated_threshold": 0.51,
+      "validation_metrics": {
+        "f1": 0.15873015873015872,
+        "pr_auc": 0.09581077356762101,
+        "roc_auc": 0.672322158375073
+      },
+      "historical_test_metrics": {
+        "sample_count": 3592,
+        "anomalies_count": 100,
+        "precision": 0.15966386554621848,
+        "recall": 0.19,
+        "f1": 0.1735159817351598,
+        "pr_auc": 0.10118614733592511,
+        "roc_auc": 0.6976403207331042,
+        "confusion_matrix": [
+          [
+            3392,
+            100
+          ],
+          [
+            81,
+            19
+          ]
+        ],
+        "scenario_recalls": {
+          "UNUSUAL_LARGE_AMOUNT": {
+            "count": 53,
+            "recall": 0.2641509433962264
+          },
+          "SPLIT_APPROVAL_THRESHOLD": {
+            "count": 41,
+            "recall": 0.07317073170731707
+          },
+          "OFF_HOURS_WEEKEND_OUTLIER": {
+            "count": 6,
+            "recall": 0.3333333333333333
+          }
+        },
+        "hard_negative_surge_fpr": 0.06451612903225806
+      }
+    },
+    "supervised_benchmark": {
+      "model_type": "RandomForestClassifier",
+      "artifact_path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/anomaly_supervised_benchmark_v2.joblib",
+      "sha256": "7fb574b12019b65fcbcbca8cf5bdf9b0b896723a67d1c86dd3a191080f1c3c59",
+      "calibrated_threshold": 0.20999999999999996,
+      "validation_metrics": {
+        "f1": 0.5304568527918782,
+        "pr_auc": 0.48263354446747386,
+        "roc_auc": 0.9396313595345647
+      },
+      "historical_test_metrics": {
+        "sample_count": 3592,
+        "anomalies_count": 100,
+        "precision": 0.5079365079365079,
+        "recall": 0.64,
+        "f1": 0.5663716814159292,
+        "pr_auc": 0.6118543291006627,
+        "roc_auc": 0.9514561855670103,
+        "confusion_matrix": [
+          [
+            3430,
+            62
+          ],
+          [
+            36,
+            64
+          ]
+        ],
+        "scenario_recalls": {
+          "UNUSUAL_LARGE_AMOUNT": {
+            "count": 53,
+            "recall": 0.49056603773584906
+          },
+          "SPLIT_APPROVAL_THRESHOLD": {
+            "count": 41,
+            "recall": 0.8780487804878049
+          },
+          "OFF_HOURS_WEEKEND_OUTLIER": {
+            "count": 6,
+            "recall": 0.3333333333333333
+          }
+        },
+        "hard_negative_surge_fpr": 0.20967741935483872
+      },
+      "synthetic_future_stress_test": {
+        "sample_count": 2660,
+        "anomalies_count": 56,
+        "precision": 0.3958333333333333,
+        "recall": 0.6785714285714286,
+        "f1": 0.5,
+        "pr_auc": 0.4582967819943301,
+        "roc_auc": 0.9151922865920561
+      },
+      "unseen_vendor_evaluation": {
+        "test_sample_count": 12253,
+        "precision": 0.44776119402985076,
+        "recall": 0.627177700348432,
+        "f1": 0.5224963715529753,
+        "pr_auc": 0.4925136461596061,
+        "roc_auc": 0.9465049347133954
+      }
+    },
+    "feature_specification": {
+      "numeric_features": [
+        "amount",
+        "log_amount",
+        "amount_to_category_median",
+        "amount_to_dept_median",
+        "amount_to_spending_limit",
+        "near_approval_threshold",
+        "is_low_rated_vendor",
+        "vendor_rating",
+        "payment_terms_days",
+        "annual_budget_baseline",
+        "spending_approval_limit",
+        "month",
+        "day",
+        "quarter"
+      ],
+      "categorical_features": [
+        "category",
+        "vendor_category",
+        "division",
+        "department_id",
+        "payment_method",
+        "transaction_type",
+        "is_preferred_vendor",
+        "employment_type",
+        "day_of_week",
+        "is_weekend"
+      ],
+      "excluded_prohibited": [
+        "is_anomaly",
+        "anomaly_type",
+        "anomaly_score",
+        "transaction_id",
+        "vendor_id",
+        "employee_id",
+        "currency",
+        "is_business_expense"
+      ]
+    }
+  },
+  "artifacts": {
+    "expense_classifier_v2": {
+      "path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/expense_classifier_v2.joblib",
+      "sha256": "6b1405b3770ff0ae55c5de8871cf347e80f4e6201472a1ca5e4b08df44e4d1d2",
+      "size_bytes": 895574
+    },
+    "anomaly_detector_v2": {
+      "path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/anomaly_detector_v2.joblib",
+      "sha256": "e7094d751b337862bc6892c551f215dea0957a1b7e1926a851f7425837c22f29",
+      "size_bytes": 1438477
+    },
+    "anomaly_supervised_benchmark_v2": {
+      "path": "/Users/stsfintech/STS-Fintech-AI-Financial-Intelligence/ml/models/v2/anomaly_supervised_benchmark_v2.joblib",
+      "sha256": "7fb574b12019b65fcbcbca8cf5bdf9b0b896723a67d1c86dd3a191080f1c3c59",
+      "size_bytes": 29674255
+    }
+  },
+  "safeguards_verified": {
+    "target_leakage_eliminated": true,
+    "vendor_id_excluded_from_features": true,
+    "chronological_evaluation_held_out": true,
+    "unseen_vendor_evaluated": true,
+    "hard_negative_scenarios_preserved": true,
+    "synthetic_future_data_partitioned_separately": true,
+    "v1_artifacts_preserved": true
+  }
+}

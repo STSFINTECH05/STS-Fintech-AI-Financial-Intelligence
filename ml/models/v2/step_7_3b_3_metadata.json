@@ -1,0 +1,259 @@
+{
+  "step": "7.3B-3",
+  "milestone": "Milestone 2",
+  "title": "V2 Budget Prediction & Vendor Intelligence Suite",
+  "generated_at": "2026-11-16T10:23:08.803141",
+  "environment": {
+    "python_version": "3.9.6",
+    "scikit_learn_version": "1.5.2",
+    "numpy_version": "2.0.2",
+    "pandas_version": "2.2.3",
+    "joblib_version": "1.4.2"
+  },
+  "artifacts": {
+    "budget_predictor_v2": {
+      "file": "ml/models/v2/budget_predictor_v2.joblib",
+      "sha256": "3a56c7c086b01814fdce1367e967292122c9ad2507bae1023c9a26e1dc8e3199",
+      "size_bytes": 15927858
+    },
+    "vendor_duplicate_detector_v2": {
+      "file": "ml/models/v2/vendor_duplicate_detector_v2.joblib",
+      "sha256": "0c4156f335a8ea0d64fdb41d7406698e17b28959805ae736742c9cd38d0e8f23",
+      "size_bytes": 1801155
+    },
+    "vendor_payment_predictor_v2": {
+      "file": "ml/models/v2/vendor_payment_predictor_v2.joblib",
+      "sha256": "afa6ed2fbd1470b31eb9fadd8f4ddc94b5c68d5925b6f670227bfba77401d149",
+      "size_bytes": 368047
+    },
+    "vendor_screening_v2": {
+      "file": "ml/models/v2/vendor_screening_v2.joblib",
+      "sha256": "b81b393464ed0577734a38e59227b811184302ecd1f756b67677400bddcc6379",
+      "size_bytes": 418645
+    }
+  },
+  "evaluation_results": {
+    "model_d_budget_predictor": {
+      "model_name": "RandomForestRegressor",
+      "feature_count": 16,
+      "features": [
+        "department_id",
+        "budget_month",
+        "as_of_day",
+        "elapsed_month_pct",
+        "allocated_amount",
+        "month_to_date_actual",
+        "transaction_count_mtd",
+        "days_in_month",
+        "remaining_days",
+        "linear_runrate",
+        "mtd_utilization_pct",
+        "linear_runrate_utilization_pct",
+        "tx_rate_per_day",
+        "avg_tx_size_mtd",
+        "alloc_vs_baseline",
+        "remaining_budget_mtd"
+      ],
+      "residual_std": 14.236,
+      "overall_test_metrics": {
+        "utilization_mae": 10.54,
+        "utilization_rmse": 14.32,
+        "utilization_r2": 0.2269,
+        "amount_mae": 224147.41,
+        "amount_r2": 0.9019,
+        "test_sample_count": 300
+      },
+      "day_metrics": {
+        "day_7": {
+          "sample_count": 100,
+          "baseline_linear_util_mae": 50.4,
+          "model_util_mae": 12.42,
+          "model_util_r2": -0.0317,
+          "model_amount_mae": 266870.14,
+          "model_amount_r2": 0.8656
+        },
+        "day_14": {
+          "sample_count": 100,
+          "baseline_linear_util_mae": 27.77,
+          "model_util_mae": 10.57,
+          "model_util_r2": 0.2274,
+          "model_amount_mae": 225622.91,
+          "model_amount_r2": 0.9031
+        },
+        "day_21": {
+          "sample_count": 100,
+          "baseline_linear_util_mae": 19.23,
+          "model_util_mae": 8.63,
+          "model_util_r2": 0.4851,
+          "model_amount_mae": 179949.18,
+          "model_amount_r2": 0.9369
+        }
+      },
+      "baselines": {
+        "historical_median_util_mae": 12.37,
+        "linear_runrate_util_mae": 32.47,
+        "linear_runrate_amount_mae": 787744.25
+      },
+      "stress_test_metrics": {
+        "utilization_mae": 10.43,
+        "amount_mae": 203540.88,
+        "sample_count": 300
+      }
+    },
+    "model_e_duplicate_detector": {
+      "engine": "VendorDuplicateDetectorV2",
+      "feature_count": 11,
+      "features": [
+        "department_id",
+        "subtotal",
+        "tax_amount",
+        "total_amount",
+        "log_amount",
+        "log_subtotal",
+        "tax_ratio",
+        "terms_days",
+        "day_of_week",
+        "day_of_month",
+        "month"
+      ],
+      "test_metrics": {
+        "test_samples": 586,
+        "test_positives": 13,
+        "accuracy": 0.9659,
+        "roc_auc": 0.5195,
+        "pr_auc": 0.0484
+      },
+      "synthetic_generation_audit": {
+        "mechanism": "Uniform random Bernoulli sampling (p=0.025) in generator without duplicate-pair duplication",
+        "leakage_safeguard": "invoice_status and rejection_reason strictly excluded from feature pipeline",
+        "operational_strategy": "Primary protection via OperationalDuplicateMatcher with exact/near amount matching"
+      }
+    },
+    "model_e_payment_predictor": {
+      "engine": "VendorPaymentPredictorV2",
+      "feature_count": 12,
+      "features": [
+        "department_id",
+        "bill_amount",
+        "tax_amount",
+        "total_amount",
+        "log_amount",
+        "tax_ratio",
+        "terms_days",
+        "vendor_rating",
+        "vendor_prior_late_rate",
+        "month",
+        "day_of_week",
+        "day_of_month"
+      ],
+      "test_metrics": {
+        "test_samples": 586,
+        "accuracy": 0.8089,
+        "roc_auc": 0.5163,
+        "pr_auc": 0.2049,
+        "model_brier_score": 0.1556,
+        "baseline_brier_score": 0.155
+      },
+      "global_prior_late_rate": 0.21025917926565874
+    },
+    "model_e_vendor_screening": {
+      "algorithm": "EnterpriseMultiFactorRuleScreeningEngineV2",
+      "total_registered_vendors": 2000,
+      "scoring_weights": {
+        "rejection_factor": 0.25,
+        "duplicate_factor": 0.2,
+        "late_payment_factor": 0.2,
+        "anomaly_factor": 0.2,
+        "rating_deficit_factor": 0.15
+      },
+      "scoring_thresholds": {
+        "low_threshold": 25.0,
+        "medium_threshold": 50.0
+      },
+      "tier_distribution": {
+        "LOW": 1600,
+        "MEDIUM": 374,
+        "HIGH \u2013 REQUIRES VERIFICATION": 26
+      },
+      "high_risk_vendor_count": 26,
+      "top_high_risk_vendors": [
+        {
+          "vendor_id": "VEN00990",
+          "vendor_name": "HCL Datacenter Technologies",
+          "risk_score": 67.36,
+          "risk_tier": "HIGH \u2013 REQUIRES VERIFICATION",
+          "rejected_invoices": 2,
+          "duplicate_invoices": 2,
+          "late_bills": 2,
+          "anomaly_tx_count": 3,
+          "recommended_action": "Mandatory manual verification of pending invoices and vendor documentation prior to payment authorization."
+        },
+        {
+          "vendor_id": "VEN01522",
+          "vendor_name": "Cognizant Express Cargo",
+          "risk_score": 64.14,
+          "risk_tier": "HIGH \u2013 REQUIRES VERIFICATION",
+          "rejected_invoices": 2,
+          "duplicate_invoices": 2,
+          "late_bills": 2,
+          "anomaly_tx_count": 0,
+          "recommended_action": "Mandatory manual verification of pending invoices and vendor documentation prior to payment authorization."
+        },
+        {
+          "vendor_id": "VEN01527",
+          "vendor_name": "Nexus Express Cargo",
+          "risk_score": 59.31,
+          "risk_tier": "HIGH \u2013 REQUIRES VERIFICATION",
+          "rejected_invoices": 1,
+          "duplicate_invoices": 1,
+          "late_bills": 1,
+          "anomaly_tx_count": 1,
+          "recommended_action": "Mandatory manual verification of pending invoices and vendor documentation prior to payment authorization."
+        },
+        {
+          "vendor_id": "VEN01678",
+          "vendor_name": "Mindtree Digital Workspace Tech",
+          "risk_score": 59.19,
+          "risk_tier": "HIGH \u2013 REQUIRES VERIFICATION",
+          "rejected_invoices": 1,
+          "duplicate_invoices": 1,
+          "late_bills": 1,
+          "anomaly_tx_count": 1,
+          "recommended_action": "Mandatory manual verification of pending invoices and vendor documentation prior to payment authorization."
+        },
+        {
+          "vendor_id": "VEN00522",
+          "vendor_name": "Godrej Talent Solutions Ltd",
+          "risk_score": 58.8,
+          "risk_tier": "HIGH \u2013 REQUIRES VERIFICATION",
+          "rejected_invoices": 1,
+          "duplicate_invoices": 1,
+          "late_bills": 1,
+          "anomaly_tx_count": 1,
+          "recommended_action": "Mandatory manual verification of pending invoices and vendor documentation prior to payment authorization."
+        }
+      ]
+    }
+  },
+  "data_leakage_safeguards": {
+    "model_d_budget": [
+      "final_actual_amount strictly excluded from input features",
+      "final_utilization_pct strictly excluded from input features",
+      "is_overspent_final strictly excluded from input features",
+      "Historical department stats computed only from pre-test periods"
+    ],
+    "model_e_duplicate": [
+      "rejection_reason strictly excluded from feature pipeline",
+      "invoice_status strictly excluded from feature pipeline"
+    ],
+    "model_e_payment": [
+      "payment_status strictly excluded from feature pipeline",
+      "payment_date strictly excluded from feature pipeline",
+      "Vendor historical late rate computed chronologically prior to bill_date"
+    ]
+  },
+  "synthetic_stress_test_partition": {
+    "period": "2026-11-14 to 2026-12-31",
+    "handling": "Strictly separated from historical training and holdout test evaluation"
+  }
+}

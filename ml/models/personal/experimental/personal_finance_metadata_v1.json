@@ -1,0 +1,46 @@
+{
+  "model_bundle_name": "personal_finance_bundle_v1_candidate",
+  "governance_classification": "EXPERIMENTAL_SYNTHETIC_DATA_ONLY",
+  "is_production_approved": false,
+  "dataset_sha256": "11cf2d14da863707a7b69406582ef51d18d5d46c73e153a7b6c0f9ea5105e243",
+  "bundle_sha256": "81b7f350f46de0bd98941451ae628c5afbc3702b85ceff85c9f4ed41877cd9a0",
+  "created_at_utc": "2026-11-17T04:49:24Z",
+  "scikit_learn_version": "1.5.2",
+  "income_classifier": {
+    "classes": [
+      "Consulting",
+      "Investment & Yield",
+      "Retainer"
+    ],
+    "test_accuracy": 1.0,
+    "test_macro_f1": 1.0,
+    "test_latency_ms": 0.004161403508771871,
+    "brier_score": 2.794111173331593e-06,
+    "ece": 0.0012043138610889903
+  },
+  "expense_classifier": {
+    "classes": [
+      "General",
+      "Infrastructure & Cloud",
+      "Legal & Compliance",
+      "Office Rent",
+      "Operations & Travel",
+      "Payroll & Salaries",
+      "Software Subscription",
+      "Utilities & Bills"
+    ],
+    "test_accuracy": 1.0,
+    "test_macro_f1": 1.0,
+    "test_latency_ms": 0.004764839254386051,
+    "brier_score": 0.04589055916120222,
+    "ece": 0.1569324334299011
+  },
+  "reconciliation_counts": {
+    "total_raw_rows": 29996,
+    "excluded_general_income": 1424,
+    "train_filtered": 18951,
+    "val_filtered": 2706,
+    "test_filtered": 5415,
+    "challenge_test_count": 300
+  }
+}
